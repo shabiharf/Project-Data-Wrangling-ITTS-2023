@@ -1,0 +1,4654 @@
+Education;JoiningYear;City;PaymentTier (1: HIGHEST 2: MID LEVEL 3:LOWEST);Salary;Age;Gender;ExperienceInCurrentField;LeaveOrNot
+Bachelors;2017;Bangalore;3;467;34;Male;0;0
+Bachelors;2013;Pune;1;741;28;Female;3;1
+Bachelors;2014;New Delhi;3;412;38;Female;2;0
+Masters;2016;Bangalore;3;417;27;Male;5;1
+Masters;2017;Pune;3;329;24;Male;2;1
+Bachelors;2016;Bangalore;3;565;22;Male;0;0
+Bachelors;2015;New Delhi;3;533;38;Male;0;0
+Bachelors;2016;Bangalore;3;496;34;Female;2;1
+Bachelors;2016;Pune;3;420;23;Male;1;0
+Masters;2017;New Delhi;2;577;37;Male;2;0
+Masters;2012;Bangalore;3;374;27;Male;5;1
+Bachelors;2016;Pune;3;574;34;Male;3;0
+Bachelors;2018;Pune;3;303;32;Male;5;1
+Bachelors;2016;Bangalore;3;516;39;Male;2;0
+Bachelors;2012;Bangalore;3;311;37;Male;4;0
+Bachelors;2017;Bangalore;1;842;29;Male;3;0
+Bachelors;2014;Bangalore;3;540;34;Female;2;0
+Bachelors;2014;Pune;3;485;34;Male;4;0
+Bachelors;2015;Pune;2;641;30;Female;0;1
+Bachelors;2016;New Delhi;2;649;22;Female;0;1
+Bachelors;2012;Bangalore;3;347;37;Male;0;0
+Masters;2017;New Delhi;2;622;28;Male;4;0
+Bachelors;2017;New Delhi;2;665;36;Male;3;0
+Bachelors;2015;Bangalore;3;407;27;Male;5;0
+Bachelors;2017;Bangalore;3;499;29;Male;4;0
+Bachelors;2013;Bangalore;3;503;22;Female;0;0
+Bachelors;2016;Bangalore;3;430;37;Male;2;0
+Bachelors;2015;Bangalore;3;338;23;Male;1;0
+Bachelors;2013;Pune;2;513;31;Female;2;1
+Masters;2017;New Delhi;2;663;30;Female;2;0
+PHD;2013;New Delhi;3;489;25;Male;3;0
+Bachelors;2014;Bangalore;3;467;23;Male;1;0
+Bachelors;2018;Bangalore;3;488;26;Male;4;1
+Bachelors;2016;Bangalore;3;501;40;Male;5;0
+Bachelors;2017;Pune;2;628;37;Female;0;1
+Bachelors;2014;Bangalore;1;837;30;Female;3;0
+Bachelors;2012;New Delhi;3;351;29;Male;3;0
+Bachelors;2018;New Delhi;2;745;34;Female;0;1
+Bachelors;2017;Pune;2;752;29;Female;2;1
+Bachelors;2014;Pune;3;406;30;Male;4;0
+Bachelors;2015;Bangalore;3;577;36;Male;1;0
+Masters;2017;New Delhi;2;710;23;Male;1;0
+Bachelors;2013;Bangalore;3;502;30;Male;3;1
+Bachelors;2014;Bangalore;3;589;36;Male;0;0
+Bachelors;2015;Pune;3;595;39;Male;4;0
+Bachelors;2014;Bangalore;3;589;23;Female;1;0
+PHD;2012;New Delhi;3;565;27;Male;5;0
+Masters;2013;New Delhi;3;495;35;Male;2;0
+Masters;2017;New Delhi;2;531;34;Male;0;0
+Bachelors;2013;Bangalore;3;584;30;Female;1;0
+PHD;2017;New Delhi;3;487;34;Male;2;0
+Bachelors;2015;Pune;2;704;26;Female;4;1
+Bachelors;2016;Bangalore;3;391;34;Female;0;0
+Bachelors;2014;Bangalore;3;473;31;Female;5;0
+Bachelors;2017;New Delhi;3;584;31;Female;5;0
+PHD;2013;New Delhi;3;412;28;Male;2;0
+Bachelors;2016;Bangalore;3;541;38;Male;2;0
+Masters;2014;Pune;3;321;39;Female;2;0
+Bachelors;2013;Pune;3;397;32;Male;4;0
+Masters;2017;Pune;2;585;36;Male;2;1
+Masters;2013;New Delhi;3;533;29;Male;3;0
+Bachelors;2015;Bangalore;3;499;30;Male;5;0
+PHD;2013;Bangalore;2;548;25;Male;3;1
+Bachelors;2014;Pune;1;809;22;Female;0;1
+Bachelors;2016;Bangalore;3;368;34;Male;4;0
+Bachelors;2018;Bangalore;3;389;40;Male;1;1
+PHD;2013;Bangalore;3;574;26;Male;4;0
+Bachelors;2014;New Delhi;3;383;28;Male;0;0
+Bachelors;2015;Bangalore;3;467;24;Female;2;0
+Masters;2017;Bangalore;3;313;40;Female;2;1
+Bachelors;2018;Bangalore;3;354;23;Female;1;1
+Masters;2017;Bangalore;3;414;31;Male;4;0
+Bachelors;2014;Pune;3;472;25;Female;3;0
+Bachelors;2014;Bangalore;1;815;27;Male;5;0
+Masters;2017;New Delhi;2;620;25;Female;3;1
+Bachelors;2015;Bangalore;3;523;40;Male;0;1
+Bachelors;2014;Bangalore;1;749;23;Female;1;0
+Bachelors;2017;Bangalore;3;592;23;Female;1;0
+Bachelors;2012;Bangalore;3;581;39;Male;1;0
+PHD;2015;New Delhi;1;842;37;Male;1;0
+Bachelors;2017;Pune;3;469;38;Male;2;0
+Bachelors;2013;Bangalore;3;493;31;Female;0;1
+Bachelors;2016;Bangalore;3;420;38;Male;5;0
+Bachelors;2017;Bangalore;3;309;25;Female;3;0
+Bachelors;2015;Bangalore;3;439;27;Female;5;1
+Bachelors;2016;Pune;2;735;36;Male;0;1
+Bachelors;2017;Pune;2;735;27;Female;5;1
+Masters;2015;Pune;2;542;32;Female;4;0
+Bachelors;2014;Bangalore;3;528;28;Male;4;0
+Masters;2012;New Delhi;3;434;32;Male;2;0
+Bachelors;2018;Bangalore;3;437;30;Male;0;1
+Bachelors;2015;New Delhi;3;363;22;Male;0;0
+Bachelors;2017;New Delhi;2;539;34;Female;5;0
+Masters;2013;New Delhi;3;350;36;Male;2;0
+Bachelors;2014;Bangalore;3;509;39;Male;3;1
+PHD;2018;Bangalore;3;374;26;Male;4;1
+Bachelors;2016;Bangalore;3;386;31;Female;0;0
+Bachelors;2014;Bangalore;3;436;27;Male;5;1
+Bachelors;2014;Bangalore;3;513;29;Female;0;0
+Bachelors;2015;Bangalore;3;523;24;Female;2;1
+Masters;2012;Pune;3;425;25;Male;3;1
+Bachelors;2013;Pune;3;584;25;Male;3;0
+Masters;2017;New Delhi;3;529;26;Female;4;1
+Bachelors;2015;Pune;2;649;28;Female;1;1
+Bachelors;2017;New Delhi;3;301;28;Male;2;0
+Masters;2015;Pune;1;714;28;Female;3;1
+Masters;2015;New Delhi;3;419;25;Male;3;0
+Bachelors;2017;Bangalore;3;491;28;Male;1;0
+Masters;2013;Pune;3;371;25;Male;3;0
+Bachelors;2015;Bangalore;2;616;25;Female;3;1
+Bachelors;2015;Bangalore;3;527;27;Female;5;0
+Bachelors;2017;Pune;2;748;27;Female;5;1
+Bachelors;2013;Bangalore;3;375;27;Male;5;1
+Bachelors;2012;Bangalore;3;515;25;Male;3;0
+Masters;2017;New Delhi;2;571;28;Male;2;0
+Bachelors;2014;Pune;1;705;26;Female;4;1
+Bachelors;2015;Bangalore;3;412;28;Male;2;0
+Masters;2013;New Delhi;3;361;26;Male;4;0
+Bachelors;2017;Bangalore;3;581;26;Female;4;0
+Bachelors;2017;New Delhi;2;785;25;Male;3;0
+Bachelors;2012;Bangalore;1;710;28;Female;3;0
+PHD;2015;New Delhi;3;355;26;Male;4;0
+Bachelors;2015;New Delhi;3;428;25;Female;3;0
+Bachelors;2012;Bangalore;3;494;26;Male;4;1
+Bachelors;2014;Bangalore;3;380;28;Female;3;0
+Masters;2014;Pune;3;402;24;Male;2;0
+Bachelors;2013;Bangalore;3;500;28;Male;1;0
+Bachelors;2015;Pune;3;537;27;Male;5;0
+Bachelors;2018;Bangalore;3;503;25;Male;3;1
+Masters;2013;Pune;1;724;24;Male;2;1
+Bachelors;2017;Bangalore;3;544;26;Female;4;0
+Bachelors;2013;Bangalore;3;326;28;Male;1;1
+Masters;2016;New Delhi;3;349;27;Male;5;0
+Masters;2017;Bangalore;3;415;26;Male;4;0
+Masters;2017;New Delhi;2;651;24;Male;2;0
+Masters;2018;New Delhi;3;579;26;Male;4;1
+Masters;2017;New Delhi;1;879;25;Female;3;1
+Bachelors;2012;Pune;3;484;28;Male;2;0
+Bachelors;2017;New Delhi;3;355;28;Male;2;0
+Bachelors;2013;Bangalore;3;337;26;Male;4;0
+Masters;2013;New Delhi;3;581;27;Male;5;1
+Bachelors;2017;Pune;2;614;24;Female;2;1
+Bachelors;2017;New Delhi;3;316;28;Female;2;0
+Bachelors;2016;Bangalore;3;575;26;Male;4;0
+Bachelors;2013;Bangalore;3;465;27;Female;5;0
+Masters;2015;Pune;2;719;28;Female;3;0
+Bachelors;2014;Bangalore;3;377;25;Male;3;0
+Bachelors;2016;Pune;3;338;28;Male;1;0
+Masters;2013;Bangalore;1;784;25;Male;3;1
+Bachelors;2015;Pune;3;547;26;Male;4;0
+Bachelors;2018;New Delhi;3;382;27;Female;5;1
+Bachelors;2016;Bangalore;3;429;24;Male;2;1
+Bachelors;2012;Pune;2;526;24;Female;2;1
+Bachelors;2014;Bangalore;3;527;26;Male;4;0
+Bachelors;2016;Pune;2;508;24;Female;2;1
+Masters;2012;New Delhi;3;449;26;Female;4;0
+Bachelors;2013;Bangalore;3;431;28;Female;3;0
+Bachelors;2012;Bangalore;3;322;24;Male;2;1
+Bachelors;2015;Bangalore;3;592;25;Male;3;1
+Bachelors;2016;Bangalore;3;410;28;Male;3;0
+Bachelors;2014;Bangalore;3;510;28;Female;3;0
+Bachelors;2013;Bangalore;3;356;26;Female;4;0
+Masters;2017;New Delhi;3;484;24;Female;2;1
+Bachelors;2016;Bangalore;3;495;25;Male;3;1
+Bachelors;2015;Bangalore;3;454;25;Male;3;0
+Bachelors;2014;Bangalore;3;599;27;Male;5;0
+Bachelors;2012;Bangalore;3;551;24;Male;2;0
+Bachelors;2014;Bangalore;3;521;25;Male;3;0
+Bachelors;2015;Bangalore;3;342;28;Male;3;0
+Masters;2015;New Delhi;3;366;26;Male;4;1
+Bachelors;2014;New Delhi;3;420;28;Female;1;0
+Bachelors;2015;Pune;3;452;25;Male;3;0
+Masters;2015;Pune;2;543;28;Female;2;0
+Bachelors;2014;Bangalore;3;428;27;Female;5;0
+Bachelors;2013;Bangalore;3;512;26;Male;4;0
+Bachelors;2016;Bangalore;3;311;26;Male;4;0
+Bachelors;2012;Bangalore;3;458;25;Male;3;0
+Bachelors;2015;Bangalore;3;490;25;Male;3;0
+Bachelors;2014;New Delhi;3;455;24;Female;2;0
+Bachelors;2012;Bangalore;3;367;27;Male;5;1
+Masters;2017;New Delhi;3;315;27;Male;5;1
+Bachelors;2015;Pune;3;564;27;Male;5;0
+Bachelors;2018;Bangalore;3;563;24;Male;2;1
+Masters;2017;New Delhi;3;481;27;Male;5;1
+Masters;2017;New Delhi;2;620;28;Female;1;1
+Masters;2017;Pune;2;744;24;Male;2;1
+Masters;2016;New Delhi;3;359;25;Female;3;1
+PHD;2015;New Delhi;3;461;28;Female;1;0
+Bachelors;2017;New Delhi;2;640;26;Male;4;0
+Bachelors;2013;Bangalore;2;619;27;Male;5;0
+Bachelors;2015;Bangalore;3;336;26;Male;4;0
+Bachelors;2015;Bangalore;3;302;26;Male;4;0
+Bachelors;2013;Bangalore;3;496;28;Male;1;0
+Bachelors;2015;Bangalore;3;360;27;Female;5;0
+Bachelors;2013;New Delhi;3;310;25;Female;3;0
+Bachelors;2013;Pune;3;360;28;Male;1;0
+Bachelors;2017;Pune;3;506;24;Male;2;0
+Bachelors;2013;New Delhi;3;559;27;Female;5;0
+Bachelors;2015;Bangalore;3;310;28;Male;2;0
+Bachelors;2015;Pune;3;515;28;Male;3;0
+Bachelors;2014;Pune;2;556;25;Female;3;1
+Bachelors;2014;Bangalore;3;504;25;Male;3;0
+Bachelors;2017;Bangalore;3;585;27;Male;5;0
+Bachelors;2014;Pune;2;544;26;Female;4;1
+PHD;2013;New Delhi;3;337;24;Male;2;0
+Bachelors;2015;Pune;2;502;26;Female;4;1
+Bachelors;2017;Bangalore;3;394;25;Male;3;0
+Masters;2013;Pune;2;610;27;Male;5;1
+Masters;2017;Bangalore;3;485;28;Male;2;0
+Bachelors;2012;Bangalore;3;435;25;Male;3;1
+Bachelors;2017;Bangalore;3;574;27;Male;5;0
+Masters;2017;Pune;2;657;27;Female;5;0
+Masters;2013;Bangalore;2;705;28;Female;2;1
+Masters;2017;Pune;3;331;28;Male;1;1
+Bachelors;2018;Bangalore;3;520;27;Female;5;1
+Bachelors;2014;New Delhi;3;393;25;Female;3;0
+Masters;2017;New Delhi;3;499;27;Male;5;1
+Masters;2013;New Delhi;3;369;26;Male;4;1
+Bachelors;2013;Pune;2;713;25;Female;3;1
+Masters;2012;New Delhi;3;457;26;Male;4;1
+Bachelors;2016;Bangalore;3;419;25;Male;3;1
+Bachelors;2013;Pune;2;726;26;Male;4;0
+Bachelors;2018;Bangalore;3;537;28;Female;2;1
+Bachelors;2013;Bangalore;3;367;27;Male;5;0
+Bachelors;2015;Pune;1;772;24;Female;2;1
+Bachelors;2013;Pune;3;501;28;Male;2;0
+Bachelors;2015;Pune;2;727;27;Female;5;1
+Bachelors;2018;Bangalore;3;502;25;Male;3;1
+Bachelors;2014;Pune;2;514;27;Female;5;1
+Bachelors;2013;Pune;3;572;24;Male;2;0
+Bachelors;2014;Pune;3;312;24;Male;2;0
+PHD;2015;New Delhi;2;664;25;Female;3;0
+Bachelors;2014;Bangalore;3;531;26;Male;4;0
+Bachelors;2018;Bangalore;3;406;24;Male;2;1
+Masters;2015;Pune;2;690;25;Female;3;0
+Bachelors;2015;Bangalore;3;357;24;Male;2;0
+Bachelors;2014;New Delhi;3;508;24;Female;2;0
+Masters;2017;Bangalore;2;569;26;Female;4;1
+Bachelors;2012;New Delhi;3;407;28;Male;1;0
+Masters;2017;Pune;2;545;26;Female;4;0
+Bachelors;2016;Pune;3;506;25;Male;3;0
+Bachelors;2017;New Delhi;3;304;24;Male;2;1
+Bachelors;2013;Pune;2;599;28;Female;3;1
+Bachelors;2014;Bangalore;3;347;25;Female;3;1
+Bachelors;2014;Bangalore;3;510;25;Male;3;0
+Bachelors;2014;Pune;2;794;24;Female;2;1
+Bachelors;2015;Bangalore;3;475;28;Male;2;1
+Bachelors;2015;Bangalore;3;464;27;Male;5;0
+Bachelors;2016;Pune;3;493;26;Male;4;0
+Masters;2015;New Delhi;3;553;26;Female;4;1
+Bachelors;2016;Bangalore;1;835;28;Female;2;0
+Bachelors;2014;Bangalore;3;406;25;Male;3;0
+Bachelors;2014;Bangalore;3;577;27;Male;5;0
+Bachelors;2017;Bangalore;3;483;28;Male;2;0
+Masters;2018;New Delhi;3;534;24;Female;2;1
+Bachelors;2017;Pune;2;765;25;Male;3;0
+Bachelors;2018;Pune;2;577;24;Female;2;1
+Masters;2017;New Delhi;2;693;28;Female;1;0
+Bachelors;2013;New Delhi;1;785;27;Female;5;0
+Bachelors;2017;New Delhi;2;762;27;Female;5;0
+Bachelors;2017;Bangalore;3;439;28;Male;1;0
+Bachelors;2016;Pune;2;652;27;Female;5;1
+Masters;2018;Bangalore;3;521;24;Male;2;1
+Bachelors;2012;Pune;1;835;26;Male;4;0
+Bachelors;2016;Bangalore;3;525;26;Male;4;0
+Masters;2016;New Delhi;1;750;27;Male;5;0
+Bachelors;2015;New Delhi;3;460;26;Female;4;0
+Bachelors;2012;Bangalore;3;584;27;Male;5;0
+Bachelors;2013;Bangalore;3;317;24;Male;2;1
+Bachelors;2018;Bangalore;3;454;26;Female;4;1
+Masters;2017;Pune;2;725;26;Female;4;1
+Masters;2017;New Delhi;2;540;28;Female;2;0
+Bachelors;2013;Pune;3;580;28;Male;1;0
+Masters;2013;New Delhi;3;316;25;Male;3;0
+Bachelors;2018;Bangalore;3;467;28;Female;1;1
+Bachelors;2013;Pune;3;539;27;Female;5;1
+Bachelors;2012;Bangalore;3;460;25;Male;3;0
+Bachelors;2014;Bangalore;3;364;28;Male;1;0
+Bachelors;2017;New Delhi;3;399;28;Female;3;0
+Masters;2017;New Delhi;2;594;28;Male;2;0
+Bachelors;2014;Bangalore;3;375;25;Male;3;0
+Masters;2017;New Delhi;3;382;26;Male;4;0
+Bachelors;2015;Pune;1;702;25;Female;3;1
+Masters;2013;New Delhi;3;443;27;Male;5;0
+PHD;2014;Bangalore;3;542;24;Female;2;0
+Masters;2017;New Delhi;2;621;27;Female;5;0
+Bachelors;2018;Bangalore;3;478;26;Male;4;1
+Bachelors;2012;Bangalore;3;458;26;Male;4;0
+Masters;2015;Pune;3;373;27;Female;5;1
+Bachelors;2018;Bangalore;3;467;26;Male;4;1
+Bachelors;2016;Bangalore;3;430;24;Male;2;0
+Masters;2017;New Delhi;2;617;25;Female;3;0
+Bachelors;2017;New Delhi;2;677;28;Male;1;0
+Bachelors;2012;New Delhi;3;438;27;Female;5;0
+Masters;2013;New Delhi;3;594;26;Male;4;1
+Bachelors;2015;Bangalore;3;485;26;Female;4;1
+Bachelors;2014;Pune;3;538;28;Male;2;0
+Bachelors;2016;Bangalore;3;424;24;Female;2;1
+Bachelors;2012;Bangalore;3;458;28;Male;3;0
+Bachelors;2012;Bangalore;3;369;27;Male;5;0
+Bachelors;2013;Bangalore;3;463;26;Male;4;0
+Bachelors;2014;New Delhi;3;474;28;Female;1;0
+Bachelors;2014;New Delhi;3;306;27;Female;5;0
+Bachelors;2015;Pune;3;504;26;Female;4;1
+Masters;2014;New Delhi;3;383;26;Male;4;1
+PHD;2015;New Delhi;3;336;25;Female;3;0
+Masters;2015;New Delhi;3;413;25;Male;3;0
+Bachelors;2012;Pune;3;318;27;Male;5;0
+Masters;2017;New Delhi;2;574;24;Female;2;0
+Bachelors;2016;Bangalore;3;537;24;Male;2;0
+Masters;2015;Pune;3;564;28;Female;2;0
+Bachelors;2017;Bangalore;3;318;24;Female;2;0
+Bachelors;2017;Pune;3;596;25;Male;3;0
+Bachelors;2017;Bangalore;1;736;25;Male;3;0
+Masters;2015;Pune;3;546;28;Female;2;0
+Bachelors;2017;Pune;3;420;26;Male;4;0
+Bachelors;2014;Pune;3;552;24;Male;2;0
+Bachelors;2014;Pune;3;436;25;Female;3;1
+Bachelors;2018;Pune;3;399;26;Female;4;1
+Bachelors;2016;Bangalore;3;403;27;Male;5;0
+Bachelors;2017;Bangalore;3;591;28;Female;2;0
+Bachelors;2012;Pune;3;478;28;Male;2;0
+Masters;2012;New Delhi;3;395;24;Female;2;1
+Bachelors;2013;Bangalore;3;396;26;Male;4;0
+Bachelors;2015;New Delhi;3;481;26;Female;4;0
+Bachelors;2017;Bangalore;3;429;28;Male;1;0
+Bachelors;2018;Pune;3;300;25;Male;3;1
+Masters;2017;New Delhi;3;588;24;Male;2;0
+Bachelors;2013;Bangalore;3;420;28;Male;2;1
+Bachelors;2017;Bangalore;3;590;24;Male;2;0
+Masters;2017;New Delhi;2;665;25;Female;3;1
+Bachelors;2013;Pune;2;736;28;Female;1;1
+Bachelors;2015;Bangalore;3;504;24;Female;2;0
+Bachelors;2016;Pune;3;598;26;Male;4;0
+Bachelors;2015;New Delhi;2;550;27;Female;5;1
+Bachelors;2018;Bangalore;3;375;24;Female;2;1
+Bachelors;2013;Bangalore;3;385;27;Female;5;0
+Bachelors;2013;Bangalore;3;373;24;Male;2;0
+Bachelors;2013;Bangalore;3;304;24;Female;2;0
+Bachelors;2013;Bangalore;3;319;27;Male;5;0
+Bachelors;2017;Bangalore;3;305;26;Female;4;0
+Bachelors;2015;Bangalore;3;337;24;Female;2;0
+Bachelors;2012;Pune;3;435;24;Female;2;1
+Bachelors;2016;Bangalore;3;370;24;Male;2;1
+Bachelors;2012;Bangalore;3;366;28;Male;3;0
+Bachelors;2017;New Delhi;2;622;27;Male;5;0
+Bachelors;2012;Pune;2;776;27;Female;5;1
+Masters;2017;Pune;2;553;27;Male;5;0
+Bachelors;2017;Pune;2;758;24;Male;2;1
+Bachelors;2016;Pune;1;709;26;Female;4;1
+Bachelors;2015;Pune;3;570;26;Female;4;1
+Bachelors;2016;Bangalore;3;485;25;Male;3;1
+Bachelors;2012;Pune;3;314;26;Male;4;0
+Bachelors;2017;Bangalore;3;456;28;Male;2;0
+Bachelors;2012;Bangalore;3;574;25;Male;3;0
+Bachelors;2017;Bangalore;3;498;25;Female;3;0
+Masters;2017;Pune;2;553;26;Male;4;0
+Masters;2017;Pune;3;437;28;Male;1;1
+Masters;2015;Pune;2;779;25;Female;3;1
+Bachelors;2017;New Delhi;2;712;26;Female;4;0
+Bachelors;2017;New Delhi;2;517;26;Male;4;0
+Bachelors;2016;Bangalore;3;487;27;Male;5;0
+Bachelors;2017;New Delhi;3;337;27;Female;5;0
+Bachelors;2015;New Delhi;3;569;24;Female;2;0
+Masters;2017;Bangalore;1;730;26;Female;4;1
+Bachelors;2017;New Delhi;1;898;28;Female;2;0
+Bachelors;2015;Bangalore;3;435;24;Male;2;0
+Masters;2015;Pune;2;752;25;Female;3;1
+Bachelors;2014;Bangalore;3;376;25;Female;3;0
+Bachelors;2014;Bangalore;3;423;28;Male;2;0
+Bachelors;2017;Bangalore;3;555;28;Male;3;0
+Masters;2015;New Delhi;1;802;27;Male;5;0
+Bachelors;2014;Pune;1;773;26;Female;4;1
+Masters;2018;Bangalore;3;422;25;Male;3;1
+Bachelors;2016;Bangalore;3;427;28;Female;3;0
+Bachelors;2018;New Delhi;3;499;26;Female;4;1
+Bachelors;2015;Pune;2;598;24;Female;2;1
+Bachelors;2017;Bangalore;3;397;27;Male;5;0
+Bachelors;2014;Bangalore;3;528;26;Male;4;0
+Bachelors;2014;Bangalore;3;596;24;Male;2;0
+Bachelors;2016;Bangalore;3;479;28;Male;2;0
+Bachelors;2015;Pune;2;611;25;Female;3;1
+Bachelors;2013;Pune;3;556;27;Male;5;0
+Bachelors;2015;Bangalore;3;573;28;Male;3;0
+Bachelors;2014;Bangalore;3;445;26;Male;4;0
+Bachelors;2012;Bangalore;3;359;24;Male;2;0
+Bachelors;2013;Bangalore;3;482;27;Male;5;0
+Bachelors;2015;Bangalore;3;570;26;Female;4;1
+Bachelors;2015;Pune;3;507;28;Male;2;0
+Bachelors;2014;New Delhi;2;536;24;Female;2;1
+Bachelors;2013;Bangalore;3;582;24;Male;2;0
+Bachelors;2018;Bangalore;3;478;28;Male;3;1
+Bachelors;2015;Pune;3;465;27;Male;5;0
+Bachelors;2014;Pune;2;533;26;Male;4;0
+Bachelors;2016;Bangalore;3;309;25;Male;3;1
+PHD;2013;Bangalore;3;447;25;Male;3;0
+Bachelors;2014;Bangalore;3;339;25;Male;3;0
+Bachelors;2017;New Delhi;2;752;28;Female;1;0
+Bachelors;2015;Pune;1;854;26;Female;4;1
+Masters;2017;New Delhi;3;599;26;Male;4;1
+Bachelors;2014;Bangalore;3;428;27;Male;5;0
+Bachelors;2012;New Delhi;3;391;24;Female;2;0
+Bachelors;2017;New Delhi;2;688;24;Male;2;0
+Bachelors;2015;Bangalore;3;416;26;Male;4;0
+Bachelors;2012;Bangalore;3;561;26;Female;4;0
+Bachelors;2015;Bangalore;3;361;24;Male;2;0
+Masters;2014;Pune;3;345;25;Male;3;0
+Bachelors;2015;Bangalore;3;351;28;Male;2;0
+Bachelors;2016;Pune;3;417;24;Male;2;0
+Bachelors;2016;Bangalore;3;567;26;Female;4;0
+Bachelors;2015;Pune;2;763;25;Female;3;1
+Masters;2013;New Delhi;2;783;25;Male;3;1
+Bachelors;2017;Pune;3;432;25;Male;3;0
+Bachelors;2015;Pune;2;521;26;Female;4;1
+Masters;2015;Bangalore;2;701;26;Female;4;1
+Bachelors;2012;Pune;3;425;27;Female;5;0
+Masters;2017;New Delhi;3;532;28;Male;2;0
+Bachelors;2016;Pune;3;512;25;Male;3;0
+Bachelors;2016;Bangalore;3;567;24;Male;2;0
+Bachelors;2016;Pune;3;337;28;Male;1;0
+Bachelors;2013;New Delhi;3;414;27;Female;5;0
+Bachelors;2015;New Delhi;3;432;26;Male;4;0
+Bachelors;2016;Bangalore;3;372;27;Male;5;0
+Bachelors;2017;Pune;2;543;27;Male;5;0
+Bachelors;2012;Bangalore;3;542;27;Male;5;0
+PHD;2018;New Delhi;3;370;25;Male;3;1
+Bachelors;2014;Pune;3;559;27;Male;5;0
+Bachelors;2013;Bangalore;3;488;26;Female;4;0
+Masters;2017;Pune;2;527;24;Female;2;1
+PHD;2016;New Delhi;2;649;28;Male;3;1
+Masters;2014;New Delhi;3;460;26;Male;4;1
+Masters;2017;New Delhi;2;656;27;Male;5;1
+PHD;2013;New Delhi;3;365;27;Male;5;0
+Masters;2014;New Delhi;3;338;28;Female;1;0
+Bachelors;2017;Pune;3;515;27;Male;5;0
+Bachelors;2015;Pune;3;462;26;Female;4;1
+Masters;2014;Bangalore;3;581;26;Male;4;1
+Masters;2012;Pune;3;596;27;Male;5;0
+Bachelors;2017;Bangalore;3;434;26;Male;4;0
+Masters;2017;Pune;2;791;27;Male;5;1
+Bachelors;2017;Bangalore;3;404;27;Male;5;0
+Bachelors;2016;Bangalore;3;546;25;Male;3;1
+Bachelors;2016;Pune;3;504;27;Male;5;0
+Bachelors;2014;Pune;3;532;25;Male;3;0
+Bachelors;2017;Bangalore;3;548;28;Male;1;0
+Masters;2012;Pune;3;537;24;Male;2;0
+Bachelors;2014;Bangalore;3;313;25;Male;3;0
+Bachelors;2013;Pune;2;714;25;Male;3;1
+Bachelors;2012;Pune;3;499;27;Male;5;0
+Bachelors;2017;Bangalore;3;485;26;Male;4;0
+Bachelors;2013;Pune;3;444;26;Male;4;0
+Bachelors;2016;Bangalore;3;441;24;Male;2;0
+Bachelors;2014;Bangalore;3;427;25;Female;3;0
+Bachelors;2015;New Delhi;3;453;25;Male;3;0
+PHD;2012;Pune;3;364;24;Male;2;0
+Bachelors;2013;Bangalore;3;499;27;Male;5;0
+Bachelors;2015;Bangalore;3;409;25;Male;3;0
+Bachelors;2016;Bangalore;3;312;26;Male;4;0
+Masters;2015;New Delhi;3;582;24;Female;2;0
+Bachelors;2012;Bangalore;3;405;26;Male;4;0
+Bachelors;2013;Pune;3;418;24;Male;2;0
+Masters;2017;New Delhi;3;512;24;Male;2;1
+Bachelors;2014;Bangalore;1;850;25;Male;3;0
+Bachelors;2018;Bangalore;3;527;28;Male;1;1
+Bachelors;2017;Bangalore;3;363;28;Male;3;0
+Masters;2013;Bangalore;3;530;28;Female;2;1
+Bachelors;2013;Bangalore;3;339;26;Male;4;0
+Masters;2018;New Delhi;1;750;24;Male;2;1
+Bachelors;2012;Bangalore;3;549;25;Male;3;0
+PHD;2013;New Delhi;2;553;27;Female;5;0
+Masters;2018;New Delhi;3;390;28;Male;2;1
+Bachelors;2014;Bangalore;3;360;28;Male;3;1
+Bachelors;2014;Pune;3;525;27;Male;5;0
+Bachelors;2013;New Delhi;3;579;24;Female;2;1
+Bachelors;2015;Pune;2;734;28;Female;1;1
+Bachelors;2015;Pune;2;549;26;Female;4;1
+Bachelors;2017;New Delhi;2;644;28;Female;3;0
+Masters;2012;Pune;3;438;27;Female;5;1
+Masters;2017;Pune;3;448;25;Female;3;1
+Masters;2013;New Delhi;2;513;25;Male;3;1
+Masters;2017;New Delhi;2;576;27;Male;5;1
+Bachelors;2017;Bangalore;3;434;24;Male;2;0
+Bachelors;2016;Pune;2;543;24;Female;2;1
+Bachelors;2012;Bangalore;3;327;26;Female;4;0
+Bachelors;2012;Bangalore;3;571;24;Male;2;1
+Masters;2017;Pune;2;670;24;Male;2;0
+Bachelors;2015;Pune;2;798;25;Female;3;1
+Bachelors;2015;New Delhi;3;598;26;Female;4;0
+Bachelors;2013;Pune;2;521;24;Male;2;1
+Bachelors;2013;Pune;3;487;25;Male;3;0
+PHD;2015;New Delhi;2;629;28;Female;1;0
+Bachelors;2016;Pune;3;473;24;Male;2;0
+Bachelors;2017;Bangalore;3;595;24;Female;2;0
+Bachelors;2016;Bangalore;3;374;27;Male;5;0
+Bachelors;2017;Bangalore;3;588;25;Female;3;0
+Masters;2014;New Delhi;3;499;27;Male;5;0
+Bachelors;2016;Bangalore;3;470;27;Male;5;0
+Bachelors;2016;Bangalore;3;517;28;Female;3;0
+Bachelors;2018;Pune;3;428;25;Male;3;1
+Bachelors;2013;Bangalore;3;462;26;Male;4;1
+Bachelors;2015;New Delhi;3;454;25;Male;3;1
+Bachelors;2017;New Delhi;2;644;25;Female;3;1
+Bachelors;2012;Bangalore;3;543;25;Male;3;0
+Bachelors;2014;New Delhi;3;319;28;Female;2;0
+Bachelors;2017;New Delhi;2;570;27;Female;5;0
+Bachelors;2018;Pune;3;543;26;Male;4;1
+Masters;2014;New Delhi;3;468;28;Male;2;0
+Bachelors;2013;Bangalore;3;555;27;Male;5;1
+Masters;2017;Pune;3;504;25;Male;3;1
+Bachelors;2018;Bangalore;3;547;28;Male;2;1
+Bachelors;2016;Bangalore;3;554;24;Male;2;0
+Bachelors;2012;Bangalore;3;364;24;Male;2;0
+Bachelors;2015;Bangalore;3;585;28;Female;1;0
+Bachelors;2014;Bangalore;3;437;24;Male;2;0
+Bachelors;2013;Pune;3;525;27;Male;5;0
+Bachelors;2016;New Delhi;3;355;24;Female;2;0
+Bachelors;2012;Bangalore;3;332;25;Female;3;0
+Bachelors;2012;Pune;3;372;28;Male;3;0
+Bachelors;2018;Pune;3;477;25;Male;3;1
+Bachelors;2014;Bangalore;3;414;27;Male;5;1
+Bachelors;2016;Bangalore;3;549;27;Female;5;0
+Masters;2015;Pune;2;604;24;Female;2;0
+Masters;2014;Bangalore;3;366;24;Female;2;1
+Bachelors;2013;Bangalore;3;458;25;Male;3;0
+Masters;2017;New Delhi;3;594;24;Male;2;0
+Bachelors;2015;Bangalore;3;425;25;Male;3;0
+Bachelors;2017;Bangalore;3;400;24;Male;2;0
+Bachelors;2017;New Delhi;2;571;28;Male;3;0
+Bachelors;2016;Bangalore;3;503;28;Male;2;0
+PHD;2014;New Delhi;3;423;24;Male;2;0
+Masters;2017;New Delhi;2;642;26;Female;4;0
+Masters;2018;New Delhi;3;318;25;Male;3;1
+Bachelors;2014;Bangalore;3;584;28;Male;3;1
+Bachelors;2014;Bangalore;3;451;25;Male;3;1
+Bachelors;2018;New Delhi;3;333;28;Female;3;1
+Masters;2017;New Delhi;2;780;25;Male;3;1
+Masters;2013;New Delhi;3;319;28;Male;2;0
+Bachelors;2014;Bangalore;3;499;26;Male;4;0
+Masters;2017;New Delhi;2;541;25;Female;3;1
+Masters;2013;New Delhi;3;355;25;Female;3;0
+Bachelors;2016;Bangalore;3;367;25;Male;3;0
+Bachelors;2018;Bangalore;3;445;24;Male;2;1
+Masters;2017;New Delhi;2;673;26;Male;4;1
+Bachelors;2013;Bangalore;3;339;24;Male;2;0
+Bachelors;2013;Bangalore;3;323;28;Male;2;0
+Masters;2015;Pune;3;516;28;Female;2;0
+Bachelors;2015;Pune;2;727;27;Female;5;1
+Masters;2014;Pune;2;562;27;Female;5;0
+Bachelors;2017;New Delhi;2;647;27;Male;5;0
+Bachelors;2012;Bangalore;3;555;26;Male;4;0
+Masters;2015;Pune;1;706;27;Female;5;0
+Bachelors;2013;Bangalore;1;873;28;Male;3;1
+Bachelors;2012;Pune;2;760;26;Female;4;1
+Bachelors;2013;Bangalore;3;377;27;Male;5;0
+Masters;2017;New Delhi;2;676;25;Male;3;0
+Bachelors;2017;Bangalore;3;401;27;Male;5;0
+Bachelors;2012;Bangalore;3;429;24;Male;2;0
+Bachelors;2017;New Delhi;3;312;26;Male;4;0
+Bachelors;2014;Bangalore;3;582;28;Female;1;1
+Bachelors;2015;Bangalore;3;470;25;Male;3;0
+Bachelors;2015;Pune;2;506;28;Female;3;1
+Bachelors;2017;Bangalore;3;518;24;Female;2;0
+Bachelors;2016;Bangalore;3;497;27;Female;5;1
+Bachelors;2012;Bangalore;3;312;25;Male;3;0
+Masters;2018;Pune;3;336;25;Male;3;1
+Bachelors;2015;Pune;3;362;26;Male;4;0
+Bachelors;2014;Pune;3;499;26;Male;4;0
+PHD;2017;New Delhi;3;542;27;Male;5;0
+Bachelors;2012;Bangalore;3;341;26;Male;4;0
+Bachelors;2016;Bangalore;3;508;26;Male;4;0
+Bachelors;2017;New Delhi;3;373;28;Female;2;0
+Bachelors;2014;Pune;3;337;25;Female;3;0
+Bachelors;2013;Bangalore;3;347;28;Male;3;0
+Bachelors;2017;Bangalore;3;447;25;Male;3;0
+Bachelors;2018;Bangalore;3;470;27;Male;5;1
+Bachelors;2017;Bangalore;3;445;26;Male;4;0
+Bachelors;2017;Pune;2;602;25;Female;3;1
+Bachelors;2017;Pune;2;576;26;Female;4;1
+Bachelors;2015;Pune;3;480;28;Male;3;0
+Masters;2017;Pune;2;594;26;Male;4;1
+Masters;2015;New Delhi;3;474;28;Female;2;0
+Bachelors;2012;New Delhi;2;527;25;Male;3;1
+Bachelors;2016;Bangalore;3;492;25;Female;3;0
+Masters;2017;New Delhi;2;586;26;Female;4;0
+Bachelors;2014;Bangalore;3;441;25;Male;3;0
+Bachelors;2014;Bangalore;3;538;25;Male;3;1
+PHD;2018;Bangalore;3;343;26;Male;4;1
+Bachelors;2016;Pune;3;363;26;Male;4;0
+Bachelors;2014;Bangalore;3;540;27;Male;5;0
+Bachelors;2012;Bangalore;3;538;25;Male;3;0
+Masters;2012;Pune;2;800;26;Female;4;0
+Masters;2016;New Delhi;3;365;27;Male;5;1
+PHD;2017;Bangalore;3;464;28;Male;1;0
+Bachelors;2014;Bangalore;3;546;27;Male;5;0
+Bachelors;2018;Pune;3;531;26;Male;4;1
+Bachelors;2018;Bangalore;1;721;27;Male;5;0
+Bachelors;2016;Pune;3;590;24;Male;2;0
+Bachelors;2012;Bangalore;3;461;25;Male;3;0
+Bachelors;2017;Bangalore;3;316;27;Male;5;0
+Bachelors;2016;Bangalore;3;413;28;Male;2;0
+Bachelors;2017;New Delhi;2;774;27;Male;5;0
+Bachelors;2013;Bangalore;3;503;25;Male;3;0
+Bachelors;2013;Bangalore;3;335;28;Male;1;0
+Bachelors;2018;Bangalore;3;475;28;Female;3;1
+Bachelors;2016;Bangalore;3;581;27;Male;5;0
+Masters;2015;Pune;2;514;28;Female;3;0
+Masters;2015;New Delhi;3;482;24;Female;2;1
+Bachelors;2017;New Delhi;3;303;24;Male;2;0
+Bachelors;2015;Pune;2;550;24;Female;2;1
+Masters;2013;Pune;3;401;28;Male;2;1
+Bachelors;2017;Pune;3;466;27;Female;5;1
+Bachelors;2014;Pune;3;489;26;Male;4;0
+Bachelors;2016;Bangalore;3;526;26;Male;4;0
+Bachelors;2014;Pune;1;759;26;Female;4;1
+Bachelors;2015;Pune;3;425;28;Male;3;0
+Bachelors;2012;Bangalore;3;358;26;Male;4;0
+Bachelors;2017;New Delhi;2;759;26;Male;4;0
+Masters;2017;New Delhi;2;653;26;Female;4;0
+Bachelors;2016;Bangalore;3;306;26;Male;4;1
+Bachelors;2013;Bangalore;3;356;26;Male;4;0
+Bachelors;2014;Bangalore;3;536;28;Male;3;1
+Bachelors;2014;New Delhi;3;540;28;Female;3;0
+Bachelors;2014;Pune;3;521;25;Female;3;1
+Bachelors;2016;Pune;3;543;28;Male;3;0
+Masters;2017;Bangalore;3;472;27;Male;5;1
+Bachelors;2015;Bangalore;3;366;25;Male;3;0
+Bachelors;2014;Pune;3;355;27;Male;5;0
+Bachelors;2012;Pune;3;569;28;Male;3;0
+Masters;2017;Pune;3;306;26;Male;4;1
+Bachelors;2013;Bangalore;3;552;25;Male;3;0
+Bachelors;2015;Pune;2;748;28;Female;2;1
+PHD;2013;Bangalore;1;728;26;Male;4;0
+Masters;2012;Pune;3;413;27;Male;5;1
+Bachelors;2016;Bangalore;1;781;28;Male;2;0
+Bachelors;2017;Bangalore;3;418;27;Male;5;0
+Bachelors;2017;Bangalore;3;524;25;Male;3;0
+Masters;2017;New Delhi;2;625;24;Female;2;1
+Bachelors;2015;Bangalore;1;781;25;Female;3;0
+Bachelors;2018;Bangalore;3;321;27;Male;5;1
+Bachelors;2014;Bangalore;3;561;26;Male;4;0
+Bachelors;2018;Bangalore;3;468;26;Male;4;1
+Bachelors;2015;Pune;2;776;24;Female;2;1
+Bachelors;2018;Bangalore;3;515;27;Male;5;1
+Bachelors;2016;Bangalore;3;478;27;Female;5;0
+Masters;2016;New Delhi;3;429;25;Female;3;1
+Masters;2018;New Delhi;3;581;26;Male;4;1
+Bachelors;2018;Bangalore;3;403;24;Female;2;1
+Bachelors;2017;New Delhi;2;522;28;Male;3;0
+Bachelors;2015;Bangalore;3;338;27;Male;5;0
+Bachelors;2017;Bangalore;3;510;26;Male;4;0
+Bachelors;2016;Bangalore;3;355;25;Male;3;0
+Bachelors;2013;Pune;3;540;25;Male;3;0
+Bachelors;2015;Pune;3;503;25;Female;3;1
+Bachelors;2014;Bangalore;3;557;28;Female;3;0
+Bachelors;2015;Pune;3;429;24;Male;2;0
+Bachelors;2016;Bangalore;3;452;26;Female;4;0
+Bachelors;2018;Bangalore;1;740;25;Male;3;0
+Masters;2017;Pune;2;766;28;Female;1;0
+Bachelors;2014;Pune;2;589;25;Female;3;1
+Bachelors;2017;Bangalore;3;484;25;Male;3;0
+Bachelors;2016;Bangalore;3;359;28;Female;3;0
+Bachelors;2014;Bangalore;3;520;28;Female;2;0
+Masters;2017;New Delhi;2;798;28;Male;2;0
+Bachelors;2017;New Delhi;2;626;24;Female;2;0
+PHD;2013;New Delhi;2;636;25;Male;3;1
+Bachelors;2017;Bangalore;3;537;24;Male;2;0
+Bachelors;2017;Bangalore;3;327;26;Female;4;0
+Bachelors;2015;Bangalore;1;769;25;Male;3;0
+Bachelors;2016;Bangalore;3;300;26;Female;4;0
+PHD;2014;New Delhi;3;446;28;Male;2;1
+Masters;2018;New Delhi;3;453;27;Female;5;1
+Bachelors;2016;New Delhi;3;448;27;Female;5;0
+Masters;2017;New Delhi;2;783;25;Male;3;1
+Bachelors;2017;Bangalore;3;485;26;Male;4;0
+Bachelors;2016;New Delhi;3;323;27;Female;5;0
+Bachelors;2017;Pune;2;748;25;Female;3;1
+Bachelors;2018;Pune;3;331;28;Female;1;1
+Bachelors;2014;Bangalore;3;422;25;Female;3;1
+Bachelors;2018;Pune;3;515;28;Male;1;1
+Bachelors;2017;Bangalore;1;780;26;Female;4;0
+Bachelors;2013;Bangalore;3;417;24;Male;2;1
+Bachelors;2012;New Delhi;3;316;26;Female;4;0
+Bachelors;2012;Pune;3;563;25;Male;3;0
+Masters;2013;New Delhi;2;566;24;Male;2;1
+Bachelors;2018;Pune;3;372;26;Male;4;1
+Bachelors;2016;New Delhi;3;451;28;Female;2;0
+Bachelors;2016;Pune;3;437;26;Male;4;0
+Masters;2014;New Delhi;3;340;24;Male;2;0
+Bachelors;2013;Bangalore;3;326;26;Male;4;0
+Bachelors;2014;Pune;2;619;26;Female;4;1
+Bachelors;2014;Pune;3;508;25;Male;3;0
+Bachelors;2013;Pune;3;380;27;Male;5;0
+Bachelors;2018;Bangalore;3;588;27;Male;5;1
+Bachelors;2015;Bangalore;3;526;25;Female;3;1
+Bachelors;2016;Pune;3;597;26;Male;4;0
+Bachelors;2015;Pune;2;508;27;Female;5;1
+Bachelors;2017;Bangalore;3;595;26;Male;4;0
+Masters;2017;Pune;2;757;26;Female;4;0
+Bachelors;2017;New Delhi;3;445;27;Female;5;0
+Masters;2017;Pune;1;715;24;Male;2;0
+Masters;2017;New Delhi;2;629;26;Female;4;0
+Bachelors;2015;Bangalore;3;463;27;Male;5;0
+Bachelors;2015;Bangalore;3;526;26;Male;4;0
+Masters;2017;Pune;2;647;24;Male;2;1
+Bachelors;2017;Bangalore;3;434;26;Female;4;0
+Bachelors;2014;Bangalore;3;408;26;Male;4;0
+Bachelors;2015;Bangalore;3;485;28;Male;1;1
+Masters;2017;New Delhi;2;618;24;Male;2;0
+Bachelors;2013;Pune;2;703;25;Female;3;1
+Masters;2013;Bangalore;3;549;27;Male;5;1
+Bachelors;2017;Bangalore;3;339;27;Male;5;0
+Bachelors;2015;New Delhi;2;513;28;Female;2;1
+Bachelors;2014;Pune;2;576;24;Female;2;1
+Bachelors;2016;Pune;2;514;27;Female;5;1
+Bachelors;2017;Bangalore;3;545;27;Female;5;0
+Bachelors;2016;Bangalore;3;318;26;Male;4;0
+Bachelors;2015;Pune;2;752;27;Male;5;0
+Bachelors;2015;Bangalore;3;423;26;Male;4;0
+Bachelors;2018;Bangalore;3;578;27;Male;5;1
+Bachelors;2016;Bangalore;3;303;24;Male;2;0
+Bachelors;2014;Bangalore;3;557;24;Male;2;0
+Bachelors;2013;New Delhi;2;626;24;Female;2;1
+Bachelors;2012;Bangalore;3;373;26;Female;4;0
+Bachelors;2015;Pune;2;527;28;Female;2;1
+Bachelors;2018;Bangalore;3;464;26;Male;4;1
+Bachelors;2016;Bangalore;3;471;24;Female;2;0
+Masters;2017;Pune;3;410;24;Male;2;1
+Masters;2016;Pune;3;488;24;Male;2;0
+Bachelors;2013;Bangalore;3;305;28;Male;1;1
+Bachelors;2015;Bangalore;1;702;28;Female;1;0
+PHD;2018;Bangalore;3;386;24;Female;2;1
+Bachelors;2016;Bangalore;3;376;26;Male;4;0
+Bachelors;2013;Bangalore;3;367;27;Male;5;0
+Bachelors;2013;Bangalore;3;600;25;Male;3;1
+Masters;2016;New Delhi;3;358;24;Male;2;1
+Bachelors;2017;New Delhi;1;883;25;Female;3;0
+Bachelors;2013;Bangalore;3;378;28;Male;3;0
+Bachelors;2018;Bangalore;3;532;28;Male;1;1
+Bachelors;2017;Bangalore;3;350;24;Male;2;0
+Masters;2014;New Delhi;3;311;24;Male;2;1
+PHD;2012;New Delhi;3;463;24;Male;2;0
+Bachelors;2017;Bangalore;3;443;25;Female;3;0
+Masters;2014;New Delhi;3;554;27;Male;5;0
+Bachelors;2015;Bangalore;3;402;27;Female;5;0
+Bachelors;2014;Pune;3;421;25;Male;3;1
+Bachelors;2012;Bangalore;3;486;28;Male;3;0
+Bachelors;2012;Bangalore;3;495;25;Female;3;0
+Bachelors;2015;Bangalore;3;392;24;Female;2;0
+Bachelors;2013;Pune;3;576;27;Male;5;0
+Bachelors;2013;Bangalore;3;328;26;Female;4;0
+Bachelors;2012;Pune;2;549;26;Male;4;0
+Masters;2017;Bangalore;3;307;28;Female;3;1
+Bachelors;2015;Bangalore;3;491;25;Male;3;1
+Bachelors;2012;Bangalore;3;317;28;Female;2;0
+Bachelors;2017;Pune;2;683;26;Female;4;1
+Bachelors;2012;Bangalore;3;547;27;Female;5;0
+Masters;2016;New Delhi;3;575;28;Male;1;0
+Bachelors;2015;Pune;2;508;28;Female;1;1
+Masters;2017;Pune;3;488;24;Male;2;1
+Bachelors;2015;Pune;2;506;25;Female;3;1
+Bachelors;2014;Bangalore;3;525;24;Male;2;0
+Bachelors;2016;Bangalore;3;389;28;Male;3;0
+Bachelors;2016;New Delhi;3;333;25;Female;3;0
+Masters;2015;New Delhi;3;449;26;Male;4;1
+Masters;2015;New Delhi;3;585;28;Female;3;0
+Bachelors;2013;New Delhi;1;730;24;Female;2;1
+Bachelors;2014;Bangalore;3;439;24;Male;2;0
+Bachelors;2018;Bangalore;3;528;26;Male;4;1
+Bachelors;2013;Bangalore;3;437;26;Male;4;0
+Bachelors;2015;New Delhi;3;333;25;Female;3;1
+Bachelors;2017;New Delhi;3;339;28;Male;2;0
+Bachelors;2016;Pune;1;812;25;Female;3;1
+Masters;2013;New Delhi;3;566;25;Male;3;1
+Bachelors;2017;Bangalore;3;436;24;Female;2;0
+Masters;2013;New Delhi;3;370;25;Female;3;1
+Bachelors;2013;Bangalore;1;788;28;Female;2;0
+Masters;2014;Bangalore;3;591;27;Female;5;1
+Bachelors;2013;Bangalore;3;446;26;Male;4;0
+Bachelors;2016;Bangalore;3;488;25;Male;3;0
+Bachelors;2015;Pune;2;758;26;Female;4;1
+Bachelors;2017;New Delhi;3;366;25;Male;3;0
+Bachelors;2013;Bangalore;3;351;26;Male;4;0
+Bachelors;2013;Pune;2;778;27;Male;5;0
+Bachelors;2015;Pune;2;726;25;Female;3;1
+Bachelors;2016;Bangalore;3;581;25;Male;3;0
+Bachelors;2017;Bangalore;3;485;25;Male;3;1
+Bachelors;2016;Pune;3;463;28;Male;1;0
+Bachelors;2018;Bangalore;3;428;24;Male;2;1
+Masters;2015;Pune;3;509;28;Female;3;0
+Bachelors;2017;Bangalore;3;448;26;Male;4;0
+Masters;2017;Pune;2;663;26;Male;4;1
+Bachelors;2017;New Delhi;2;778;27;Female;5;0
+Bachelors;2013;Pune;2;523;26;Female;4;1
+Bachelors;2012;Bangalore;3;429;24;Male;2;0
+Bachelors;2013;New Delhi;3;403;28;Female;3;0
+Masters;2015;Pune;2;605;24;Female;2;0
+Bachelors;2016;Bangalore;3;442;25;Male;3;0
+Masters;2017;New Delhi;2;732;25;Male;3;1
+Bachelors;2016;Bangalore;3;316;26;Male;4;0
+Bachelors;2013;Bangalore;3;420;24;Male;2;0
+Bachelors;2012;Pune;2;603;25;Male;3;1
+Bachelors;2014;Bangalore;3;536;24;Male;2;0
+Bachelors;2017;Bangalore;3;405;27;Female;5;1
+Bachelors;2017;New Delhi;3;451;27;Female;5;0
+Bachelors;2013;Pune;3;530;27;Male;5;0
+Bachelors;2015;Pune;2;619;24;Female;2;1
+Bachelors;2017;Bangalore;3;393;24;Female;2;0
+PHD;2015;New Delhi;3;436;28;Female;1;0
+Bachelors;2017;Bangalore;3;317;27;Male;5;0
+Masters;2017;New Delhi;2;543;28;Female;2;0
+Bachelors;2017;New Delhi;2;677;25;Female;3;0
+Bachelors;2014;Pune;2;620;25;Female;3;1
+Bachelors;2016;New Delhi;3;578;28;Female;3;0
+Bachelors;2015;Pune;2;773;27;Female;5;1
+Masters;2017;Pune;2;614;25;Male;3;1
+Masters;2017;Bangalore;2;535;25;Female;3;1
+Bachelors;2017;Bangalore;3;384;24;Female;2;1
+Bachelors;2013;Bangalore;3;502;26;Female;4;0
+Bachelors;2018;Bangalore;3;444;24;Male;2;1
+Bachelors;2016;New Delhi;3;552;28;Male;1;0
+Masters;2017;New Delhi;2;728;24;Male;2;1
+Bachelors;2017;Bangalore;3;448;25;Male;3;0
+Bachelors;2017;Bangalore;3;355;25;Male;3;0
+Bachelors;2017;Bangalore;3;451;24;Male;2;1
+Masters;2014;New Delhi;3;455;25;Female;3;1
+Bachelors;2012;Bangalore;3;338;27;Female;5;0
+Bachelors;2012;New Delhi;3;356;27;Female;5;0
+Bachelors;2017;Bangalore;3;459;28;Male;2;1
+Bachelors;2012;Bangalore;3;427;28;Male;3;1
+Bachelors;2012;Pune;3;518;28;Female;2;0
+Bachelors;2018;Bangalore;3;486;24;Female;2;1
+PHD;2016;New Delhi;3;430;24;Female;2;0
+Masters;2017;New Delhi;2;779;27;Female;5;1
+Masters;2013;New Delhi;2;741;27;Female;5;1
+Bachelors;2015;Bangalore;3;402;26;Female;4;0
+Masters;2015;New Delhi;3;429;28;Female;1;1
+Bachelors;2014;Bangalore;3;572;27;Male;5;0
+Bachelors;2013;New Delhi;3;405;25;Female;3;0
+Bachelors;2015;Bangalore;3;453;26;Female;4;1
+Bachelors;2012;Pune;3;526;24;Male;2;0
+Bachelors;2012;Bangalore;3;370;26;Female;4;0
+Masters;2015;Pune;2;685;25;Female;3;1
+Bachelors;2013;New Delhi;3;364;24;Male;2;0
+Masters;2017;New Delhi;2;538;27;Female;5;0
+Masters;2017;Pune;2;529;26;Male;4;0
+Bachelors;2014;Pune;3;570;27;Male;5;0
+Bachelors;2018;Bangalore;3;599;25;Male;3;1
+Bachelors;2014;Bangalore;3;527;25;Female;3;0
+Bachelors;2013;Pune;2;565;27;Female;5;1
+Bachelors;2015;Pune;3;401;26;Male;4;0
+Bachelors;2017;Pune;2;504;24;Male;2;1
+Masters;2017;New Delhi;2;594;26;Male;4;1
+Bachelors;2013;Pune;2;596;25;Male;3;1
+Masters;2017;New Delhi;2;629;25;Female;3;1
+Bachelors;2013;Pune;3;549;26;Female;4;0
+Bachelors;2014;Pune;3;304;28;Male;2;0
+Bachelors;2016;New Delhi;3;462;27;Female;5;0
+Bachelors;2017;New Delhi;2;728;28;Male;1;0
+Masters;2014;New Delhi;3;569;27;Male;5;0
+Bachelors;2014;New Delhi;3;544;28;Female;1;0
+Bachelors;2015;Bangalore;3;343;27;Male;5;1
+Bachelors;2015;Bangalore;3;454;24;Male;2;1
+Bachelors;2018;Bangalore;3;456;24;Male;2;1
+Bachelors;2013;Pune;3;591;26;Male;4;0
+Bachelors;2012;Bangalore;3;472;28;Female;2;0
+Masters;2017;Pune;2;513;26;Male;4;0
+Masters;2017;New Delhi;2;792;25;Male;3;1
+Bachelors;2016;New Delhi;3;339;27;Female;5;0
+Bachelors;2012;Bangalore;3;366;26;Male;4;0
+Bachelors;2015;Pune;3;328;25;Male;3;0
+Bachelors;2012;New Delhi;3;504;26;Female;4;0
+Masters;2014;Bangalore;3;484;27;Male;5;1
+Masters;2017;New Delhi;2;691;26;Male;4;0
+Masters;2012;New Delhi;3;361;26;Male;4;1
+Bachelors;2015;Pune;2;508;26;Female;4;1
+Masters;2014;New Delhi;3;421;25;Male;3;0
+Bachelors;2015;Bangalore;3;349;28;Male;2;0
+Masters;2012;Pune;3;555;27;Male;5;1
+Bachelors;2017;Bangalore;2;530;27;Male;5;0
+Bachelors;2016;Bangalore;3;362;24;Male;2;0
+Bachelors;2017;Bangalore;3;464;27;Male;5;0
+Bachelors;2014;Bangalore;3;462;26;Male;4;1
+Bachelors;2017;Bangalore;3;366;24;Female;2;0
+Bachelors;2017;Bangalore;3;581;28;Male;1;0
+Bachelors;2014;Bangalore;3;338;26;Male;4;1
+Bachelors;2018;Bangalore;3;582;28;Female;3;1
+Bachelors;2014;New Delhi;3;385;24;Female;2;0
+Bachelors;2017;Bangalore;1;811;27;Male;5;0
+Bachelors;2015;New Delhi;3;361;24;Female;2;0
+Bachelors;2017;Bangalore;3;544;27;Male;5;0
+Bachelors;2017;Pune;3;476;28;Male;3;0
+Bachelors;2014;Bangalore;3;317;25;Male;3;0
+Bachelors;2017;Bangalore;3;444;25;Female;3;0
+Bachelors;2018;Bangalore;3;366;25;Male;3;1
+Bachelors;2013;Bangalore;3;592;28;Female;3;0
+Bachelors;2017;New Delhi;3;387;27;Male;5;0
+Bachelors;2013;Bangalore;3;566;27;Male;5;0
+Masters;2017;New Delhi;2;664;26;Female;4;1
+Bachelors;2014;Bangalore;3;462;24;Male;2;0
+Bachelors;2017;Pune;3;465;27;Male;5;0
+Bachelors;2012;Pune;3;454;27;Male;5;0
+Bachelors;2017;Pune;3;333;24;Male;2;0
+Bachelors;2014;Bangalore;3;584;25;Male;3;0
+Bachelors;2014;Bangalore;3;577;28;Male;3;0
+Bachelors;2018;Bangalore;3;387;26;Male;4;1
+Masters;2017;Bangalore;3;494;28;Male;1;1
+Bachelors;2018;Bangalore;3;338;27;Male;5;1
+Bachelors;2017;Bangalore;3;543;28;Male;1;0
+Bachelors;2016;Bangalore;3;313;25;Male;3;0
+Bachelors;2013;Pune;3;340;24;Female;2;0
+Bachelors;2018;New Delhi;3;511;25;Female;3;1
+Bachelors;2014;Bangalore;3;479;24;Female;2;0
+Bachelors;2012;Bangalore;3;532;26;Male;4;0
+Masters;2013;New Delhi;1;755;24;Female;2;0
+Masters;2013;New Delhi;1;738;24;Male;2;1
+Bachelors;2014;Bangalore;3;326;26;Male;4;0
+Bachelors;2017;Bangalore;3;499;27;Male;5;0
+Bachelors;2017;New Delhi;2;664;25;Male;3;0
+Bachelors;2015;Bangalore;3;529;28;Female;1;0
+Bachelors;2014;Bangalore;3;397;24;Male;2;0
+PHD;2018;New Delhi;3;556;24;Female;2;1
+Bachelors;2015;Pune;3;459;28;Male;1;0
+Bachelors;2015;Bangalore;3;306;26;Male;4;0
+PHD;2015;Pune;2;729;28;Female;1;0
+Bachelors;2018;Bangalore;3;588;25;Male;3;1
+Bachelors;2016;Bangalore;3;393;26;Male;4;0
+Bachelors;2015;Bangalore;3;578;27;Female;5;1
+Bachelors;2017;Pune;3;414;24;Male;2;0
+Bachelors;2014;Bangalore;3;559;27;Male;5;0
+Masters;2012;New Delhi;3;395;28;Male;2;0
+Bachelors;2012;Bangalore;3;466;28;Male;3;0
+Bachelors;2012;Pune;2;673;27;Female;5;1
+Bachelors;2012;New Delhi;2;538;27;Female;5;1
+Masters;2012;Bangalore;3;306;27;Male;5;1
+Bachelors;2018;Bangalore;3;566;25;Female;3;1
+Masters;2018;Pune;3;596;27;Male;5;1
+Masters;2017;New Delhi;2;693;28;Male;2;0
+Bachelors;2013;Bangalore;3;453;27;Male;5;0
+Masters;2017;Bangalore;2;685;28;Male;2;1
+Bachelors;2017;Pune;3;392;27;Male;5;0
+Bachelors;2017;Pune;3;568;28;Female;1;0
+Bachelors;2016;Bangalore;3;442;28;Male;3;0
+Bachelors;2014;New Delhi;3;571;26;Female;4;0
+Bachelors;2018;Bangalore;3;414;25;Male;3;1
+Bachelors;2017;New Delhi;3;425;26;Female;4;0
+Bachelors;2015;Pune;2;584;26;Female;4;1
+Bachelors;2017;New Delhi;3;587;26;Male;4;0
+Bachelors;2012;Bangalore;3;418;25;Female;3;0
+Bachelors;2017;Bangalore;3;535;25;Male;3;0
+Bachelors;2013;Bangalore;3;379;28;Female;1;1
+Bachelors;2013;Pune;3;586;24;Female;2;1
+Bachelors;2014;Bangalore;3;553;25;Male;3;0
+Masters;2017;New Delhi;3;392;25;Male;3;1
+Bachelors;2015;Pune;2;595;27;Female;5;1
+Masters;2017;Pune;2;639;28;Male;3;0
+Masters;2017;New Delhi;3;562;26;Male;4;0
+Masters;2017;Pune;2;754;24;Female;2;0
+Masters;2015;Pune;1;850;26;Female;4;0
+Masters;2013;Pune;3;526;26;Male;4;0
+Bachelors;2015;Bangalore;3;529;26;Male;4;0
+Bachelors;2017;Pune;3;452;24;Male;2;0
+PHD;2016;Bangalore;3;443;27;Male;5;0
+Bachelors;2018;Bangalore;3;321;24;Male;2;1
+Bachelors;2014;Pune;3;384;25;Male;3;0
+Bachelors;2012;Bangalore;3;508;26;Male;4;0
+Bachelors;2017;Bangalore;3;339;28;Male;3;0
+Bachelors;2014;Pune;3;419;25;Male;3;0
+Masters;2018;New Delhi;3;455;25;Female;3;1
+Bachelors;2013;Pune;2;754;25;Female;3;1
+PHD;2013;New Delhi;3;572;26;Male;4;0
+Bachelors;2015;New Delhi;3;356;28;Female;3;0
+Bachelors;2017;Bangalore;3;426;24;Male;2;0
+Masters;2018;New Delhi;1;737;26;Female;4;1
+Bachelors;2013;Pune;2;646;24;Female;2;1
+Bachelors;2018;Bangalore;3;336;24;Male;2;1
+PHD;2016;Pune;1;810;25;Female;3;1
+Bachelors;2014;Pune;3;372;26;Male;4;1
+Masters;2015;Pune;1;841;27;Female;5;0
+Bachelors;2013;Pune;3;474;28;Female;2;1
+Bachelors;2016;Bangalore;1;865;27;Female;5;0
+Bachelors;2014;New Delhi;3;529;24;Male;2;0
+Bachelors;2016;Bangalore;3;302;26;Male;4;0
+Bachelors;2015;Pune;3;362;25;Female;3;1
+Bachelors;2013;Bangalore;3;572;24;Male;2;0
+Bachelors;2015;Bangalore;3;575;25;Female;3;0
+Bachelors;2015;Bangalore;3;450;26;Male;4;0
+Bachelors;2016;Bangalore;3;323;26;Male;4;0
+Bachelors;2013;Pune;3;463;26;Male;4;0
+Masters;2016;Bangalore;3;527;26;Female;4;1
+Bachelors;2018;Bangalore;3;463;27;Female;5;1
+Bachelors;2017;Bangalore;3;516;24;Female;2;0
+Bachelors;2014;New Delhi;3;585;24;Female;2;0
+Bachelors;2013;Pune;3;395;26;Male;4;0
+Bachelors;2014;Bangalore;3;595;26;Male;4;0
+Bachelors;2014;Bangalore;3;549;24;Male;2;0
+Bachelors;2012;Bangalore;3;505;26;Male;4;0
+Bachelors;2014;Pune;2;776;26;Female;4;1
+Bachelors;2016;New Delhi;3;352;28;Female;5;0
+Bachelors;2015;Bangalore;3;311;28;Male;5;0
+Bachelors;2012;Pune;2;588;26;Female;4;1
+Bachelors;2013;New Delhi;3;427;26;Female;4;0
+Bachelors;2013;Pune;3;300;24;Male;2;0
+Masters;2017;New Delhi;3;374;28;Female;3;0
+Bachelors;2012;New Delhi;3;420;27;Female;5;0
+Bachelors;2017;Bangalore;3;569;25;Male;3;0
+Bachelors;2012;New Delhi;3;465;24;Female;2;1
+Masters;2015;Pune;1;763;24;Male;2;0
+Masters;2013;New Delhi;3;532;27;Male;5;1
+Bachelors;2017;New Delhi;3;528;24;Female;2;1
+Bachelors;2014;Bangalore;3;314;28;Male;1;1
+Bachelors;2015;Bangalore;3;578;28;Female;1;0
+Masters;2013;New Delhi;3;461;27;Male;5;0
+Bachelors;2014;Bangalore;3;316;26;Male;4;0
+Bachelors;2017;Bangalore;3;448;25;Male;3;0
+Masters;2015;New Delhi;3;474;24;Male;2;1
+Bachelors;2014;Bangalore;3;549;25;Male;3;0
+Bachelors;2014;Bangalore;3;427;25;Female;3;0
+Bachelors;2017;Bangalore;1;835;24;Male;2;0
+Bachelors;2014;New Delhi;3;405;27;Female;5;1
+Bachelors;2013;Bangalore;3;448;27;Female;5;0
+Bachelors;2012;Bangalore;3;480;28;Female;2;0
+Bachelors;2015;Bangalore;3;526;27;Male;5;0
+Bachelors;2012;Bangalore;3;539;26;Male;4;0
+Bachelors;2013;Pune;1;785;27;Female;5;1
+Bachelors;2014;New Delhi;3;594;27;Female;5;0
+Bachelors;2014;Bangalore;3;552;28;Male;4;0
+Bachelors;2014;Bangalore;3;571;27;Male;5;1
+Bachelors;2014;Bangalore;3;441;28;Female;1;0
+Masters;2018;New Delhi;3;316;25;Female;3;1
+Bachelors;2017;Bangalore;3;349;27;Male;5;0
+Bachelors;2015;Bangalore;3;536;24;Male;2;1
+Masters;2017;Pune;2;789;25;Female;3;1
+Bachelors;2017;New Delhi;2;557;27;Female;5;0
+Bachelors;2016;Bangalore;3;593;28;Male;3;1
+Bachelors;2015;Pune;2;589;25;Female;3;1
+Masters;2017;New Delhi;3;560;24;Male;2;0
+Bachelors;2015;Bangalore;3;401;28;Male;4;0
+Masters;2014;Pune;3;358;26;Male;4;1
+Bachelors;2013;Pune;3;493;26;Male;4;0
+Bachelors;2016;Bangalore;3;439;26;Male;4;0
+Bachelors;2013;Bangalore;3;467;26;Male;4;0
+Masters;2013;New Delhi;1;735;24;Female;2;1
+Bachelors;2014;Bangalore;3;473;25;Male;3;0
+Bachelors;2018;Bangalore;3;397;27;Male;5;1
+Bachelors;2013;Bangalore;3;439;28;Male;1;0
+Bachelors;2016;Pune;2;759;28;Female;4;1
+Bachelors;2012;Bangalore;3;536;28;Male;1;0
+Bachelors;2017;New Delhi;3;401;25;Female;3;0
+Bachelors;2018;Bangalore;3;537;25;Male;3;1
+Bachelors;2012;Pune;1;886;27;Female;5;1
+Masters;2017;New Delhi;3;355;24;Male;2;0
+Bachelors;2014;Bangalore;3;440;24;Male;2;0
+Bachelors;2014;Pune;3;317;26;Male;4;0
+Bachelors;2013;Bangalore;3;542;25;Female;3;1
+Bachelors;2017;Bangalore;3;497;28;Male;2;0
+Bachelors;2015;Pune;3;527;25;Female;3;1
+Bachelors;2017;Bangalore;3;507;24;Male;2;0
+Bachelors;2018;Bangalore;3;373;24;Male;2;1
+Bachelors;2016;Bangalore;3;497;28;Male;4;0
+Bachelors;2014;Bangalore;3;329;26;Female;4;0
+Bachelors;2017;Bangalore;3;484;28;Male;1;0
+Bachelors;2012;Bangalore;3;301;27;Male;5;0
+Bachelors;2016;New Delhi;3;565;26;Male;4;0
+Bachelors;2014;Bangalore;3;367;27;Female;5;0
+Bachelors;2014;Bangalore;3;538;27;Female;5;1
+Bachelors;2013;Bangalore;3;406;26;Male;4;0
+PHD;2015;New Delhi;2;630;24;Female;2;0
+Bachelors;2018;Bangalore;3;308;26;Male;4;1
+Bachelors;2017;New Delhi;2;694;24;Female;2;0
+PHD;2015;Pune;1;726;25;Female;3;1
+Bachelors;2017;New Delhi;3;424;24;Male;2;0
+Bachelors;2013;Bangalore;3;444;25;Female;3;0
+Bachelors;2014;Bangalore;3;431;24;Male;2;0
+Masters;2018;New Delhi;3;587;26;Male;4;1
+Bachelors;2015;Bangalore;2;717;25;Female;3;1
+Bachelors;2012;Bangalore;3;488;25;Male;3;0
+Masters;2012;New Delhi;3;375;28;Male;2;0
+Bachelors;2015;Bangalore;3;456;24;Female;2;0
+Bachelors;2012;Bangalore;3;335;24;Male;2;0
+PHD;2018;New Delhi;3;435;27;Female;5;1
+Bachelors;2014;Bangalore;3;336;25;Male;3;0
+Bachelors;2012;Bangalore;3;586;25;Male;3;0
+Bachelors;2012;Bangalore;3;544;28;Male;5;0
+Bachelors;2017;New Delhi;2;642;26;Female;4;0
+Bachelors;2013;Bangalore;3;327;25;Male;3;0
+Masters;2018;Pune;3;326;24;Male;2;1
+Bachelors;2016;Bangalore;3;396;26;Male;4;0
+Bachelors;2013;Bangalore;3;389;26;Male;4;0
+Bachelors;2016;New Delhi;3;519;28;Female;2;0
+Masters;2017;New Delhi;2;534;27;Male;5;1
+Bachelors;2018;Pune;2;515;27;Female;5;1
+Masters;2014;New Delhi;3;575;28;Female;4;0
+Masters;2017;New Delhi;3;315;25;Female;3;0
+Masters;2017;Bangalore;3;547;26;Female;4;0
+Bachelors;2015;Pune;2;539;27;Female;5;1
+Bachelors;2013;New Delhi;3;352;27;Female;5;0
+Masters;2017;New Delhi;1;757;26;Female;4;0
+Bachelors;2013;New Delhi;3;329;27;Female;5;0
+Bachelors;2012;New Delhi;3;497;28;Male;3;0
+Masters;2017;Pune;2;796;27;Male;5;1
+Bachelors;2017;New Delhi;3;523;26;Female;4;0
+Bachelors;2013;Bangalore;3;328;28;Female;4;1
+Masters;2012;New Delhi;3;301;27;Male;5;1
+Bachelors;2017;Pune;2;576;24;Male;2;0
+Masters;2017;New Delhi;3;405;25;Female;3;1
+Bachelors;2018;Bangalore;3;410;25;Female;3;1
+Bachelors;2016;Bangalore;3;322;28;Male;4;0
+Masters;2017;New Delhi;3;467;28;Male;2;0
+Bachelors;2014;Bangalore;3;361;24;Male;2;0
+Bachelors;2016;Bangalore;3;350;26;Male;4;0
+Bachelors;2014;Pune;3;431;24;Female;2;1
+Bachelors;2013;Pune;3;321;26;Male;4;0
+Bachelors;2012;Bangalore;3;437;27;Male;5;0
+Bachelors;2018;Bangalore;3;432;24;Male;2;1
+Bachelors;2017;Bangalore;1;778;26;Female;4;0
+Bachelors;2015;Bangalore;3;401;28;Female;3;0
+Bachelors;2013;Bangalore;3;478;28;Male;3;1
+Bachelors;2012;Bangalore;3;336;27;Male;5;0
+Bachelors;2013;Bangalore;3;467;26;Female;4;0
+Masters;2013;New Delhi;2;585;27;Female;5;1
+Bachelors;2016;New Delhi;3;473;24;Female;2;0
+Bachelors;2015;Pune;2;665;28;Female;2;1
+Bachelors;2015;New Delhi;2;559;25;Female;3;1
+Bachelors;2014;Pune;3;552;24;Male;2;0
+Bachelors;2017;New Delhi;3;543;27;Female;5;0
+Bachelors;2012;New Delhi;3;402;26;Male;4;0
+Bachelors;2013;Bangalore;3;382;28;Male;0;0
+Bachelors;2012;Pune;3;526;28;Male;5;0
+Bachelors;2015;Pune;2;581;26;Female;4;1
+Bachelors;2016;Bangalore;1;704;26;Male;4;0
+Masters;2017;New Delhi;2;599;28;Female;2;1
+Masters;2017;New Delhi;2;659;25;Male;3;1
+Bachelors;2017;Bangalore;3;485;24;Male;2;0
+Bachelors;2013;Bangalore;3;492;28;Male;0;0
+Bachelors;2014;Pune;3;323;27;Male;5;1
+Bachelors;2016;Pune;2;613;26;Female;4;1
+Bachelors;2018;Bangalore;3;577;27;Female;5;1
+Bachelors;2012;Pune;3;439;28;Male;4;0
+Bachelors;2013;Pune;2;615;26;Female;4;1
+Bachelors;2014;Bangalore;3;466;28;Female;3;0
+Masters;2017;New Delhi;2;745;28;Female;2;0
+Bachelors;2012;New Delhi;1;706;27;Female;5;0
+Bachelors;2017;New Delhi;2;759;27;Male;5;0
+Bachelors;2014;Bangalore;3;393;24;Male;2;0
+Bachelors;2013;Pune;3;400;27;Male;5;0
+Bachelors;2015;Bangalore;3;470;27;Female;5;0
+Bachelors;2017;Bangalore;3;547;27;Male;5;0
+Masters;2012;New Delhi;3;597;24;Male;2;0
+Bachelors;2013;New Delhi;2;627;25;Female;3;1
+Bachelors;2017;Bangalore;3;493;25;Male;3;0
+Bachelors;2018;Bangalore;3;378;25;Male;3;1
+Masters;2013;Pune;3;316;25;Male;3;1
+Bachelors;2013;Pune;3;372;24;Female;2;0
+Bachelors;2015;Pune;3;558;24;Female;2;1
+Bachelors;2014;Bangalore;3;517;24;Male;2;0
+Masters;2012;New Delhi;3;526;26;Female;4;1
+Bachelors;2015;Pune;3;309;25;Male;3;0
+Bachelors;2017;New Delhi;2;779;26;Female;4;0
+Bachelors;2013;Bangalore;3;395;28;Male;3;0
+Bachelors;2016;Pune;2;517;28;Female;0;1
+Bachelors;2012;New Delhi;3;342;24;Male;2;0
+Bachelors;2015;New Delhi;3;426;28;Male;1;0
+Bachelors;2017;Bangalore;1;801;24;Male;2;0
+Masters;2017;Pune;2;777;28;Female;4;0
+Bachelors;2017;Pune;3;361;24;Male;2;0
+Bachelors;2016;Bangalore;3;528;27;Female;5;0
+Bachelors;2015;Pune;3;441;28;Male;2;0
+Bachelors;2016;Bangalore;3;362;28;Female;5;0
+Bachelors;2018;Bangalore;3;584;25;Male;3;1
+Bachelors;2015;Bangalore;3;436;28;Female;5;0
+Bachelors;2014;Bangalore;3;524;27;Male;5;1
+Bachelors;2013;Bangalore;3;489;26;Male;4;0
+Bachelors;2015;Bangalore;1;778;24;Male;2;0
+Bachelors;2012;Bangalore;3;472;27;Female;5;0
+Bachelors;2012;Bangalore;3;424;25;Male;3;1
+Bachelors;2015;Pune;3;582;28;Female;4;1
+Masters;2017;Bangalore;2;585;24;Female;2;1
+Bachelors;2014;Bangalore;3;585;28;Male;2;0
+Masters;2017;Pune;2;676;24;Female;2;1
+Bachelors;2014;New Delhi;3;320;26;Female;4;1
+Bachelors;2015;Pune;2;681;28;Female;3;1
+Masters;2013;Pune;2;617;28;Male;5;1
+Bachelors;2013;New Delhi;1;879;28;Female;5;1
+Bachelors;2015;Pune;2;573;26;Female;4;1
+Masters;2015;New Delhi;3;596;28;Male;2;0
+Bachelors;2013;Bangalore;3;363;27;Male;5;0
+Bachelors;2018;Bangalore;3;507;28;Male;2;1
+Bachelors;2012;Pune;3;324;28;Male;2;0
+Bachelors;2014;Pune;3;510;27;Female;5;1
+Masters;2018;New Delhi;3;364;24;Male;2;1
+Bachelors;2018;Bangalore;3;508;25;Male;3;1
+Bachelors;2017;New Delhi;2;672;25;Male;3;0
+Bachelors;2014;Pune;3;597;24;Female;2;1
+Bachelors;2012;New Delhi;3;462;26;Female;4;0
+Bachelors;2014;Pune;3;475;26;Male;4;0
+Bachelors;2014;Bangalore;3;366;28;Male;4;0
+Bachelors;2018;Bangalore;3;478;26;Male;4;1
+Bachelors;2013;Pune;2;664;26;Male;4;0
+Bachelors;2013;Pune;2;774;25;Female;3;1
+Bachelors;2018;Pune;3;556;25;Male;3;1
+Bachelors;2013;Bangalore;3;349;25;Female;3;0
+Bachelors;2014;Bangalore;3;337;28;Male;4;0
+Masters;2017;New Delhi;3;400;24;Female;2;0
+Masters;2017;Pune;2;547;27;Female;5;0
+Bachelors;2012;Bangalore;3;447;24;Male;2;0
+Bachelors;2017;Pune;3;487;27;Female;5;1
+Masters;2017;New Delhi;2;741;28;Male;4;0
+Bachelors;2017;New Delhi;2;769;25;Male;3;0
+Bachelors;2017;Pune;3;548;25;Male;3;1
+Masters;2017;Pune;2;589;24;Female;2;1
+Bachelors;2013;Pune;3;428;27;Male;5;1
+Bachelors;2016;Bangalore;3;360;26;Female;4;1
+Bachelors;2015;Pune;2;520;27;Female;5;1
+Bachelors;2014;Bangalore;3;589;27;Male;5;1
+Bachelors;2012;Bangalore;3;311;26;Male;4;0
+Bachelors;2016;Pune;2;799;27;Female;5;1
+Masters;2017;Bangalore;2;673;28;Male;2;0
+Masters;2017;New Delhi;3;417;24;Female;2;1
+Bachelors;2017;Pune;3;579;24;Male;2;0
+Bachelors;2018;Bangalore;3;376;24;Male;2;1
+Masters;2017;New Delhi;2;562;28;Male;3;0
+Bachelors;2015;Bangalore;3;341;26;Female;4;0
+Bachelors;2018;Pune;3;423;26;Female;4;1
+Bachelors;2013;Bangalore;3;568;25;Male;3;0
+Bachelors;2016;Bangalore;3;356;26;Male;4;0
+Masters;2018;Pune;3;539;28;Male;2;1
+Bachelors;2016;Bangalore;3;329;26;Male;4;0
+Bachelors;2017;Bangalore;3;533;27;Male;5;0
+Bachelors;2012;Bangalore;3;453;27;Female;5;0
+PHD;2016;New Delhi;3;588;27;Male;5;0
+Bachelors;2017;New Delhi;2;516;25;Male;3;0
+Bachelors;2015;New Delhi;3;597;28;Female;2;0
+Bachelors;2013;Pune;2;797;26;Female;4;1
+Bachelors;2017;Bangalore;3;417;27;Female;5;0
+Bachelors;2015;Pune;2;644;24;Female;2;1
+Bachelors;2017;Bangalore;3;458;27;Female;5;0
+Bachelors;2016;Bangalore;3;315;25;Male;3;1
+Bachelors;2018;Bangalore;3;380;26;Male;4;1
+Bachelors;2015;Bangalore;3;573;27;Male;5;0
+Bachelors;2014;Pune;3;439;24;Male;2;0
+Bachelors;2012;Bangalore;3;479;27;Male;5;0
+Bachelors;2013;Pune;3;335;27;Male;5;0
+Bachelors;2015;Bangalore;1;851;25;Male;3;0
+Masters;2017;New Delhi;2;617;25;Female;3;0
+PHD;2015;Pune;3;425;28;Male;0;0
+Bachelors;2015;Bangalore;3;398;28;Male;3;0
+Bachelors;2016;Bangalore;3;544;28;Male;5;0
+PHD;2013;New Delhi;3;416;24;Male;2;0
+Bachelors;2014;Bangalore;3;555;26;Male;4;0
+Bachelors;2015;Pune;2;613;26;Female;4;1
+Bachelors;2017;Bangalore;3;358;27;Male;5;0
+Bachelors;2014;New Delhi;3;402;26;Male;4;0
+Masters;2013;Bangalore;3;522;27;Male;5;1
+Bachelors;2016;Pune;3;594;24;Male;2;0
+Bachelors;2016;Bangalore;3;370;26;Male;4;0
+Bachelors;2013;Pune;2;564;28;Female;2;1
+Masters;2017;Bangalore;2;531;24;Male;2;1
+Masters;2017;New Delhi;2;740;24;Male;2;1
+Masters;2015;Pune;2;609;24;Female;2;1
+Bachelors;2014;Pune;3;523;26;Male;4;0
+Bachelors;2016;Pune;2;654;27;Female;5;1
+Bachelors;2017;Bangalore;3;340;25;Male;3;0
+Masters;2017;New Delhi;2;645;26;Female;4;0
+Bachelors;2016;Bangalore;1;882;25;Female;3;0
+PHD;2014;Bangalore;1;807;25;Female;3;0
+Bachelors;2013;Bangalore;3;477;25;Female;3;0
+Bachelors;2014;New Delhi;3;561;24;Male;2;0
+Bachelors;2015;Pune;2;770;28;Female;2;1
+Bachelors;2014;New Delhi;3;375;28;Male;5;0
+Bachelors;2015;Bangalore;3;366;26;Male;4;0
+Bachelors;2014;Bangalore;3;596;25;Male;3;0
+Bachelors;2018;Pune;3;388;26;Male;4;1
+Masters;2015;Pune;2;690;28;Female;2;0
+Masters;2013;New Delhi;3;336;28;Male;2;1
+Bachelors;2014;Bangalore;3;420;25;Male;3;0
+Masters;2015;New Delhi;2;604;26;Female;4;0
+Bachelors;2016;New Delhi;3;300;27;Male;5;0
+Bachelors;2014;Bangalore;3;512;24;Female;2;0
+Masters;2017;Pune;3;365;24;Female;2;0
+Bachelors;2014;Pune;3;361;25;Female;3;1
+Bachelors;2015;Pune;3;344;27;Female;5;1
+Bachelors;2017;New Delhi;2;578;28;Male;0;0
+Bachelors;2017;New Delhi;3;401;25;Female;3;0
+Bachelors;2012;Pune;3;530;24;Male;2;1
+Masters;2016;New Delhi;3;476;25;Male;3;1
+Bachelors;2015;Pune;2;714;26;Female;4;1
+Masters;2014;New Delhi;3;312;27;Male;5;0
+Bachelors;2015;Bangalore;3;347;24;Female;2;1
+Bachelors;2014;New Delhi;3;456;25;Male;3;0
+Bachelors;2017;Bangalore;3;427;24;Male;2;0
+Bachelors;2017;New Delhi;3;493;24;Female;2;1
+Bachelors;2012;Bangalore;3;427;28;Male;1;0
+Bachelors;2014;Bangalore;1;747;26;Male;4;0
+Bachelors;2017;Bangalore;3;452;28;Male;3;0
+Bachelors;2015;Pune;1;900;25;Female;3;1
+Bachelors;2015;Pune;2;673;24;Female;2;1
+Bachelors;2017;Pune;2;558;26;Male;4;0
+Bachelors;2015;Bangalore;3;500;28;Male;0;0
+Bachelors;2016;Bangalore;3;387;28;Male;2;0
+Bachelors;2013;Pune;3;501;28;Female;3;1
+Bachelors;2017;Bangalore;3;373;27;Male;5;0
+Masters;2015;New Delhi;3;309;25;Male;3;0
+Bachelors;2012;New Delhi;3;378;28;Female;4;0
+Bachelors;2012;Bangalore;3;449;26;Male;4;0
+Bachelors;2012;Bangalore;3;394;25;Male;3;0
+Masters;2017;New Delhi;3;424;25;Male;3;1
+Bachelors;2017;Bangalore;3;303;25;Male;3;0
+Bachelors;2012;Bangalore;3;583;26;Female;4;0
+Bachelors;2017;Bangalore;3;455;26;Female;4;0
+Masters;2017;New Delhi;2;539;25;Male;3;1
+Bachelors;2015;Bangalore;3;347;25;Male;3;0
+Bachelors;2013;Bangalore;3;395;26;Female;4;0
+Bachelors;2017;Pune;3;505;25;Female;3;1
+Bachelors;2014;New Delhi;3;584;28;Female;2;0
+Bachelors;2016;Bangalore;3;500;27;Female;5;0
+Bachelors;2018;Bangalore;3;566;25;Male;3;1
+Bachelors;2012;Bangalore;3;397;27;Female;5;0
+Bachelors;2017;New Delhi;3;582;27;Female;5;0
+Bachelors;2016;Bangalore;2;710;25;Male;3;1
+Bachelors;2016;Bangalore;3;388;28;Female;4;0
+Bachelors;2017;New Delhi;2;585;27;Male;5;0
+Bachelors;2016;Bangalore;3;589;24;Female;2;0
+Bachelors;2013;Bangalore;3;415;25;Male;3;0
+Bachelors;2017;New Delhi;2;651;25;Female;3;0
+Bachelors;2015;Pune;3;376;24;Male;2;0
+Bachelors;2012;New Delhi;3;345;25;Female;3;0
+PHD;2017;New Delhi;3;462;27;Female;5;0
+Bachelors;2014;Bangalore;3;454;25;Female;3;1
+Masters;2017;Bangalore;3;520;28;Male;2;0
+Bachelors;2016;Pune;3;383;25;Male;3;0
+Bachelors;2014;Bangalore;3;517;25;Male;3;0
+Bachelors;2012;New Delhi;3;520;27;Male;5;0
+Bachelors;2012;Pune;3;363;25;Female;3;1
+Masters;2015;New Delhi;3;355;27;Female;5;0
+Bachelors;2014;Bangalore;3;498;24;Male;2;0
+Bachelors;2015;Pune;2;797;27;Female;5;1
+Bachelors;2014;Bangalore;3;324;25;Male;3;1
+Bachelors;2015;Bangalore;3;597;25;Male;3;0
+Bachelors;2018;New Delhi;3;597;26;Female;4;1
+Bachelors;2017;Pune;2;645;26;Female;4;1
+Bachelors;2014;Pune;2;570;24;Female;2;1
+Bachelors;2013;Bangalore;3;578;27;Male;5;0
+Bachelors;2017;New Delhi;2;773;27;Male;5;0
+PHD;2012;New Delhi;3;526;28;Female;1;0
+Masters;2012;New Delhi;3;318;26;Female;4;1
+Bachelors;2014;Bangalore;3;500;27;Male;5;0
+Bachelors;2013;Bangalore;3;321;28;Female;0;1
+Bachelors;2014;Pune;3;460;26;Male;4;0
+Bachelors;2016;Pune;2;631;24;Female;2;1
+Bachelors;2015;Bangalore;1;802;24;Female;2;1
+Bachelors;2012;Bangalore;3;375;26;Female;4;0
+Masters;2014;Pune;3;470;27;Male;5;0
+Masters;2017;New Delhi;2;713;27;Male;5;1
+Masters;2017;New Delhi;1;843;25;Female;3;0
+Masters;2012;Pune;3;397;28;Male;0;1
+Masters;2012;New Delhi;3;515;28;Male;2;1
+Masters;2013;New Delhi;2;759;24;Male;2;1
+Bachelors;2015;Pune;3;561;25;Female;3;1
+Masters;2017;New Delhi;3;344;28;Male;5;0
+Bachelors;2013;Bangalore;3;433;24;Male;2;0
+Masters;2015;Bangalore;3;338;28;Male;1;1
+Bachelors;2018;Bangalore;3;541;27;Female;5;1
+Bachelors;2015;Bangalore;3;365;24;Male;2;1
+Bachelors;2014;Pune;3;438;26;Male;4;0
+Bachelors;2013;New Delhi;3;414;25;Female;3;0
+Bachelors;2013;Bangalore;3;411;26;Male;4;0
+Bachelors;2018;New Delhi;3;348;28;Female;0;1
+Bachelors;2013;Bangalore;3;555;25;Female;3;0
+PHD;2012;Pune;3;385;27;Male;5;0
+Bachelors;2013;Bangalore;3;342;24;Male;2;0
+Bachelors;2013;Bangalore;3;333;28;Female;3;0
+Bachelors;2015;Pune;3;309;24;Male;2;0
+Bachelors;2013;Pune;3;366;27;Male;5;0
+Bachelors;2012;New Delhi;3;515;27;Male;5;0
+Bachelors;2018;Bangalore;3;573;26;Female;4;1
+Bachelors;2013;Bangalore;3;489;26;Male;4;0
+Bachelors;2015;Pune;2;792;24;Female;2;1
+Bachelors;2016;Bangalore;3;586;24;Male;2;0
+PHD;2018;Bangalore;3;518;27;Female;5;1
+Bachelors;2015;Bangalore;3;320;26;Male;4;0
+Bachelors;2015;New Delhi;1;840;26;Female;4;1
+Bachelors;2015;Pune;2;708;24;Female;2;1
+Bachelors;2013;Pune;3;553;27;Male;5;0
+PHD;2016;New Delhi;3;327;24;Female;2;0
+Bachelors;2013;Bangalore;3;433;26;Male;4;0
+Bachelors;2015;Bangalore;3;531;28;Male;5;0
+Bachelors;2015;Bangalore;3;408;26;Female;4;0
+Bachelors;2016;Bangalore;3;516;27;Female;5;0
+Bachelors;2017;Pune;3;456;25;Female;3;1
+Masters;2017;New Delhi;2;761;26;Male;4;1
+Bachelors;2012;Bangalore;3;554;27;Male;5;0
+Bachelors;2014;Bangalore;3;430;26;Female;4;1
+Bachelors;2015;Pune;2;613;25;Female;3;1
+Bachelors;2013;Bangalore;3;562;26;Male;4;0
+Bachelors;2017;Pune;2;696;28;Male;1;1
+Bachelors;2014;Bangalore;3;558;25;Male;3;0
+Bachelors;2013;Bangalore;3;500;27;Male;5;0
+PHD;2013;Bangalore;3;455;26;Male;4;0
+Bachelors;2013;New Delhi;3;584;25;Female;3;1
+Bachelors;2017;Bangalore;1;777;28;Female;3;0
+Bachelors;2014;Bangalore;3;474;26;Male;4;0
+Bachelors;2015;New Delhi;3;305;27;Male;5;0
+Masters;2013;Pune;2;695;28;Male;2;1
+Bachelors;2013;New Delhi;3;323;25;Female;3;1
+Masters;2017;New Delhi;2;527;26;Male;4;0
+Masters;2016;New Delhi;3;363;25;Male;3;0
+Bachelors;2017;Bangalore;3;596;28;Female;5;0
+Masters;2017;New Delhi;2;567;28;Female;2;0
+Bachelors;2012;Bangalore;1;875;27;Male;5;1
+Bachelors;2018;Bangalore;3;551;27;Male;5;1
+Bachelors;2016;Bangalore;3;417;24;Female;2;0
+Bachelors;2017;Pune;3;425;26;Male;4;0
+Bachelors;2017;New Delhi;3;522;25;Female;3;0
+Bachelors;2015;Pune;3;493;28;Female;5;1
+Bachelors;2015;Bangalore;3;359;26;Male;4;1
+Masters;2015;Pune;2;641;26;Female;4;1
+Masters;2015;Pune;3;512;25;Male;3;1
+Bachelors;2016;Pune;3;433;27;Female;5;1
+Bachelors;2013;Bangalore;3;421;25;Male;3;0
+Bachelors;2018;Pune;3;303;26;Male;4;1
+Bachelors;2014;Bangalore;3;596;27;Female;5;0
+Bachelors;2017;Bangalore;1;899;25;Male;3;0
+Bachelors;2015;New Delhi;3;390;26;Male;4;0
+Bachelors;2015;Pune;3;512;24;Female;2;1
+Bachelors;2015;Bangalore;3;521;28;Male;2;0
+Bachelors;2014;Pune;2;641;26;Female;4;1
+Bachelors;2017;Bangalore;3;596;27;Male;5;1
+Bachelors;2014;Bangalore;3;349;26;Male;4;0
+Bachelors;2018;New Delhi;3;488;28;Female;5;1
+Bachelors;2015;Bangalore;3;589;28;Male;0;1
+Bachelors;2016;New Delhi;3;304;28;Female;3;0
+Bachelors;2017;Bangalore;3;567;25;Male;3;0
+Bachelors;2015;Pune;3;466;24;Female;2;1
+Masters;2018;New Delhi;3;506;28;Male;2;1
+Bachelors;2015;Bangalore;3;344;27;Female;5;0
+Bachelors;2017;Bangalore;3;306;24;Male;2;1
+Bachelors;2017;New Delhi;2;774;28;Female;0;0
+Bachelors;2015;Bangalore;3;536;25;Male;3;0
+Bachelors;2012;Bangalore;3;490;28;Male;2;0
+Bachelors;2013;Bangalore;3;593;26;Male;4;0
+Bachelors;2016;Bangalore;1;772;24;Male;2;0
+Bachelors;2016;Pune;3;530;27;Male;5;0
+Bachelors;2013;Pune;3;592;24;Male;2;0
+Masters;2017;Pune;2;558;26;Female;4;1
+Bachelors;2017;New Delhi;3;529;26;Male;4;0
+Bachelors;2018;Pune;3;493;25;Female;3;1
+Bachelors;2018;Bangalore;3;499;24;Male;2;1
+Bachelors;2015;Pune;3;588;24;Male;2;0
+Bachelors;2013;Bangalore;3;322;24;Female;2;1
+Bachelors;2013;Pune;2;778;28;Male;0;1
+Bachelors;2018;Bangalore;3;441;24;Male;2;1
+Bachelors;2014;Bangalore;3;393;24;Male;2;0
+Bachelors;2016;Bangalore;3;567;28;Female;5;0
+Bachelors;2014;Bangalore;3;340;25;Male;3;0
+Bachelors;2014;Bangalore;3;519;26;Female;4;0
+Masters;2017;Bangalore;2;585;28;Male;2;0
+Bachelors;2012;Bangalore;3;479;27;Male;5;0
+Bachelors;2016;Bangalore;3;513;27;Female;5;0
+Masters;2018;Bangalore;3;417;28;Male;2;1
+Bachelors;2017;Bangalore;3;556;24;Male;2;0
+Bachelors;2012;Pune;3;417;24;Male;2;0
+Bachelors;2016;New Delhi;3;338;28;Male;0;0
+Bachelors;2012;Bangalore;3;319;27;Male;5;0
+Bachelors;2014;Bangalore;3;547;27;Male;5;0
+Bachelors;2017;Bangalore;3;573;24;Male;2;1
+Bachelors;2012;Bangalore;1;740;27;Male;5;0
+Bachelors;2017;Bangalore;3;419;28;Female;5;0
+Bachelors;2014;Pune;3;495;25;Male;3;0
+Bachelors;2015;Pune;3;543;25;Male;3;0
+Bachelors;2017;Pune;2;782;28;Male;0;1
+Bachelors;2015;Pune;2;531;26;Female;4;1
+Bachelors;2015;Pune;2;766;27;Female;5;1
+Bachelors;2015;Pune;3;508;26;Female;4;1
+Bachelors;2015;Bangalore;2;785;28;Female;3;1
+Bachelors;2012;Pune;3;492;25;Male;3;0
+Bachelors;2013;Bangalore;3;450;25;Male;3;1
+Bachelors;2016;New Delhi;3;367;26;Male;4;0
+PHD;2018;New Delhi;3;510;24;Female;2;1
+Bachelors;2014;Bangalore;3;378;27;Female;5;0
+Masters;2017;New Delhi;2;699;26;Male;4;1
+Bachelors;2015;Pune;2;590;27;Female;5;1
+Bachelors;2014;Bangalore;3;309;24;Male;2;0
+Masters;2017;Pune;2;783;25;Female;3;0
+Bachelors;2017;New Delhi;3;426;28;Female;2;0
+Bachelors;2014;Bangalore;3;323;27;Male;5;0
+Bachelors;2012;Bangalore;3;489;24;Male;2;0
+Bachelors;2018;Pune;3;448;24;Male;2;1
+Bachelors;2015;Bangalore;3;378;27;Female;5;1
+Bachelors;2015;New Delhi;3;491;28;Female;3;0
+Bachelors;2015;Pune;3;333;27;Female;5;1
+Bachelors;2015;Bangalore;3;543;28;Male;5;0
+Bachelors;2015;New Delhi;2;654;27;Female;5;1
+Bachelors;2016;Bangalore;3;467;27;Male;5;0
+Masters;2017;New Delhi;3;310;27;Female;5;1
+Bachelors;2017;Pune;2;715;26;Female;4;1
+Bachelors;2015;Pune;3;380;27;Female;5;1
+Bachelors;2018;Pune;3;303;27;Female;5;1
+Bachelors;2012;Bangalore;3;345;25;Male;3;0
+Bachelors;2017;Bangalore;3;556;25;Male;3;0
+PHD;2013;New Delhi;3;404;27;Female;5;1
+Bachelors;2016;Bangalore;3;347;28;Male;2;0
+Bachelors;2012;Bangalore;3;533;25;Female;3;0
+Bachelors;2015;Bangalore;3;307;27;Male;5;0
+Bachelors;2016;Pune;2;649;24;Female;2;1
+Bachelors;2016;Bangalore;3;492;26;Male;4;1
+Bachelors;2014;Pune;3;574;27;Male;5;0
+Bachelors;2013;Bangalore;3;440;24;Male;2;0
+Bachelors;2017;Bangalore;3;325;25;Male;3;1
+Bachelors;2017;Pune;2;743;24;Female;2;1
+Bachelors;2013;Bangalore;3;566;27;Male;5;0
+Masters;2013;Bangalore;3;481;26;Female;4;1
+Bachelors;2012;Pune;3;504;25;Female;3;1
+Bachelors;2015;New Delhi;3;449;28;Female;2;0
+Masters;2017;New Delhi;2;662;24;Female;2;0
+Masters;2013;New Delhi;3;440;26;Male;4;1
+Bachelors;2014;Bangalore;3;369;26;Male;4;0
+PHD;2016;New Delhi;3;316;24;Female;2;0
+Bachelors;2017;New Delhi;3;375;26;Male;4;0
+Bachelors;2016;Bangalore;3;329;26;Male;4;0
+Bachelors;2014;Bangalore;3;449;27;Male;5;0
+Bachelors;2017;New Delhi;3;347;28;Female;0;0
+PHD;2016;New Delhi;3;479;27;Female;5;0
+Masters;2014;Bangalore;3;550;28;Female;4;1
+Bachelors;2014;Bangalore;3;493;28;Female;2;0
+Bachelors;2017;Bangalore;3;502;24;Female;2;0
+Masters;2015;New Delhi;3;545;28;Male;0;0
+Bachelors;2015;Pune;2;768;25;Female;3;1
+Masters;2017;Pune;2;700;27;Male;5;1
+Bachelors;2014;Pune;2;648;25;Female;3;1
+Bachelors;2015;Pune;2;566;28;Female;2;1
+Bachelors;2013;Pune;3;534;25;Male;3;0
+Bachelors;2013;Pune;1;721;26;Female;4;1
+Bachelors;2012;Pune;2;528;27;Female;5;1
+Masters;2017;New Delhi;3;392;28;Male;0;0
+Bachelors;2012;Bangalore;3;379;28;Female;1;0
+Bachelors;2015;Pune;2;684;25;Female;3;1
+Bachelors;2015;Bangalore;3;465;26;Male;4;0
+Bachelors;2015;Bangalore;3;508;24;Female;2;0
+Bachelors;2018;New Delhi;3;539;24;Female;2;1
+Bachelors;2017;New Delhi;3;343;27;Female;5;0
+PHD;2012;Pune;3;398;27;Male;5;0
+Bachelors;2012;Bangalore;3;360;26;Male;4;0
+Bachelors;2013;Bangalore;3;586;25;Male;3;1
+Bachelors;2015;New Delhi;3;466;24;Female;2;0
+Bachelors;2013;Pune;3;490;24;Female;2;0
+Bachelors;2016;Pune;3;334;24;Male;2;0
+Bachelors;2018;Pune;3;578;24;Male;2;1
+Bachelors;2015;Bangalore;3;570;27;Female;5;1
+Bachelors;2018;Bangalore;3;441;26;Male;4;1
+Bachelors;2012;Pune;3;479;24;Female;2;1
+Masters;2017;New Delhi;3;410;27;Male;5;1
+Bachelors;2012;Bangalore;3;414;26;Male;4;0
+Bachelors;2013;Bangalore;3;533;27;Male;5;0
+Bachelors;2015;New Delhi;3;342;25;Female;3;0
+Bachelors;2018;Bangalore;3;462;24;Female;2;1
+Bachelors;2014;Bangalore;3;501;28;Male;4;0
+Bachelors;2013;Pune;1;900;26;Female;4;1
+Bachelors;2015;Bangalore;3;475;27;Male;5;0
+Bachelors;2013;Bangalore;3;509;24;Male;2;0
+Bachelors;2016;Bangalore;3;333;26;Male;4;1
+Bachelors;2013;Bangalore;3;594;25;Female;3;1
+Bachelors;2016;Bangalore;3;383;27;Male;5;0
+Bachelors;2017;Pune;3;385;26;Male;4;0
+Bachelors;2018;Pune;2;669;28;Female;5;1
+Masters;2017;Pune;2;513;27;Male;5;0
+Bachelors;2013;Bangalore;3;461;25;Female;3;0
+Bachelors;2017;Bangalore;3;537;24;Male;2;0
+Bachelors;2017;New Delhi;2;702;25;Female;3;0
+Bachelors;2018;Pune;3;432;27;Female;5;1
+Bachelors;2016;Pune;3;471;27;Male;5;0
+Bachelors;2013;Bangalore;1;807;24;Male;2;0
+Bachelors;2012;Bangalore;1;770;28;Male;3;0
+Bachelors;2016;Pune;2;633;28;Female;3;1
+Bachelors;2016;Pune;3;457;24;Male;2;0
+Bachelors;2017;Bangalore;3;304;28;Male;3;0
+Bachelors;2017;Pune;2;703;28;Male;3;0
+Bachelors;2017;Bangalore;3;320;25;Female;3;1
+Bachelors;2015;Bangalore;3;573;25;Male;3;0
+Masters;2013;New Delhi;3;562;25;Male;3;1
+Bachelors;2017;Bangalore;3;360;24;Male;2;0
+Bachelors;2013;Pune;3;396;27;Male;5;0
+Bachelors;2013;Pune;2;612;24;Female;2;1
+Bachelors;2017;Bangalore;3;347;28;Male;1;1
+Bachelors;2012;Bangalore;3;461;25;Male;3;0
+Bachelors;2014;Pune;3;317;26;Male;4;0
+Bachelors;2015;Pune;1;858;24;Female;2;1
+Masters;2013;New Delhi;3;417;24;Female;2;1
+Bachelors;2014;Bangalore;3;573;25;Male;3;0
+Bachelors;2017;New Delhi;2;758;26;Male;4;0
+Bachelors;2014;Bangalore;3;459;25;Male;3;0
+Masters;2013;New Delhi;3;580;25;Male;3;1
+Bachelors;2014;Bangalore;3;554;24;Male;2;0
+Bachelors;2014;Pune;2;587;28;Female;3;1
+Masters;2015;New Delhi;3;440;28;Male;2;0
+Bachelors;2015;Bangalore;3;521;28;Male;5;0
+Bachelors;2017;Bangalore;3;332;24;Male;2;0
+Bachelors;2014;Pune;3;560;27;Male;5;0
+Bachelors;2015;Pune;2;656;28;Female;5;1
+Masters;2017;New Delhi;2;581;26;Female;4;1
+Bachelors;2016;New Delhi;3;313;26;Female;4;0
+Bachelors;2016;Bangalore;3;575;26;Female;4;0
+Bachelors;2013;New Delhi;3;430;27;Female;5;0
+Bachelors;2014;Bangalore;3;580;28;Male;3;0
+Bachelors;2017;New Delhi;3;423;25;Male;3;0
+Bachelors;2015;Bangalore;1;717;27;Male;5;0
+Bachelors;2013;Bangalore;3;545;26;Male;4;0
+Bachelors;2014;Bangalore;3;304;24;Female;2;0
+Bachelors;2014;Pune;2;767;26;Male;4;0
+Bachelors;2013;Bangalore;3;421;24;Male;2;1
+Bachelors;2012;Bangalore;3;471;25;Male;3;0
+Bachelors;2012;Bangalore;3;523;27;Male;5;0
+Bachelors;2012;Bangalore;3;443;28;Male;1;0
+Masters;2017;New Delhi;2;681;25;Female;3;1
+Bachelors;2014;Bangalore;3;380;25;Male;3;0
+Bachelors;2016;Pune;2;652;27;Female;5;1
+Bachelors;2017;Pune;3;597;28;Male;3;0
+Masters;2017;New Delhi;3;582;28;Male;2;0
+PHD;2018;Pune;3;522;26;Male;4;1
+Masters;2017;New Delhi;2;507;24;Male;2;1
+Bachelors;2014;Bangalore;3;435;28;Male;0;0
+Masters;2015;Pune;3;449;26;Female;4;0
+Bachelors;2016;Bangalore;3;501;27;Male;5;1
+Bachelors;2016;New Delhi;3;538;28;Female;4;0
+Bachelors;2012;Pune;3;374;26;Male;4;0
+Masters;2015;Bangalore;2;572;27;Female;5;1
+Masters;2017;Pune;1;773;28;Male;0;0
+Masters;2015;New Delhi;3;479;28;Female;2;0
+Bachelors;2017;Bangalore;3;599;26;Male;4;1
+Bachelors;2017;Pune;3;372;28;Female;4;1
+Bachelors;2015;Pune;3;506;25;Male;3;0
+Masters;2017;New Delhi;2;698;27;Female;5;0
+Masters;2015;Pune;2;523;27;Female;5;0
+Bachelors;2015;Bangalore;3;409;25;Male;3;1
+Bachelors;2013;Bangalore;3;540;28;Female;1;0
+Bachelors;2015;Pune;3;421;25;Female;3;1
+Bachelors;2012;Bangalore;3;437;28;Female;2;1
+Bachelors;2016;Pune;3;429;27;Female;5;1
+Bachelors;2016;Bangalore;3;386;26;Male;4;0
+PHD;2018;New Delhi;3;355;26;Male;4;1
+Bachelors;2017;Bangalore;3;399;27;Male;5;0
+Bachelors;2018;Pune;3;456;28;Male;2;1
+Bachelors;2013;Bangalore;3;318;24;Male;2;0
+Bachelors;2013;New Delhi;3;557;26;Male;4;0
+Bachelors;2013;Bangalore;3;354;28;Male;1;0
+Masters;2017;New Delhi;2;592;28;Female;2;0
+Bachelors;2016;Bangalore;1;854;24;Male;2;0
+Bachelors;2017;Bangalore;3;452;27;Male;5;0
+Bachelors;2014;Pune;2;715;27;Female;5;1
+Bachelors;2017;Bangalore;3;445;27;Male;5;0
+Bachelors;2017;New Delhi;3;312;27;Male;5;0
+Masters;2018;New Delhi;3;577;24;Male;2;1
+Bachelors;2016;Bangalore;3;501;26;Male;4;1
+Bachelors;2017;Bangalore;3;435;28;Male;3;0
+Bachelors;2017;New Delhi;3;374;26;Female;4;0
+Bachelors;2016;Pune;3;398;28;Male;3;0
+Bachelors;2015;New Delhi;3;330;26;Male;4;0
+Bachelors;2014;Bangalore;3;368;26;Male;4;1
+Bachelors;2017;Pune;2;538;24;Female;2;1
+Bachelors;2016;Bangalore;3;500;26;Male;4;1
+PHD;2016;New Delhi;1;739;26;Male;4;0
+Bachelors;2018;Bangalore;3;457;24;Female;2;1
+Bachelors;2017;Bangalore;2;592;28;Female;1;0
+Bachelors;2013;Bangalore;3;397;24;Female;2;0
+Masters;2014;New Delhi;3;496;25;Female;3;0
+Bachelors;2012;Pune;1;871;26;Male;4;0
+Bachelors;2014;Bangalore;3;385;28;Male;5;0
+Bachelors;2013;Bangalore;3;531;28;Male;2;1
+Masters;2017;Pune;2;726;27;Male;5;0
+Bachelors;2016;Bangalore;3;575;28;Male;0;0
+Bachelors;2014;New Delhi;3;325;25;Male;3;0
+Bachelors;2013;Bangalore;3;346;25;Female;3;1
+Bachelors;2017;Bangalore;3;305;24;Female;2;1
+Bachelors;2015;Bangalore;3;410;26;Female;4;0
+Bachelors;2014;Bangalore;3;372;28;Male;4;0
+Bachelors;2017;New Delhi;2;768;28;Male;0;0
+Masters;2017;New Delhi;3;520;24;Female;2;0
+PHD;2017;Pune;3;476;27;Male;5;0
+Bachelors;2015;Bangalore;3;415;28;Female;5;0
+Bachelors;2017;New Delhi;3;451;25;Female;3;0
+Masters;2017;Bangalore;3;526;25;Male;3;0
+Masters;2017;Bangalore;1;882;26;Male;4;0
+Bachelors;2014;Bangalore;3;472;25;Male;3;1
+Bachelors;2016;Bangalore;3;500;27;Male;5;1
+Bachelors;2013;Bangalore;3;447;24;Male;2;0
+Bachelors;2012;Bangalore;3;318;25;Male;3;0
+Bachelors;2014;Pune;3;302;25;Male;3;1
+Bachelors;2018;Bangalore;3;506;25;Female;3;1
+Masters;2012;Pune;3;556;26;Male;4;1
+PHD;2016;Bangalore;3;533;25;Male;3;0
+Bachelors;2015;Bangalore;3;389;25;Male;3;0
+Bachelors;2017;New Delhi;2;657;25;Male;3;1
+Bachelors;2015;New Delhi;3;593;27;Female;5;0
+Bachelors;2017;Pune;3;374;26;Male;4;0
+Bachelors;2016;Pune;3;497;26;Male;4;0
+Bachelors;2018;Bangalore;3;544;26;Male;4;1
+Masters;2018;New Delhi;3;461;25;Female;3;1
+Masters;2017;Pune;2;522;25;Male;3;0
+Masters;2014;Bangalore;3;344;24;Female;2;0
+Bachelors;2014;Pune;3;453;28;Female;2;1
+Bachelors;2012;Bangalore;3;563;26;Male;4;0
+Bachelors;2017;Pune;3;458;26;Male;4;0
+Bachelors;2014;Pune;2;523;28;Female;0;1
+Bachelors;2017;New Delhi;3;577;25;Female;3;0
+Bachelors;2014;Bangalore;3;394;25;Male;3;0
+Bachelors;2012;Bangalore;3;579;26;Male;4;0
+Bachelors;2014;Bangalore;3;467;26;Male;4;0
+Bachelors;2017;Bangalore;3;488;26;Female;4;0
+Masters;2017;Bangalore;2;595;26;Male;4;1
+Bachelors;2017;New Delhi;3;354;25;Female;3;0
+Bachelors;2018;Bangalore;3;379;25;Male;3;1
+Bachelors;2014;New Delhi;3;400;27;Female;5;0
+Bachelors;2017;Bangalore;3;374;28;Male;5;0
+Bachelors;2015;Bangalore;1;767;24;Female;2;0
+Bachelors;2013;Bangalore;3;410;27;Male;5;1
+Bachelors;2018;Bangalore;3;358;26;Female;4;1
+Masters;2017;New Delhi;2;776;28;Female;2;0
+Bachelors;2016;Pune;3;526;28;Female;4;1
+Bachelors;2016;Bangalore;3;402;25;Male;3;0
+Bachelors;2015;Pune;3;402;27;Female;5;1
+Bachelors;2015;Bangalore;3;312;26;Male;4;1
+Bachelors;2015;Pune;3;421;28;Female;5;1
+Bachelors;2013;Pune;3;529;27;Male;5;0
+Masters;2017;Pune;2;648;25;Male;3;0
+Bachelors;2015;Pune;2;744;25;Female;3;1
+Bachelors;2015;Pune;2;566;24;Female;2;1
+Masters;2017;New Delhi;2;604;28;Female;2;0
+Bachelors;2014;New Delhi;3;462;24;Female;2;0
+Bachelors;2012;Bangalore;3;435;27;Male;5;1
+Bachelors;2015;Pune;2;608;28;Female;5;1
+Bachelors;2015;New Delhi;2;536;27;Female;5;1
+Bachelors;2017;Bangalore;3;316;24;Female;2;0
+Masters;2016;New Delhi;3;548;25;Female;3;0
+Bachelors;2012;Pune;3;575;24;Male;2;0
+Bachelors;2015;New Delhi;3;600;24;Female;2;0
+Bachelors;2015;Pune;2;696;26;Female;4;1
+Masters;2017;Pune;2;744;27;Female;5;0
+Bachelors;2013;Bangalore;1;766;24;Female;2;1
+PHD;2017;Pune;3;387;28;Male;1;0
+Bachelors;2017;Bangalore;3;564;24;Female;2;0
+Bachelors;2015;Pune;2;635;24;Female;2;1
+Bachelors;2017;Bangalore;3;484;27;Male;5;0
+Bachelors;2016;New Delhi;3;405;28;Male;4;0
+Masters;2017;New Delhi;2;559;28;Female;2;0
+PHD;2014;New Delhi;3;543;24;Male;2;0
+Bachelors;2013;Bangalore;3;499;26;Female;4;0
+Masters;2014;New Delhi;3;513;24;Male;2;0
+Bachelors;2013;New Delhi;3;596;24;Female;2;0
+Masters;2017;New Delhi;3;306;26;Male;4;1
+Bachelors;2014;Pune;2;570;27;Male;5;0
+Masters;2013;Bangalore;3;432;25;Male;3;1
+Masters;2012;New Delhi;3;476;27;Female;5;1
+Masters;2017;Bangalore;2;736;25;Male;3;0
+Bachelors;2012;New Delhi;3;575;28;Male;5;0
+Bachelors;2014;Bangalore;3;352;28;Male;0;0
+Bachelors;2017;New Delhi;3;600;28;Female;4;0
+Bachelors;2016;Pune;3;368;27;Male;5;1
+Bachelors;2017;New Delhi;2;704;27;Female;5;0
+PHD;2014;Bangalore;3;491;28;Female;0;0
+Bachelors;2013;Pune;2;567;25;Male;3;1
+Bachelors;2017;Pune;3;512;28;Male;3;0
+Bachelors;2012;Bangalore;3;577;27;Male;5;0
+Bachelors;2013;Bangalore;2;540;24;Female;2;1
+Masters;2017;New Delhi;2;653;25;Male;3;0
+Bachelors;2014;Pune;3;564;24;Male;2;0
+Bachelors;2013;New Delhi;1;841;25;Female;3;1
+Bachelors;2015;Pune;3;573;28;Male;2;0
+Masters;2017;New Delhi;3;390;28;Male;1;1
+Bachelors;2017;New Delhi;2;661;27;Female;5;0
+Bachelors;2018;Pune;3;429;24;Male;2;1
+Bachelors;2013;Bangalore;3;572;26;Male;4;0
+Bachelors;2017;Bangalore;3;531;27;Female;5;0
+Masters;2017;New Delhi;1;891;26;Female;4;1
+Masters;2017;Bangalore;2;730;26;Female;4;0
+Bachelors;2013;Pune;3;532;26;Male;4;0
+Masters;2014;New Delhi;1;890;25;Female;3;0
+Bachelors;2014;Bangalore;3;376;27;Male;5;0
+Bachelors;2016;Bangalore;3;539;25;Male;3;0
+Bachelors;2016;Bangalore;3;376;27;Male;5;0
+Bachelors;2015;Bangalore;3;470;28;Female;5;0
+Masters;2012;New Delhi;3;422;25;Male;3;1
+Bachelors;2013;Bangalore;3;574;28;Male;2;1
+Bachelors;2014;Bangalore;1;760;25;Male;3;0
+Bachelors;2014;Pune;3;477;26;Male;4;0
+Bachelors;2013;Pune;3;328;28;Male;0;0
+Bachelors;2015;Bangalore;3;340;27;Male;5;0
+Bachelors;2014;Pune;1;771;28;Female;3;1
+Masters;2017;Pune;2;581;25;Female;3;1
+Masters;2013;New Delhi;3;495;28;Female;2;0
+Masters;2017;Bangalore;2;512;27;Female;5;1
+Bachelors;2015;Bangalore;3;410;27;Male;5;0
+Bachelors;2012;Bangalore;3;439;27;Male;5;0
+Bachelors;2014;Bangalore;3;339;26;Male;4;0
+Bachelors;2013;New Delhi;3;518;26;Female;4;0
+Bachelors;2012;Bangalore;3;474;27;Male;5;0
+Bachelors;2013;Bangalore;3;346;26;Female;4;0
+Masters;2017;New Delhi;2;795;28;Female;3;0
+Bachelors;2017;New Delhi;2;695;26;Male;4;0
+Bachelors;2013;Pune;2;664;27;Female;5;1
+Masters;2015;Bangalore;3;514;27;Female;5;0
+Masters;2017;Pune;3;441;27;Female;5;1
+Bachelors;2016;Bangalore;3;401;27;Male;5;0
+Bachelors;2012;Bangalore;3;386;27;Male;5;0
+Bachelors;2014;Bangalore;3;440;25;Female;3;0
+Bachelors;2016;Bangalore;3;332;26;Female;4;0
+Bachelors;2016;Bangalore;3;323;26;Female;4;0
+Bachelors;2014;New Delhi;3;581;26;Male;4;0
+Bachelors;2014;Bangalore;3;465;28;Male;3;0
+Bachelors;2012;Pune;3;301;25;Male;3;0
+Masters;2014;Bangalore;3;588;28;Female;3;1
+Bachelors;2016;New Delhi;3;597;26;Male;4;0
+Bachelors;2012;New Delhi;3;525;24;Female;2;0
+Bachelors;2015;Pune;2;661;28;Female;4;1
+Bachelors;2017;New Delhi;2;507;24;Male;2;0
+Bachelors;2015;New Delhi;3;448;25;Male;3;0
+Bachelors;2013;Bangalore;3;362;27;Male;5;0
+Bachelors;2015;Bangalore;3;424;27;Male;5;0
+Bachelors;2017;Bangalore;3;520;28;Female;3;1
+Bachelors;2017;Bangalore;3;446;24;Female;2;0
+Masters;2017;New Delhi;2;638;26;Female;4;0
+Bachelors;2016;Bangalore;3;446;25;Male;3;1
+Bachelors;2016;Bangalore;3;520;26;Male;4;0
+Masters;2017;Bangalore;2;760;24;Female;2;0
+Bachelors;2017;Bangalore;3;375;27;Male;5;0
+Bachelors;2014;Pune;2;573;27;Female;5;1
+Masters;2017;New Delhi;1;700;24;Female;2;0
+Bachelors;2014;Bangalore;3;348;28;Male;1;0
+Bachelors;2013;Pune;3;412;26;Male;4;0
+Bachelors;2014;Pune;3;380;28;Male;0;0
+Masters;2013;New Delhi;3;336;28;Male;1;0
+Masters;2017;Pune;2;772;27;Female;5;0
+Bachelors;2017;Pune;3;359;28;Male;1;0
+Bachelors;2016;New Delhi;3;461;26;Female;4;0
+PHD;2018;Bangalore;3;345;27;Male;5;1
+Bachelors;2014;Pune;3;510;26;Male;4;0
+Bachelors;2013;Pune;3;559;25;Male;3;0
+Masters;2017;Pune;3;560;25;Male;3;0
+Bachelors;2017;Pune;2;777;24;Female;2;1
+Bachelors;2017;New Delhi;3;334;24;Female;2;0
+PHD;2014;Pune;3;521;24;Male;2;0
+PHD;2017;Bangalore;3;308;24;Female;2;0
+Masters;2017;New Delhi;2;772;26;Male;4;1
+Bachelors;2013;Pune;2;608;24;Male;2;1
+PHD;2016;New Delhi;3;556;27;Female;5;0
+Masters;2017;New Delhi;2;768;25;Female;3;1
+Bachelors;2014;Pune;3;300;26;Male;4;0
+Bachelors;2017;New Delhi;3;391;25;Female;3;0
+Bachelors;2012;Bangalore;3;461;27;Female;5;0
+Bachelors;2016;Bangalore;3;329;26;Male;4;0
+Bachelors;2016;Bangalore;3;539;26;Male;4;0
+Bachelors;2015;Pune;2;571;27;Female;5;1
+Bachelors;2016;Pune;3;554;28;Female;2;1
+Masters;2017;New Delhi;2;685;27;Female;5;1
+Bachelors;2018;Bangalore;3;578;25;Female;3;1
+Bachelors;2014;Pune;3;450;27;Male;5;0
+Bachelors;2014;Bangalore;3;406;27;Male;5;0
+Bachelors;2015;New Delhi;3;342;25;Female;3;0
+Masters;2017;Bangalore;3;478;26;Female;4;0
+Masters;2018;New Delhi;3;344;25;Male;3;1
+Bachelors;2018;Bangalore;3;540;25;Male;3;1
+Bachelors;2014;Bangalore;3;411;28;Male;1;0
+Bachelors;2017;Bangalore;3;327;24;Male;2;0
+Bachelors;2013;Bangalore;3;513;28;Female;3;0
+Bachelors;2015;Pune;3;489;24;Male;2;0
+Bachelors;2012;Bangalore;3;368;26;Male;4;0
+Bachelors;2014;New Delhi;3;376;25;Female;3;0
+Masters;2017;New Delhi;1;798;26;Male;4;0
+Bachelors;2016;Bangalore;3;316;25;Female;3;0
+Bachelors;2013;Pune;2;725;26;Male;4;0
+Bachelors;2018;Pune;1;898;26;Male;4;0
+Bachelors;2017;Bangalore;3;593;24;Male;2;0
+Bachelors;2016;Bangalore;3;486;24;Male;2;0
+Bachelors;2014;Bangalore;3;317;24;Female;2;0
+PHD;2017;New Delhi;3;485;28;Male;3;0
+Bachelors;2017;New Delhi;2;670;24;Female;2;1
+Bachelors;2015;Bangalore;3;420;25;Female;3;0
+Bachelors;2015;Pune;3;403;26;Male;4;0
+Masters;2014;Bangalore;3;538;27;Male;5;1
+Bachelors;2012;Pune;3;304;24;Female;2;1
+Bachelors;2015;Pune;2;508;26;Female;4;1
+Bachelors;2013;Bangalore;3;502;24;Female;2;0
+Bachelors;2017;Bangalore;3;512;26;Female;4;0
+Masters;2017;New Delhi;3;437;26;Male;4;0
+Bachelors;2016;Bangalore;3;515;24;Male;2;0
+Bachelors;2015;Pune;3;476;28;Male;2;0
+Bachelors;2013;Bangalore;3;424;27;Male;5;0
+Bachelors;2012;Bangalore;3;358;24;Male;2;0
+Masters;2015;Pune;2;674;28;Female;0;0
+Bachelors;2017;Pune;3;473;26;Male;4;0
+Bachelors;2018;Bangalore;3;478;27;Female;5;1
+Masters;2017;Pune;3;582;27;Male;5;1
+Bachelors;2013;Bangalore;1;708;27;Female;5;0
+Bachelors;2016;Bangalore;3;421;27;Female;5;0
+Bachelors;2013;Pune;3;376;28;Male;1;0
+Bachelors;2017;Pune;3;369;28;Male;2;0
+Bachelors;2013;Bangalore;3;397;26;Male;4;0
+Bachelors;2015;Bangalore;3;546;25;Female;3;0
+Bachelors;2015;Pune;3;468;24;Female;2;1
+Bachelors;2014;New Delhi;3;375;28;Male;1;0
+Bachelors;2017;New Delhi;2;533;28;Female;2;0
+Masters;2015;New Delhi;3;349;26;Male;4;1
+PHD;2014;New Delhi;3;400;25;Male;3;0
+Bachelors;2013;Bangalore;3;318;25;Male;3;0
+Bachelors;2017;Bangalore;3;587;25;Male;3;0
+Bachelors;2013;New Delhi;2;671;24;Female;2;1
+Bachelors;2014;Pune;3;335;25;Male;3;0
+Bachelors;2017;New Delhi;3;367;25;Female;3;0
+Masters;2017;New Delhi;2;665;24;Male;2;1
+Bachelors;2015;New Delhi;3;429;28;Female;2;0
+Bachelors;2017;Bangalore;3;371;27;Male;5;1
+Bachelors;2015;Pune;3;392;26;Male;4;0
+Bachelors;2017;Pune;2;506;27;Female;5;1
+Bachelors;2016;Bangalore;3;559;24;Male;2;0
+Bachelors;2014;Bangalore;2;688;26;Female;4;1
+Masters;2017;New Delhi;2;547;25;Female;3;0
+Bachelors;2012;New Delhi;3;516;25;Female;3;0
+Bachelors;2014;Bangalore;3;560;27;Male;5;0
+Bachelors;2017;New Delhi;3;449;27;Male;5;0
+Bachelors;2018;Bangalore;3;372;25;Female;3;1
+Bachelors;2016;Pune;3;494;27;Female;5;0
+Bachelors;2017;Bangalore;3;418;24;Male;2;0
+Bachelors;2014;Pune;2;763;28;Female;1;1
+Bachelors;2017;Bangalore;2;590;28;Female;2;1
+Bachelors;2017;New Delhi;2;712;26;Female;4;1
+Bachelors;2013;Pune;2;561;27;Female;5;1
+Bachelors;2012;Bangalore;3;521;24;Female;2;0
+Masters;2017;Pune;2;628;27;Female;5;0
+Bachelors;2015;New Delhi;3;362;24;Male;2;0
+Bachelors;2013;New Delhi;3;385;28;Female;2;0
+Bachelors;2016;New Delhi;3;354;28;Male;0;0
+Bachelors;2016;Bangalore;3;391;26;Male;4;0
+Bachelors;2018;Bangalore;3;549;27;Male;5;1
+Bachelors;2015;Bangalore;3;442;25;Male;3;0
+Bachelors;2014;Bangalore;3;469;26;Male;4;0
+Bachelors;2018;Pune;3;575;24;Male;2;1
+Bachelors;2017;Bangalore;3;471;26;Male;4;0
+Bachelors;2016;Bangalore;3;420;26;Male;4;0
+Bachelors;2012;Bangalore;3;301;26;Male;4;0
+Masters;2017;Bangalore;2;658;27;Male;5;0
+Bachelors;2016;Bangalore;3;319;25;Female;3;0
+Masters;2013;Pune;3;582;25;Male;3;0
+Masters;2016;New Delhi;3;534;27;Male;5;1
+Bachelors;2014;Bangalore;3;574;28;Female;1;0
+Bachelors;2014;Bangalore;3;421;25;Male;3;0
+PHD;2013;Bangalore;2;558;25;Male;3;1
+Bachelors;2017;New Delhi;3;522;25;Male;3;0
+Bachelors;2015;Bangalore;3;314;24;Male;2;0
+Masters;2015;Bangalore;3;355;26;Female;4;1
+Bachelors;2013;Bangalore;3;303;25;Female;3;0
+Bachelors;2015;New Delhi;2;712;24;Female;2;1
+Masters;2015;New Delhi;2;539;27;Female;5;1
+Bachelors;2017;New Delhi;2;542;26;Male;4;0
+Bachelors;2013;Bangalore;3;510;25;Male;3;0
+PHD;2017;New Delhi;3;531;24;Male;2;0
+Masters;2015;Bangalore;3;415;27;Male;5;1
+Bachelors;2015;New Delhi;2;583;28;Female;1;1
+Bachelors;2014;Bangalore;3;418;28;Male;2;1
+Bachelors;2014;Bangalore;3;344;25;Male;3;0
+Bachelors;2013;Bangalore;3;537;26;Male;4;0
+Masters;2017;New Delhi;1;801;27;Male;5;0
+Bachelors;2018;Bangalore;3;430;27;Male;5;1
+Bachelors;2014;Bangalore;3;372;24;Male;2;0
+Bachelors;2013;Bangalore;3;362;28;Male;0;0
+Bachelors;2013;Bangalore;3;539;24;Male;2;0
+Bachelors;2012;Bangalore;3;402;28;Female;1;1
+Bachelors;2014;Bangalore;3;343;26;Male;4;0
+Masters;2017;New Delhi;2;606;28;Male;3;0
+Bachelors;2013;Pune;3;476;24;Female;2;1
+Masters;2017;New Delhi;2;763;24;Male;2;1
+Bachelors;2014;Bangalore;3;504;28;Female;1;1
+Bachelors;2018;Bangalore;3;502;25;Male;3;1
+Masters;2012;New Delhi;3;449;27;Female;5;0
+Masters;2014;New Delhi;3;321;26;Male;4;0
+Bachelors;2017;Bangalore;3;355;28;Male;5;0
+Bachelors;2017;Pune;3;371;28;Female;1;0
+Bachelors;2016;Bangalore;3;504;24;Male;2;0
+Bachelors;2016;New Delhi;3;511;24;Male;2;0
+Masters;2018;New Delhi;3;570;28;Male;2;1
+Bachelors;2014;Bangalore;3;591;25;Male;3;0
+Masters;2013;New Delhi;3;464;25;Male;3;1
+Masters;2017;Bangalore;3;582;28;Female;0;1
+PHD;2018;Bangalore;3;335;26;Male;4;1
+Bachelors;2017;Bangalore;1;877;24;Male;2;0
+Bachelors;2017;New Delhi;2;622;25;Male;3;0
+Masters;2015;Pune;2;780;28;Female;0;0
+Bachelors;2014;Pune;2;739;27;Female;5;1
+Bachelors;2014;Bangalore;3;335;25;Male;3;0
+Bachelors;2017;Pune;3;427;27;Male;5;0
+Bachelors;2017;Bangalore;3;482;28;Male;2;0
+Bachelors;2014;Bangalore;3;393;28;Male;1;0
+Bachelors;2014;New Delhi;3;318;28;Female;3;0
+Bachelors;2015;New Delhi;2;631;29;Female;1;1
+Bachelors;2012;Bangalore;3;390;29;Male;1;0
+Bachelors;2017;Pune;2;530;26;Male;4;0
+Bachelors;2015;Pune;3;564;28;Female;2;1
+Bachelors;2016;Pune;3;320;26;Male;4;0
+Masters;2017;New Delhi;3;354;26;Female;4;0
+Bachelors;2013;Pune;3;486;26;Male;4;0
+Bachelors;2017;Bangalore;3;351;28;Male;1;0
+Bachelors;2013;Bangalore;3;431;26;Male;4;0
+Bachelors;2015;Pune;3;336;28;Female;2;1
+Bachelors;2017;New Delhi;3;334;28;Female;1;0
+Bachelors;2016;New Delhi;3;530;27;Female;5;0
+Bachelors;2018;Pune;3;505;27;Male;5;1
+Bachelors;2014;Bangalore;3;527;29;Male;2;0
+Bachelors;2015;Pune;2;699;28;Female;2;1
+Bachelors;2017;Pune;3;362;26;Female;4;1
+Masters;2017;New Delhi;3;452;28;Male;2;0
+Bachelors;2017;Pune;3;435;26;Male;4;0
+Bachelors;2017;Pune;3;305;26;Female;4;1
+Bachelors;2018;Bangalore;3;476;26;Female;4;1
+Bachelors;2014;Pune;3;444;30;Male;2;0
+Masters;2017;New Delhi;3;512;29;Male;2;1
+Masters;2017;Pune;2;667;26;Female;4;0
+Masters;2015;New Delhi;3;411;28;Female;2;0
+Bachelors;2016;Bangalore;3;358;30;Female;2;1
+Bachelors;2012;Bangalore;3;553;26;Female;4;1
+Bachelors;2014;Bangalore;3;476;29;Male;1;0
+Bachelors;2012;Bangalore;3;321;26;Male;4;0
+Bachelors;2018;Bangalore;3;387;26;Male;4;1
+PHD;2018;New Delhi;2;673;29;Female;1;1
+Masters;2013;New Delhi;3;511;26;Male;4;1
+Masters;2015;Pune;3;581;30;Female;2;0
+Bachelors;2018;Pune;3;474;26;Male;4;1
+Masters;2013;New Delhi;2;507;29;Female;2;1
+Bachelors;2016;Bangalore;3;360;29;Male;2;0
+Bachelors;2013;Bangalore;3;456;28;Male;1;0
+Bachelors;2017;Pune;2;549;26;Female;4;1
+Masters;2017;Pune;2;800;30;Female;2;0
+Bachelors;2015;Pune;2;793;30;Female;1;1
+Masters;2017;New Delhi;2;759;29;Female;2;1
+Bachelors;2015;Bangalore;3;518;30;Male;2;0
+Bachelors;2015;Bangalore;3;563;27;Female;5;1
+Bachelors;2017;Pune;3;484;27;Female;5;1
+Bachelors;2014;Bangalore;3;359;30;Male;2;0
+Bachelors;2014;Bangalore;3;598;26;Female;4;0
+Masters;2013;New Delhi;3;378;26;Male;4;0
+Bachelors;2013;New Delhi;3;562;29;Female;1;1
+Bachelors;2018;New Delhi;3;327;27;Female;5;1
+Bachelors;2014;Bangalore;3;578;29;Male;1;0
+Bachelors;2017;Pune;3;509;26;Female;4;1
+Masters;2015;Bangalore;2;770;27;Female;5;1
+Masters;2017;New Delhi;2;528;29;Female;2;0
+Masters;2017;Bangalore;3;380;26;Female;4;0
+Bachelors;2015;Bangalore;3;379;28;Male;2;0
+Bachelors;2013;Bangalore;3;525;27;Male;5;1
+Bachelors;2014;New Delhi;3;553;28;Female;2;0
+Bachelors;2012;Bangalore;3;430;29;Male;1;1
+Bachelors;2016;New Delhi;3;422;28;Female;2;0
+Masters;2012;New Delhi;3;426;26;Female;4;1
+Bachelors;2014;Bangalore;3;513;26;Male;4;0
+Bachelors;2017;Pune;3;483;28;Male;2;0
+Bachelors;2012;Bangalore;2;533;27;Female;5;1
+Bachelors;2018;Bangalore;3;499;28;Male;1;1
+Bachelors;2015;Pune;2;773;26;Female;4;1
+PHD;2016;Bangalore;3;527;29;Female;1;0
+Masters;2018;Bangalore;3;445;30;Female;2;1
+Bachelors;2014;Bangalore;3;350;28;Female;2;0
+Masters;2017;New Delhi;2;665;30;Male;2;0
+Bachelors;2012;Bangalore;3;484;30;Male;1;0
+Masters;2017;New Delhi;2;577;30;Male;2;0
+Bachelors;2017;New Delhi;3;448;26;Male;4;0
+Bachelors;2017;Bangalore;3;339;28;Female;2;0
+Masters;2013;New Delhi;3;465;26;Female;4;0
+PHD;2015;New Delhi;1;701;29;Male;2;0
+Masters;2017;New Delhi;2;678;27;Female;5;1
+Bachelors;2016;Pune;3;402;30;Male;1;0
+Bachelors;2012;Bangalore;3;475;26;Male;4;1
+Bachelors;2014;Pune;2;744;29;Female;2;1
+Bachelors;2016;Bangalore;3;482;30;Male;2;0
+Bachelors;2013;Bangalore;3;474;27;Female;5;0
+PHD;2015;New Delhi;2;501;29;Female;1;0
+Bachelors;2012;Bangalore;3;362;27;Male;5;0
+Bachelors;2018;Bangalore;3;498;30;Male;2;1
+Masters;2017;Pune;2;709;29;Female;2;0
+Masters;2016;Bangalore;3;540;29;Female;2;0
+Bachelors;2017;Bangalore;3;315;27;Female;5;1
+Bachelors;2017;Bangalore;3;377;28;Male;2;0
+Bachelors;2017;Bangalore;3;534;27;Female;5;0
+Bachelors;2012;New Delhi;3;416;29;Male;1;0
+Bachelors;2017;Bangalore;3;339;26;Male;4;0
+Bachelors;2013;Bangalore;3;354;28;Female;1;1
+Bachelors;2013;Pune;2;545;29;Female;1;1
+Bachelors;2015;Bangalore;1;780;27;Male;5;0
+Bachelors;2016;Bangalore;3;390;30;Male;1;0
+Bachelors;2013;New Delhi;3;470;30;Female;1;0
+Masters;2017;Pune;2;678;27;Male;5;1
+Masters;2017;Pune;2;578;29;Male;2;0
+Bachelors;2016;New Delhi;3;560;29;Female;1;0
+Bachelors;2014;Bangalore;3;308;26;Male;4;1
+Bachelors;2014;Bangalore;3;456;26;Male;4;0
+Bachelors;2015;New Delhi;3;593;28;Female;1;0
+Bachelors;2013;Pune;2;707;28;Female;1;1
+Bachelors;2016;Bangalore;3;488;27;Female;5;0
+Bachelors;2017;Bangalore;3;358;26;Male;4;1
+Bachelors;2014;New Delhi;3;567;30;Male;2;1
+Bachelors;2015;Pune;2;704;30;Male;2;1
+Bachelors;2016;Bangalore;3;404;27;Male;5;0
+Bachelors;2015;Pune;3;544;26;Female;4;1
+Bachelors;2014;New Delhi;3;468;30;Male;1;0
+Masters;2017;Pune;2;743;26;Male;4;1
+Bachelors;2016;Bangalore;3;331;27;Male;5;0
+PHD;2017;Pune;3;411;28;Male;1;0
+Bachelors;2015;New Delhi;3;572;30;Female;2;0
+Bachelors;2016;Bangalore;3;409;29;Male;2;0
+Bachelors;2012;Bangalore;3;418;28;Male;2;0
+Bachelors;2014;Bangalore;1;897;30;Male;2;1
+Bachelors;2013;Bangalore;3;443;27;Male;5;1
+Masters;2017;Pune;2;590;30;Male;2;0
+Bachelors;2012;Bangalore;3;489;30;Male;2;0
+Masters;2017;New Delhi;2;604;26;Male;4;0
+Bachelors;2014;Pune;2;510;26;Male;4;0
+Bachelors;2013;Bangalore;3;439;29;Female;1;1
+Bachelors;2015;Pune;3;445;29;Female;2;1
+Bachelors;2013;Bangalore;3;341;28;Female;1;0
+Masters;2016;Bangalore;3;490;29;Male;1;0
+Masters;2016;New Delhi;3;512;26;Female;4;0
+Bachelors;2015;Bangalore;3;537;26;Male;4;0
+Bachelors;2016;Pune;3;305;26;Male;4;0
+Masters;2015;New Delhi;1;705;27;Male;5;1
+Bachelors;2012;Bangalore;3;416;28;Male;1;1
+Masters;2017;Pune;2;736;27;Male;5;0
+Masters;2015;Pune;2;677;29;Female;2;0
+Bachelors;2012;Bangalore;3;583;28;Male;2;0
+Bachelors;2012;Pune;2;650;28;Male;2;1
+Bachelors;2015;Pune;2;547;27;Female;5;1
+Masters;2017;Pune;2;585;29;Female;1;0
+Bachelors;2014;Pune;2;514;28;Female;1;1
+Masters;2012;New Delhi;1;721;29;Female;1;0
+Bachelors;2015;Bangalore;3;394;30;Female;2;0
+Masters;2017;Bangalore;2;660;26;Male;4;1
+Bachelors;2012;Bangalore;3;600;26;Male;4;0
+Bachelors;2013;Bangalore;1;847;30;Male;1;0
+Masters;2017;New Delhi;3;535;30;Male;2;0
+Bachelors;2015;Pune;2;627;27;Female;5;1
+Bachelors;2016;Bangalore;3;304;28;Male;2;1
+Bachelors;2017;Pune;2;740;26;Female;4;1
+Masters;2015;New Delhi;2;784;26;Female;4;0
+Bachelors;2015;Pune;2;761;26;Female;4;1
+PHD;2013;New Delhi;3;349;27;Female;5;0
+Bachelors;2014;Bangalore;3;538;27;Male;5;1
+Bachelors;2013;New Delhi;3;548;29;Female;1;0
+Masters;2017;Pune;3;409;29;Male;2;0
+Bachelors;2016;Pune;3;473;28;Male;2;0
+Bachelors;2013;Bangalore;3;587;26;Male;4;0
+Bachelors;2013;Bangalore;3;469;29;Male;1;0
+Bachelors;2016;Pune;3;317;29;Male;2;0
+Masters;2016;New Delhi;3;492;26;Male;4;0
+Bachelors;2015;Bangalore;3;550;30;Female;1;1
+Bachelors;2014;Bangalore;3;456;26;Male;4;0
+Bachelors;2013;Bangalore;3;504;27;Female;5;0
+Bachelors;2016;Bangalore;3;477;29;Male;2;0
+Bachelors;2016;Bangalore;3;450;29;Male;1;0
+Masters;2014;New Delhi;3;488;29;Male;1;0
+Bachelors;2014;Bangalore;3;576;27;Male;5;0
+Bachelors;2012;Bangalore;1;777;27;Female;5;0
+Bachelors;2015;New Delhi;3;408;26;Female;4;0
+Bachelors;2015;Pune;1;894;28;Female;2;1
+Bachelors;2015;Pune;2;578;28;Female;1;1
+Bachelors;2018;Pune;2;679;28;Female;2;1
+Bachelors;2015;Pune;3;326;28;Female;1;1
+Bachelors;2015;Pune;3;308;29;Male;2;0
+Bachelors;2013;Bangalore;3;466;27;Male;5;0
+Bachelors;2014;Pune;2;704;27;Female;5;1
+Bachelors;2014;Bangalore;3;303;27;Male;5;1
+Bachelors;2016;Bangalore;3;537;30;Male;1;0
+PHD;2015;New Delhi;3;577;28;Male;2;1
+Bachelors;2014;Pune;3;422;29;Male;2;0
+Bachelors;2015;Bangalore;3;398;29;Male;1;0
+Bachelors;2013;Pune;3;543;30;Male;2;0
+Bachelors;2013;Bangalore;3;478;28;Male;1;0
+Bachelors;2015;Pune;2;511;29;Female;2;1
+Bachelors;2017;Bangalore;3;560;30;Male;1;0
+Bachelors;2012;Bangalore;3;409;27;Male;5;0
+Masters;2017;New Delhi;2;512;27;Male;5;0
+Bachelors;2018;Bangalore;3;569;29;Male;1;1
+Masters;2012;New Delhi;1;880;30;Female;2;1
+Masters;2016;New Delhi;3;314;28;Female;2;0
+Bachelors;2016;Bangalore;3;554;26;Male;4;0
+Bachelors;2012;Bangalore;3;510;28;Female;1;0
+Bachelors;2018;Pune;3;434;27;Male;5;1
+Bachelors;2014;Bangalore;3;348;29;Female;2;0
+PHD;2017;Bangalore;3;385;27;Male;5;0
+Bachelors;2017;Bangalore;3;412;29;Male;2;0
+Bachelors;2014;Bangalore;3;449;28;Male;2;0
+Bachelors;2014;Bangalore;3;328;26;Female;4;0
+Bachelors;2012;Bangalore;3;581;28;Male;2;0
+Masters;2018;Bangalore;3;525;28;Female;2;1
+Bachelors;2017;Bangalore;3;576;28;Female;1;0
+Bachelors;2015;Bangalore;3;349;28;Male;1;0
+Bachelors;2014;New Delhi;3;415;29;Female;1;0
+Masters;2017;New Delhi;3;567;28;Male;2;0
+Masters;2017;New Delhi;3;370;29;Male;1;0
+Bachelors;2014;Pune;2;639;29;Male;2;1
+Masters;2013;New Delhi;3;420;26;Male;4;1
+Bachelors;2014;Bangalore;3;422;30;Male;1;0
+Bachelors;2013;New Delhi;3;551;26;Female;4;0
+Bachelors;2014;Bangalore;1;856;29;Male;2;0
+Masters;2016;Pune;3;321;29;Male;2;0
+PHD;2016;Pune;1;733;28;Male;2;0
+PHD;2015;Bangalore;3;426;29;Male;2;0
+Bachelors;2014;Bangalore;3;509;28;Male;1;0
+Bachelors;2015;Pune;2;736;26;Female;4;1
+Bachelors;2015;Bangalore;3;556;28;Female;1;0
+Bachelors;2015;Pune;3;401;28;Male;2;0
+Bachelors;2016;New Delhi;3;429;26;Female;4;0
+Bachelors;2014;Bangalore;3;597;29;Male;1;1
+Bachelors;2013;Bangalore;2;666;30;Female;1;1
+Bachelors;2015;Bangalore;3;447;29;Male;1;0
+Bachelors;2012;Bangalore;3;409;26;Male;4;0
+PHD;2017;New Delhi;3;436;29;Male;1;0
+Masters;2017;New Delhi;3;566;29;Male;2;0
+Bachelors;2015;Pune;2;768;30;Female;1;1
+Bachelors;2012;New Delhi;3;583;26;Female;4;0
+Bachelors;2013;Pune;3;407;30;Male;1;0
+Bachelors;2012;Bangalore;3;364;30;Female;1;1
+Bachelors;2015;New Delhi;3;375;26;Female;4;0
+Bachelors;2015;Pune;3;338;28;Female;2;1
+Bachelors;2014;Bangalore;3;597;29;Male;1;0
+Bachelors;2013;Pune;2;617;28;Female;1;1
+Bachelors;2016;Bangalore;3;341;28;Female;1;0
+Masters;2018;New Delhi;3;325;30;Female;2;1
+Bachelors;2018;Pune;3;341;29;Male;1;1
+Bachelors;2016;Bangalore;3;569;30;Female;2;0
+Bachelors;2015;Bangalore;3;503;26;Male;4;0
+Masters;2017;Pune;2;536;27;Male;5;1
+Masters;2017;Pune;2;515;26;Female;4;1
+Masters;2017;New Delhi;3;526;26;Male;4;1
+Bachelors;2017;Pune;2;596;30;Female;2;1
+Bachelors;2012;Bangalore;3;528;28;Male;1;0
+Bachelors;2014;Bangalore;3;567;28;Male;2;0
+PHD;2015;Bangalore;3;470;29;Female;1;0
+Masters;2015;New Delhi;3;520;26;Male;4;1
+Bachelors;2017;Pune;3;411;30;Male;2;0
+Bachelors;2014;New Delhi;3;318;28;Female;1;0
+Bachelors;2013;Bangalore;1;722;30;Male;1;0
+Bachelors;2016;Bangalore;3;376;27;Female;5;1
+Bachelors;2014;Pune;1;811;28;Male;1;0
+Bachelors;2015;Bangalore;3;565;30;Male;1;0
+Bachelors;2013;New Delhi;3;503;27;Male;5;0
+Bachelors;2017;Pune;2;676;27;Male;5;0
+Masters;2017;New Delhi;2;581;28;Male;1;1
+Masters;2017;New Delhi;2;660;27;Male;5;1
+Masters;2014;New Delhi;3;345;27;Male;5;0
+PHD;2014;New Delhi;2;781;27;Female;5;0
+Bachelors;2015;Bangalore;3;546;29;Male;2;0
+Bachelors;2012;Pune;3;530;27;Male;5;0
+Bachelors;2017;Bangalore;3;570;30;Male;2;0
+Bachelors;2014;Bangalore;1;798;27;Female;5;0
+Bachelors;2014;Pune;1;771;26;Male;4;0
+Bachelors;2012;Bangalore;3;525;29;Male;2;0
+Bachelors;2012;New Delhi;3;547;30;Male;1;0
+Bachelors;2015;Bangalore;3;425;27;Female;5;0
+Masters;2017;New Delhi;2;684;30;Female;2;0
+Masters;2018;New Delhi;3;380;29;Male;2;1
+Bachelors;2015;Bangalore;3;346;28;Male;2;0
+Bachelors;2013;Bangalore;3;532;26;Female;4;0
+Masters;2016;New Delhi;3;421;27;Male;5;1
+Bachelors;2014;Pune;1;716;26;Female;4;1
+Bachelors;2017;Pune;3;354;27;Male;5;0
+PHD;2013;New Delhi;3;521;30;Male;1;0
+Masters;2018;Bangalore;3;575;26;Male;4;1
+Bachelors;2012;Bangalore;3;578;26;Male;4;0
+Bachelors;2013;Bangalore;3;352;26;Male;4;0
+Bachelors;2015;New Delhi;3;527;26;Female;4;0
+Bachelors;2016;Pune;3;496;29;Male;2;0
+Bachelors;2018;Bangalore;3;360;29;Female;2;1
+Bachelors;2016;Bangalore;3;345;28;Male;1;0
+Masters;2012;Pune;3;558;30;Male;1;0
+Bachelors;2014;Bangalore;3;585;30;Female;2;0
+Bachelors;2013;Bangalore;3;399;27;Male;5;1
+Bachelors;2014;Bangalore;3;509;29;Female;1;0
+Bachelors;2013;Pune;3;396;28;Male;2;0
+Bachelors;2014;Pune;3;481;29;Male;2;0
+Bachelors;2012;Bangalore;1;720;30;Female;2;0
+Bachelors;2018;Pune;3;404;28;Male;2;1
+Bachelors;2012;Bangalore;3;568;30;Female;2;0
+Masters;2017;New Delhi;2;786;30;Male;1;0
+Bachelors;2014;New Delhi;3;502;27;Female;5;0
+Masters;2014;New Delhi;3;305;29;Male;2;0
+Bachelors;2016;Bangalore;3;466;29;Male;2;0
+Bachelors;2014;Pune;2;646;28;Female;2;1
+Bachelors;2017;New Delhi;3;550;26;Male;4;0
+Bachelors;2018;Pune;3;527;28;Male;1;1
+Bachelors;2016;Pune;3;443;29;Male;1;0
+Bachelors;2015;Pune;3;442;26;Female;4;1
+Masters;2017;Bangalore;3;388;27;Male;5;1
+Masters;2017;New Delhi;2;662;26;Male;4;0
+Masters;2013;New Delhi;3;465;26;Female;4;1
+Bachelors;2017;Bangalore;3;375;29;Male;1;0
+Masters;2013;New Delhi;3;456;27;Female;5;0
+Bachelors;2012;Pune;2;697;30;Female;2;1
+Bachelors;2013;New Delhi;3;400;26;Male;4;0
+Bachelors;2015;Pune;2;592;28;Female;1;1
+Bachelors;2013;New Delhi;3;517;27;Male;5;0
+Bachelors;2015;Pune;2;713;29;Female;2;1
+Bachelors;2012;Bangalore;1;815;27;Female;5;0
+Bachelors;2012;Bangalore;3;308;28;Male;2;0
+Bachelors;2015;New Delhi;3;600;26;Male;4;0
+Bachelors;2017;New Delhi;3;319;28;Female;1;0
+Bachelors;2013;Bangalore;3;337;27;Male;5;0
+Masters;2014;Bangalore;3;360;28;Male;1;1
+Bachelors;2015;Bangalore;3;432;29;Male;1;0
+Bachelors;2017;New Delhi;3;564;27;Female;5;0
+Bachelors;2012;Bangalore;3;303;27;Male;5;0
+Masters;2017;New Delhi;2;673;30;Male;2;0
+Bachelors;2015;Bangalore;3;351;28;Female;2;0
+Masters;2017;Bangalore;1;722;27;Male;5;0
+Bachelors;2015;Bangalore;3;527;27;Male;5;0
+Bachelors;2018;Bangalore;3;377;27;Male;5;1
+Masters;2017;Pune;2;692;30;Male;1;0
+Bachelors;2013;Pune;3;362;29;Male;2;0
+Bachelors;2013;Pune;3;343;29;Male;2;0
+Bachelors;2012;Pune;3;450;27;Male;5;0
+Bachelors;2015;Pune;3;398;30;Female;1;1
+Bachelors;2015;Pune;2;639;29;Female;2;1
+Masters;2018;Pune;3;435;26;Male;4;1
+Masters;2013;Bangalore;2;762;29;Female;2;1
+Bachelors;2014;Bangalore;1;896;28;Male;2;1
+Bachelors;2015;Bangalore;3;492;30;Male;1;0
+Bachelors;2015;Pune;2;609;27;Female;5;1
+Bachelors;2014;Bangalore;3;399;28;Female;1;0
+Masters;2015;New Delhi;3;322;27;Male;5;0
+Masters;2017;New Delhi;2;679;26;Male;4;1
+Bachelors;2018;Bangalore;3;390;28;Male;1;1
+Bachelors;2015;New Delhi;3;403;28;Female;2;0
+Bachelors;2013;Bangalore;3;427;27;Male;5;0
+Bachelors;2013;Pune;1;700;26;Female;4;1
+Masters;2017;New Delhi;2;673;30;Male;2;0
+Bachelors;2015;Bangalore;3;518;28;Female;1;0
+Bachelors;2013;Bangalore;3;547;27;Male;5;0
+Bachelors;2012;Bangalore;3;425;26;Male;4;1
+Bachelors;2018;Bangalore;3;387;28;Male;2;1
+Masters;2017;New Delhi;2;748;28;Male;2;0
+Bachelors;2015;Bangalore;3;525;29;Male;2;0
+Bachelors;2012;New Delhi;3;415;30;Male;1;1
+Masters;2016;Pune;3;309;30;Male;1;0
+Bachelors;2014;Pune;3;353;30;Male;1;0
+Bachelors;2018;Bangalore;3;379;26;Male;4;1
+Masters;2017;Bangalore;3;572;26;Male;4;1
+Bachelors;2012;New Delhi;3;319;27;Female;5;0
+Bachelors;2018;Bangalore;3;591;26;Female;4;1
+PHD;2014;Bangalore;3;387;27;Male;5;0
+Masters;2017;New Delhi;2;711;26;Male;4;1
+Bachelors;2013;Bangalore;3;329;30;Female;1;1
+Bachelors;2012;Bangalore;3;524;30;Female;2;0
+Masters;2018;New Delhi;3;420;26;Male;4;1
+Bachelors;2013;Bangalore;1;796;28;Female;1;0
+Bachelors;2017;Bangalore;3;544;30;Male;1;0
+Masters;2017;Pune;2;537;30;Female;2;1
+PHD;2016;Bangalore;3;503;27;Male;5;0
+Bachelors;2016;New Delhi;3;400;28;Female;2;0
+Bachelors;2015;Pune;2;700;29;Female;1;1
+Bachelors;2013;Bangalore;3;548;27;Female;5;0
+Masters;2014;Pune;3;319;27;Male;5;0
+Masters;2017;New Delhi;2;666;26;Female;4;1
+Masters;2017;New Delhi;2;536;30;Female;1;0
+Masters;2018;New Delhi;3;486;27;Female;5;1
+Bachelors;2017;Pune;2;775;29;Male;1;0
+Masters;2014;New Delhi;1;862;29;Male;1;0
+Bachelors;2015;Pune;2;667;30;Female;2;1
+Bachelors;2014;Bangalore;3;342;30;Male;2;1
+Masters;2018;New Delhi;1;740;30;Female;2;0
+Bachelors;2017;Bangalore;3;359;29;Male;1;0
+Bachelors;2016;Pune;3;385;28;Male;2;0
+Bachelors;2018;Bangalore;3;439;26;Female;4;1
+Bachelors;2014;Bangalore;1;851;28;Female;2;0
+Masters;2017;New Delhi;2;708;29;Female;2;0
+Masters;2013;New Delhi;3;579;26;Male;4;1
+Bachelors;2017;New Delhi;2;789;28;Female;1;0
+Bachelors;2016;Bangalore;3;503;30;Female;1;0
+PHD;2015;Pune;3;312;27;Male;5;0
+Bachelors;2016;Bangalore;3;549;29;Male;2;0
+Bachelors;2014;Pune;2;708;28;Female;2;1
+Bachelors;2016;Bangalore;3;434;26;Male;4;0
+Masters;2017;New Delhi;2;602;30;Female;2;0
+PHD;2013;New Delhi;3;552;30;Female;2;0
+Bachelors;2015;Bangalore;3;395;29;Male;2;0
+Bachelors;2017;Bangalore;3;375;28;Male;2;0
+Bachelors;2015;Bangalore;3;397;29;Male;2;1
+Bachelors;2015;Pune;1;735;26;Female;4;1
+Bachelors;2013;Bangalore;3;577;28;Male;1;0
+Bachelors;2015;Pune;2;748;29;Female;2;1
+Bachelors;2013;Bangalore;3;347;26;Male;4;0
+Masters;2014;Pune;3;407;30;Male;2;0
+Masters;2017;Pune;2;627;30;Male;2;0
+Bachelors;2017;Pune;3;489;27;Male;5;0
+Bachelors;2014;New Delhi;3;336;28;Female;2;0
+Bachelors;2014;New Delhi;3;329;27;Female;5;0
+Bachelors;2015;Pune;2;705;29;Female;1;1
+Bachelors;2013;Pune;3;365;26;Male;4;0
+Bachelors;2014;New Delhi;3;328;30;Male;1;0
+Bachelors;2013;Pune;2;785;26;Male;4;0
+Bachelors;2016;Bangalore;3;368;26;Male;4;0
+Masters;2017;New Delhi;2;604;28;Female;2;0
+Masters;2017;New Delhi;2;611;27;Male;5;1
+Bachelors;2017;Pune;2;730;29;Female;1;1
+Masters;2017;New Delhi;2;778;28;Female;1;1
+Bachelors;2017;New Delhi;2;777;26;Male;4;0
+Bachelors;2014;Bangalore;3;538;29;Female;1;1
+Bachelors;2012;Bangalore;3;496;28;Male;1;0
+Bachelors;2016;Bangalore;3;574;27;Male;5;0
+Bachelors;2012;Bangalore;3;414;28;Female;1;0
+Masters;2015;Pune;2;595;30;Female;2;1
+Masters;2017;New Delhi;2;586;28;Male;2;0
+Masters;2015;Pune;2;752;29;Female;1;0
+Masters;2015;Bangalore;3;324;26;Male;4;1
+Bachelors;2013;Bangalore;3;397;26;Male;4;0
+Bachelors;2017;Bangalore;3;309;29;Female;1;0
+Bachelors;2017;Bangalore;3;391;27;Male;5;0
+Bachelors;2014;New Delhi;3;378;29;Female;2;0
+Bachelors;2017;New Delhi;3;553;27;Female;5;0
+Masters;2017;Pune;2;731;28;Female;2;0
+Masters;2013;New Delhi;3;596;27;Female;5;1
+Masters;2017;New Delhi;3;526;27;Male;5;1
+Bachelors;2013;Bangalore;3;472;30;Male;2;0
+Bachelors;2015;Pune;2;722;27;Female;5;1
+Bachelors;2014;Bangalore;3;434;26;Male;4;0
+Bachelors;2015;Bangalore;2;674;27;Female;5;1
+Bachelors;2015;Bangalore;3;356;30;Male;2;1
+Masters;2017;Bangalore;2;631;27;Male;5;0
+Bachelors;2017;Bangalore;3;304;30;Male;2;1
+Bachelors;2016;Pune;2;651;30;Female;2;1
+Masters;2016;Pune;1;858;27;Female;5;0
+Bachelors;2012;Bangalore;3;373;26;Male;4;0
+Bachelors;2014;Bangalore;3;391;27;Male;5;0
+Bachelors;2015;Pune;3;582;29;Female;2;1
+Bachelors;2013;New Delhi;3;569;26;Male;4;0
+Bachelors;2015;Pune;2;559;29;Female;2;1
+Bachelors;2013;Pune;3;553;28;Male;2;0
+Bachelors;2013;Pune;2;710;27;Male;5;1
+Masters;2014;New Delhi;3;535;28;Male;1;1
+Bachelors;2016;New Delhi;3;467;27;Female;5;1
+Bachelors;2016;New Delhi;3;490;29;Female;2;0
+Masters;2018;New Delhi;1;820;26;Female;4;1
+Bachelors;2015;Bangalore;3;510;27;Female;5;0
+Bachelors;2013;Pune;2;521;27;Female;5;1
+Bachelors;2014;New Delhi;3;490;28;Female;2;0
+Bachelors;2014;Bangalore;3;346;27;Male;5;0
+Bachelors;2016;Bangalore;3;352;29;Female;1;0
+Bachelors;2012;Bangalore;3;353;29;Female;1;0
+Bachelors;2018;Bangalore;3;462;29;Male;2;1
+Bachelors;2012;Pune;3;344;30;Male;1;0
+Bachelors;2013;Bangalore;3;323;30;Male;1;1
+Bachelors;2014;Bangalore;3;406;27;Male;5;0
+Bachelors;2015;New Delhi;3;446;29;Female;1;0
+Bachelors;2014;Bangalore;3;368;30;Female;1;0
+Bachelors;2014;Pune;1;894;28;Male;2;0
+Bachelors;2015;Pune;3;532;27;Female;5;0
+Bachelors;2016;Bangalore;3;403;30;Male;1;1
+Bachelors;2016;Pune;3;342;26;Female;4;1
+Bachelors;2018;New Delhi;3;547;27;Female;5;1
+Bachelors;2015;Bangalore;3;459;26;Male;4;0
+Masters;2017;New Delhi;2;766;27;Male;5;1
+Bachelors;2015;Bangalore;3;458;26;Male;4;0
+Bachelors;2017;Pune;3;585;26;Female;4;1
+Bachelors;2012;Pune;1;704;27;Male;5;0
+Bachelors;2016;Bangalore;3;308;26;Male;4;0
+PHD;2017;Bangalore;3;528;28;Female;1;0
+Bachelors;2015;Pune;3;595;29;Female;1;1
+Masters;2014;New Delhi;3;526;30;Male;2;0
+Bachelors;2013;Pune;3;321;26;Male;4;0
+Bachelors;2012;Bangalore;3;377;27;Male;5;0
+Bachelors;2015;Pune;3;571;28;Male;1;0
+Bachelors;2013;Bangalore;3;504;26;Male;4;0
+Bachelors;2013;New Delhi;3;450;26;Male;4;0
+Masters;2012;New Delhi;3;577;30;Male;2;0
+PHD;2013;New Delhi;3;556;27;Male;5;0
+Bachelors;2012;Bangalore;3;317;27;Male;5;0
+Bachelors;2018;Bangalore;3;400;30;Male;1;1
+Bachelors;2012;Bangalore;3;551;26;Female;4;0
+Masters;2017;New Delhi;3;578;29;Female;2;0
+Bachelors;2014;Bangalore;3;338;29;Male;2;0
+Bachelors;2017;New Delhi;3;580;28;Male;1;0
+Bachelors;2015;Pune;2;718;26;Female;4;1
+Bachelors;2018;Bangalore;3;323;27;Female;5;1
+Bachelors;2014;Bangalore;1;726;28;Male;1;0
+Bachelors;2016;Bangalore;3;399;28;Male;1;0
+Bachelors;2014;Pune;3;437;26;Male;4;0
+Bachelors;2012;Pune;3;337;26;Male;4;0
+Bachelors;2015;Bangalore;3;445;28;Male;2;0
+Bachelors;2014;Bangalore;3;320;28;Male;1;0
+Bachelors;2016;Bangalore;3;404;27;Male;5;0
+PHD;2012;New Delhi;1;884;29;Female;2;0
+Bachelors;2013;Bangalore;3;444;30;Female;2;1
+Bachelors;2016;Bangalore;3;539;26;Male;4;0
+Bachelors;2014;Pune;3;383;28;Male;1;0
+Masters;2013;New Delhi;2;554;26;Male;4;1
+Bachelors;2017;Bangalore;3;541;27;Male;5;0
+Bachelors;2013;Pune;3;400;27;Female;5;0
+PHD;2015;New Delhi;3;413;28;Male;2;0
+Masters;2017;Pune;2;629;28;Male;2;0
+Bachelors;2014;Pune;3;397;28;Male;4;0
+Bachelors;2016;Bangalore;3;364;29;Female;1;1
+Bachelors;2017;Bangalore;3;480;26;Female;4;1
+Bachelors;2015;Bangalore;3;477;30;Male;0;0
+Masters;2012;New Delhi;3;440;30;Male;2;0
+Bachelors;2012;Bangalore;1;753;30;Female;0;0
+Bachelors;2014;New Delhi;3;497;27;Female;5;0
+Bachelors;2017;New Delhi;2;699;28;Female;0;0
+Bachelors;2012;Pune;3;315;26;Male;4;0
+Bachelors;2015;Pune;3;566;29;Female;3;1
+Masters;2017;Pune;2;645;30;Male;0;1
+Bachelors;2013;New Delhi;3;381;26;Male;4;0
+Masters;2014;Pune;3;488;30;Male;0;1
+Bachelors;2013;Pune;3;590;29;Male;2;0
+Bachelors;2017;Bangalore;3;317;28;Male;3;0
+Masters;2018;New Delhi;3;474;27;Male;5;1
+Masters;2017;New Delhi;2;650;26;Female;4;1
+Bachelors;2012;Bangalore;3;403;30;Female;0;1
+Bachelors;2012;Bangalore;3;544;29;Female;4;0
+Bachelors;2014;Bangalore;3;403;29;Male;1;0
+Bachelors;2016;Bangalore;3;312;27;Male;5;0
+Bachelors;2015;Bangalore;3;524;28;Male;4;0
+Bachelors;2014;Bangalore;3;376;26;Male;4;0
+Bachelors;2016;Pune;3;482;29;Male;5;0
+Bachelors;2014;Bangalore;3;405;29;Male;0;0
+Masters;2013;Bangalore;3;380;30;Male;5;1
+Bachelors;2017;New Delhi;3;402;30;Female;3;0
+Bachelors;2014;Bangalore;3;346;27;Male;5;0
+PHD;2015;Pune;2;606;30;Female;4;0
+Masters;2014;Bangalore;3;355;30;Male;4;1
+Masters;2017;New Delhi;2;579;27;Male;5;1
+Bachelors;2013;Pune;3;499;30;Male;0;0
+Masters;2017;Pune;2;781;30;Male;0;0
+Masters;2017;New Delhi;2;768;29;Female;2;0
+Masters;2017;New Delhi;2;707;29;Male;2;0
+Bachelors;2014;Bangalore;1;771;27;Male;5;1
+Bachelors;2012;Bangalore;3;363;27;Female;5;0
+Bachelors;2017;Bangalore;3;312;27;Male;5;0
+Masters;2018;New Delhi;3;409;30;Female;4;1
+Bachelors;2015;Bangalore;3;434;29;Female;1;0
+Bachelors;2014;Pune;3;343;26;Female;4;1
+Masters;2016;Pune;3;524;28;Male;2;0
+Bachelors;2015;New Delhi;3;301;28;Female;4;0
+Bachelors;2015;Bangalore;3;371;30;Male;0;0
+Bachelors;2014;Bangalore;3;518;28;Female;3;0
+Bachelors;2017;Bangalore;3;431;28;Male;4;0
+Bachelors;2013;Bangalore;3;503;26;Male;4;0
+Bachelors;2015;Bangalore;3;395;28;Female;0;0
+Bachelors;2015;Pune;2;523;28;Female;2;1
+Masters;2013;Pune;3;552;27;Female;5;1
+Bachelors;2016;Bangalore;3;557;27;Male;5;1
+Bachelors;2012;Pune;3;454;29;Male;1;0
+Bachelors;2015;Pune;2;551;28;Female;0;1
+Bachelors;2018;Pune;3;489;30;Male;3;1
+Bachelors;2016;Bangalore;3;498;29;Male;5;0
+Masters;2013;New Delhi;2;745;27;Female;5;1
+Masters;2017;New Delhi;2;604;30;Male;2;0
+Bachelors;2012;New Delhi;3;514;26;Male;4;0
+Bachelors;2016;Bangalore;3;364;30;Male;2;1
+Bachelors;2017;New Delhi;2;564;29;Male;3;1
+Bachelors;2017;Pune;2;592;28;Male;3;0
+Bachelors;2013;Bangalore;3;441;27;Male;5;0
+Bachelors;2013;Bangalore;3;537;29;Male;4;0
+Bachelors;2013;Bangalore;3;303;30;Male;5;0
+Bachelors;2015;Bangalore;3;355;26;Male;4;0
+Bachelors;2015;Pune;2;695;26;Female;4;1
+Bachelors;2012;Bangalore;3;568;29;Male;2;1
+Masters;2015;Bangalore;3;448;28;Male;0;1
+Bachelors;2014;New Delhi;3;324;29;Female;2;0
+Masters;2015;Pune;3;480;29;Female;4;0
+Bachelors;2013;Bangalore;3;319;27;Male;5;0
+Bachelors;2013;Pune;3;345;27;Female;5;1
+Bachelors;2017;Bangalore;3;566;30;Male;1;1
+Masters;2014;Pune;3;562;30;Male;2;0
+Bachelors;2015;New Delhi;3;431;28;Female;4;0
+Bachelors;2013;Bangalore;3;349;26;Female;4;0
+Bachelors;2014;Bangalore;3;498;28;Male;5;0
+Bachelors;2017;Bangalore;1;866;28;Female;0;1
+Bachelors;2016;Bangalore;3;490;27;Male;5;0
+Bachelors;2013;Bangalore;3;442;28;Male;5;0
+Masters;2013;New Delhi;3;458;30;Male;2;1
+Masters;2013;New Delhi;1;885;29;Female;2;1
+Bachelors;2017;Bangalore;3;584;26;Male;4;0
+Bachelors;2015;Pune;3;323;28;Male;3;0
+Bachelors;2013;Bangalore;3;428;29;Male;2;0
+Masters;2017;New Delhi;2;616;28;Female;2;0
+Masters;2017;New Delhi;2;665;30;Female;2;0
+PHD;2013;New Delhi;3;317;27;Female;5;0
+Bachelors;2016;Pune;3;500;26;Male;4;0
+Bachelors;2017;New Delhi;2;543;26;Female;4;0
+Bachelors;2016;Bangalore;3;464;28;Female;1;1
+Bachelors;2017;Pune;2;515;27;Female;5;1
+Bachelors;2012;Bangalore;3;586;27;Female;5;0
+Bachelors;2014;Bangalore;3;581;26;Male;4;1
+Bachelors;2016;Bangalore;3;593;27;Male;5;0
+Bachelors;2015;Bangalore;3;315;27;Female;5;0
+Bachelors;2015;Pune;3;480;29;Male;1;0
+Bachelors;2018;Bangalore;3;312;26;Male;4;1
+Bachelors;2012;Bangalore;3;373;26;Female;4;0
+Bachelors;2017;Bangalore;3;560;27;Male;5;0
+Bachelors;2015;Pune;3;406;30;Female;0;1
+Bachelors;2017;Bangalore;3;522;30;Male;3;0
+PHD;2012;New Delhi;3;510;29;Male;5;0
+Bachelors;2016;Pune;3;529;29;Male;5;0
+Bachelors;2014;Bangalore;3;329;26;Female;4;0
+PHD;2014;New Delhi;3;322;28;Female;0;0
+Bachelors;2018;Bangalore;3;534;28;Male;1;1
+Bachelors;2013;New Delhi;3;529;27;Female;5;0
+Bachelors;2013;Bangalore;3;475;28;Male;2;0
+Bachelors;2018;Bangalore;3;394;29;Male;0;1
+Bachelors;2016;Bangalore;3;397;29;Male;3;0
+Bachelors;2018;Pune;3;435;30;Female;2;1
+Bachelors;2013;Bangalore;3;374;26;Male;4;0
+Bachelors;2014;Pune;3;363;29;Male;3;0
+Bachelors;2013;Pune;3;362;30;Male;4;0
+Masters;2015;New Delhi;3;512;29;Male;2;0
+Bachelors;2018;Pune;3;366;27;Male;5;1
+Bachelors;2016;Bangalore;3;493;28;Male;2;0
+Bachelors;2015;Bangalore;3;520;29;Male;1;0
+Bachelors;2016;Bangalore;3;448;30;Male;0;0
+Bachelors;2016;Bangalore;3;558;28;Female;1;0
+Bachelors;2017;New Delhi;3;584;26;Female;4;0
+Bachelors;2014;Pune;2;615;29;Female;1;1
+PHD;2013;New Delhi;3;472;30;Female;2;0
+Bachelors;2016;Bangalore;3;383;28;Male;3;0
+Bachelors;2015;Bangalore;3;385;28;Male;1;0
+Bachelors;2016;Pune;3;371;28;Male;5;0
+Bachelors;2017;Pune;2;584;28;Female;1;1
+Bachelors;2015;Bangalore;3;412;30;Male;4;0
+Masters;2012;New Delhi;3;397;27;Male;5;0
+Masters;2017;New Delhi;3;397;29;Female;2;0
+Bachelors;2018;New Delhi;3;599;29;Female;2;1
+Bachelors;2018;Bangalore;3;424;29;Male;0;1
+Bachelors;2012;Bangalore;3;387;28;Female;0;0
+Bachelors;2015;Pune;2;604;28;Female;0;1
+Masters;2017;New Delhi;2;517;27;Female;5;1
+Bachelors;2018;Pune;3;403;28;Female;5;1
+Bachelors;2016;Pune;3;544;28;Male;1;0
+Bachelors;2014;Bangalore;1;808;26;Male;4;1
+Bachelors;2014;New Delhi;2;675;29;Female;3;1
+Masters;2014;Pune;3;575;26;Male;4;1
+Bachelors;2017;Pune;3;401;27;Male;5;0
+Bachelors;2013;Pune;3;540;30;Male;4;1
+Bachelors;2015;Bangalore;3;544;30;Male;3;0
+Bachelors;2012;Bangalore;3;370;29;Male;2;1
+Bachelors;2014;Pune;3;380;26;Male;4;0
+Bachelors;2013;Bangalore;3;456;26;Female;4;0
+Masters;2017;New Delhi;2;765;30;Female;2;1
+Bachelors;2012;Pune;3;530;29;Male;0;0
+Bachelors;2015;Pune;1;881;30;Female;0;1
+Bachelors;2017;Bangalore;3;385;28;Male;3;0
+Bachelors;2013;Bangalore;3;414;28;Male;5;0
+Bachelors;2017;Pune;2;665;30;Female;4;1
+Bachelors;2017;Pune;2;533;28;Male;5;0
+Bachelors;2014;New Delhi;3;491;27;Female;5;1
+Bachelors;2012;Bangalore;3;581;28;Female;2;0
+Bachelors;2013;Bangalore;3;446;29;Female;5;0
+Bachelors;2012;Bangalore;3;369;27;Female;5;1
+Bachelors;2017;Pune;2;684;28;Female;3;1
+Bachelors;2015;Bangalore;1;818;29;Male;4;0
+Bachelors;2013;Bangalore;2;642;30;Male;0;1
+PHD;2018;Bangalore;3;301;28;Male;2;1
+Bachelors;2015;Pune;3;433;28;Female;3;1
+Bachelors;2015;Bangalore;3;518;27;Male;5;0
+Bachelors;2015;Bangalore;3;316;30;Female;3;1
+Bachelors;2012;Bangalore;3;484;29;Male;5;0
+Bachelors;2012;Bangalore;3;394;27;Female;5;0
+Bachelors;2015;Bangalore;3;579;26;Female;4;0
+Bachelors;2016;Pune;3;454;27;Male;5;0
+Bachelors;2013;Bangalore;3;530;27;Female;5;0
+Bachelors;2013;Pune;3;483;28;Male;0;0
+Bachelors;2014;Pune;3;545;29;Male;1;0
+Bachelors;2017;New Delhi;2;649;27;Male;5;0
+Bachelors;2013;New Delhi;3;480;27;Female;5;0
+Bachelors;2017;Pune;3;503;30;Male;5;0
+Bachelors;2013;Pune;3;378;27;Male;5;0
+Bachelors;2012;New Delhi;3;374;30;Female;3;0
+Bachelors;2013;Pune;2;616;30;Male;1;1
+PHD;2015;New Delhi;3;484;27;Female;5;0
+Bachelors;2014;Pune;3;514;26;Male;4;0
+Bachelors;2015;Pune;2;546;27;Female;5;1
+Masters;2017;New Delhi;2;747;29;Male;1;0
+Bachelors;2013;New Delhi;3;325;28;Female;3;0
+Masters;2012;Pune;3;428;29;Male;4;1
+Bachelors;2014;New Delhi;3;378;28;Female;3;0
+Bachelors;2018;Bangalore;3;351;27;Male;5;1
+Bachelors;2012;Bangalore;3;577;29;Male;1;0
+Bachelors;2017;Pune;2;599;26;Male;4;0
+Bachelors;2014;Bangalore;3;418;30;Male;2;1
+Bachelors;2014;New Delhi;3;496;29;Male;4;0
+Bachelors;2015;Pune;2;635;26;Female;4;1
+Bachelors;2014;Bangalore;3;344;27;Female;5;0
+Masters;2013;New Delhi;2;578;26;Male;4;1
+Bachelors;2013;New Delhi;3;305;29;Female;2;0
+Bachelors;2016;Bangalore;2;610;30;Female;4;1
+Bachelors;2017;New Delhi;3;347;29;Female;0;0
+Bachelors;2018;Bangalore;3;447;28;Male;3;1
+Bachelors;2014;Bangalore;3;418;29;Male;4;0
+Masters;2017;New Delhi;2;777;30;Female;2;0
+Bachelors;2018;Bangalore;3;583;29;Male;2;1
+Bachelors;2017;New Delhi;2;782;28;Female;1;0
+Bachelors;2013;Bangalore;2;690;27;Female;5;1
+Bachelors;2015;Bangalore;3;523;30;Male;4;0
+Bachelors;2012;Bangalore;3;343;26;Male;4;0
+Bachelors;2016;Bangalore;3;440;26;Male;4;0
+Masters;2017;Bangalore;2;794;30;Male;3;0
+Masters;2017;New Delhi;2;719;29;Male;4;0
+Bachelors;2014;Bangalore;3;585;28;Male;3;0
+Masters;2017;New Delhi;3;324;27;Male;5;1
+Bachelors;2014;Bangalore;3;471;27;Male;5;0
+Bachelors;2017;New Delhi;3;363;27;Male;5;0
+Bachelors;2016;Pune;3;574;30;Male;0;0
+Bachelors;2015;Bangalore;3;503;29;Female;0;0
+Bachelors;2015;Pune;2;782;27;Female;5;1
+Bachelors;2013;Bangalore;3;359;26;Female;4;0
+Bachelors;2015;New Delhi;3;419;29;Male;1;0
+Bachelors;2017;Bangalore;3;418;30;Male;4;0
+PHD;2017;New Delhi;3;518;27;Male;5;0
+PHD;2013;Bangalore;3;425;27;Male;5;0
+Bachelors;2018;Bangalore;3;305;28;Male;1;1
+Bachelors;2013;Bangalore;3;570;29;Male;1;0
+Masters;2017;Pune;2;650;29;Female;2;1
+Bachelors;2015;Pune;3;549;27;Male;5;0
+Bachelors;2012;Bangalore;3;407;27;Female;5;0
+Masters;2018;Pune;3;505;26;Male;4;1
+Bachelors;2012;New Delhi;1;865;27;Female;5;1
+Masters;2017;Pune;2;711;27;Male;5;1
+Bachelors;2015;Pune;1;867;28;Female;0;1
+Bachelors;2014;Bangalore;3;393;29;Male;4;1
+Bachelors;2017;New Delhi;3;537;29;Female;3;0
+PHD;2015;Pune;2;601;26;Female;4;0
+Bachelors;2017;Bangalore;3;565;30;Female;5;0
+Bachelors;2016;Pune;3;386;26;Male;4;0
+Masters;2013;Pune;3;353;26;Male;4;1
+Bachelors;2012;Pune;2;737;29;Female;2;1
+Bachelors;2018;Bangalore;3;468;30;Male;2;1
+Bachelors;2016;Bangalore;3;551;27;Male;5;0
+Bachelors;2015;Bangalore;3;420;26;Male;4;0
+Bachelors;2018;Bangalore;2;618;28;Female;3;1
+Bachelors;2012;Bangalore;3;339;28;Male;0;1
+Bachelors;2014;Bangalore;3;327;27;Male;5;0
+Bachelors;2012;Bangalore;3;313;28;Female;0;0
+Masters;2014;New Delhi;3;410;28;Male;2;0
+Bachelors;2012;Bangalore;3;354;26;Female;4;0
+Bachelors;2015;Pune;3;598;27;Male;5;0
+Bachelors;2016;Bangalore;3;481;28;Male;2;0
+Bachelors;2018;Pune;3;566;29;Male;3;1
+Bachelors;2014;New Delhi;3;325;29;Male;4;0
+Bachelors;2015;Bangalore;3;356;29;Male;1;0
+Masters;2018;Bangalore;3;483;27;Male;5;1
+Bachelors;2014;Bangalore;3;363;28;Male;5;0
+Masters;2017;Pune;2;621;27;Male;5;0
+Bachelors;2017;Pune;2;652;27;Male;5;0
+Bachelors;2014;Bangalore;3;473;28;Male;4;0
+Bachelors;2017;New Delhi;2;795;26;Male;4;0
+Bachelors;2017;Pune;3;317;29;Female;0;1
+Bachelors;2012;Bangalore;3;331;26;Female;4;0
+Bachelors;2017;New Delhi;2;509;26;Female;4;0
+Bachelors;2017;Pune;2;512;26;Female;4;1
+Bachelors;2014;Bangalore;3;560;30;Male;1;0
+Bachelors;2018;Bangalore;3;523;29;Male;2;1
+Masters;2013;Bangalore;3;438;30;Male;2;1
+Bachelors;2016;Bangalore;3;450;27;Female;5;0
+Bachelors;2016;New Delhi;3;436;26;Female;4;0
+Bachelors;2017;Bangalore;1;900;30;Male;1;0
+Bachelors;2015;New Delhi;3;304;30;Female;1;0
+Bachelors;2013;Pune;3;566;30;Male;0;0
+Bachelors;2015;Pune;3;441;27;Male;5;0
+Bachelors;2017;Pune;3;524;30;Female;1;1
+PHD;2018;New Delhi;3;353;30;Male;2;1
+Bachelors;2018;Bangalore;3;449;29;Male;1;1
+Bachelors;2013;Bangalore;3;480;30;Male;0;0
+Bachelors;2017;Bangalore;3;541;27;Male;5;1
+Bachelors;2016;New Delhi;3;346;29;Female;2;0
+Bachelors;2013;Pune;3;471;28;Male;5;0
+Bachelors;2014;New Delhi;3;533;26;Male;4;0
+Bachelors;2015;Pune;2;777;30;Female;1;1
+Masters;2013;New Delhi;2;585;26;Male;4;1
+Bachelors;2016;Bangalore;3;578;26;Male;4;0
+Masters;2012;Pune;3;357;27;Male;5;1
+Bachelors;2017;Bangalore;3;496;27;Female;5;0
+Bachelors;2013;Bangalore;3;496;30;Male;1;0
+Bachelors;2014;New Delhi;3;426;27;Male;5;0
+Masters;2013;Bangalore;3;558;30;Male;1;1
+Bachelors;2016;Bangalore;3;356;29;Male;2;1
+Bachelors;2016;Bangalore;3;481;28;Male;3;0
+Masters;2017;New Delhi;3;497;29;Female;2;0
+Bachelors;2014;New Delhi;3;400;26;Male;4;0
+Masters;2018;New Delhi;3;405;30;Male;2;1
+Masters;2014;Pune;3;583;27;Female;5;1
+Bachelors;2017;Pune;3;479;29;Male;0;0
+Masters;2016;New Delhi;3;360;30;Male;2;0
+Masters;2017;New Delhi;3;457;30;Male;3;1
+Bachelors;2013;Pune;2;522;30;Female;1;1
+Masters;2014;New Delhi;3;338;28;Female;3;0
+Bachelors;2013;Pune;3;456;26;Male;4;0
+Bachelors;2017;Bangalore;1;875;30;Male;2;0
+Bachelors;2016;Bangalore;3;589;28;Male;3;0
+Bachelors;2013;Pune;1;744;30;Female;1;1
+Bachelors;2013;Bangalore;3;530;30;Female;5;0
+Bachelors;2016;Bangalore;3;521;27;Male;5;0
+Bachelors;2015;Pune;3;568;27;Male;5;0
+Masters;2012;New Delhi;3;433;26;Female;4;0
+Bachelors;2013;Pune;2;753;26;Male;4;0
+Bachelors;2018;Bangalore;3;334;27;Male;5;1
+PHD;2018;New Delhi;2;758;30;Female;4;1
+Bachelors;2017;Bangalore;3;576;29;Male;3;0
+Bachelors;2013;Bangalore;3;338;28;Male;1;0
+Bachelors;2012;Bangalore;3;448;28;Male;2;0
+Masters;2017;New Delhi;1;732;30;Male;2;0
+Bachelors;2017;New Delhi;2;787;26;Female;4;0
+Masters;2013;Bangalore;1;852;29;Female;2;1
+Bachelors;2012;Pune;3;385;29;Male;5;0
+Bachelors;2014;Bangalore;3;535;27;Male;5;0
+Bachelors;2015;Bangalore;3;537;29;Male;4;0
+Bachelors;2014;Bangalore;3;311;29;Male;3;1
+Bachelors;2018;Bangalore;3;577;28;Male;0;1
+Bachelors;2012;Bangalore;3;402;27;Male;5;1
+Bachelors;2017;New Delhi;2;506;26;Male;4;0
+Bachelors;2014;Pune;2;547;29;Female;1;1
+Bachelors;2017;Bangalore;3;532;29;Male;4;0
+Bachelors;2015;Pune;2;566;28;Female;3;1
+Bachelors;2017;Bangalore;3;472;28;Male;5;0
+Bachelors;2017;Bangalore;3;323;29;Male;0;0
+Bachelors;2017;Bangalore;3;560;30;Male;2;0
+Bachelors;2017;New Delhi;2;521;26;Female;4;0
+Masters;2017;New Delhi;2;592;30;Female;2;0
+Bachelors;2015;Pune;2;741;29;Female;4;1
+Bachelors;2014;Pune;3;483;29;Female;1;1
+Bachelors;2012;Bangalore;3;570;28;Male;2;0
+Bachelors;2012;Bangalore;3;455;28;Female;4;0
+Bachelors;2017;Bangalore;3;384;29;Female;5;0
+Bachelors;2015;Bangalore;3;304;30;Male;3;0
+Masters;2012;Pune;3;464;26;Male;4;1
+Bachelors;2018;Bangalore;3;437;28;Male;5;1
+Bachelors;2017;New Delhi;3;495;30;Male;5;0
+Bachelors;2012;New Delhi;3;330;27;Female;5;0
+Bachelors;2017;New Delhi;3;302;26;Female;4;0
+Bachelors;2014;Bangalore;3;380;27;Male;5;0
+Bachelors;2014;Bangalore;3;526;30;Male;0;0
+Bachelors;2014;New Delhi;3;428;30;Female;2;0
+Bachelors;2012;New Delhi;3;378;29;Female;5;0
+Bachelors;2014;Pune;3;336;26;Male;4;0
+Bachelors;2015;Bangalore;3;325;27;Male;5;0
+Bachelors;2017;Pune;2;576;29;Female;4;1
+Masters;2016;Pune;3;522;29;Male;4;1
+Bachelors;2017;Bangalore;3;469;26;Male;4;0
+Masters;2017;New Delhi;3;312;26;Female;4;0
+Masters;2012;New Delhi;3;582;29;Male;2;0
+Bachelors;2013;Bangalore;3;361;27;Male;5;0
+Bachelors;2012;Pune;3;557;26;Male;4;0
+Bachelors;2017;Bangalore;3;564;28;Female;2;1
+Bachelors;2013;New Delhi;3;510;30;Female;3;1
+Masters;2017;Pune;2;635;26;Female;4;1
+Bachelors;2013;Bangalore;3;541;26;Female;4;0
+Masters;2017;New Delhi;2;679;28;Female;2;0
+Bachelors;2017;New Delhi;2;684;27;Male;5;0
+PHD;2018;Bangalore;3;476;27;Male;5;1
+Bachelors;2013;Bangalore;3;595;30;Female;1;0
+Masters;2013;New Delhi;3;551;30;Male;0;1
+Masters;2018;New Delhi;3;340;26;Female;4;1
+Masters;2015;New Delhi;3;302;30;Male;2;0
+Bachelors;2012;Bangalore;3;517;29;Male;4;0
+Bachelors;2018;Bangalore;3;324;27;Male;5;1
+Masters;2017;Pune;2;527;28;Male;5;0
+Bachelors;2016;Pune;2;697;29;Male;3;1
+Bachelors;2015;Pune;2;573;27;Female;5;1
+Bachelors;2014;Bangalore;3;334;29;Male;4;0
+Bachelors;2014;Bangalore;3;548;27;Male;5;0
+Bachelors;2018;Pune;3;455;28;Male;5;1
+Bachelors;2012;Bangalore;3;539;28;Female;0;0
+Masters;2017;Pune;2;640;28;Male;2;0
+Masters;2015;Pune;2;673;27;Female;5;0
+Bachelors;2013;Bangalore;3;433;26;Female;4;0
+Bachelors;2014;Pune;3;348;29;Female;4;1
+Masters;2016;New Delhi;3;565;30;Male;3;0
+Bachelors;2014;Pune;1;828;26;Female;4;1
+Bachelors;2012;Pune;2;547;27;Female;5;1
+Bachelors;2017;Pune;3;429;30;Male;0;0
+Bachelors;2013;Pune;3;352;27;Male;5;0
+Bachelors;2017;New Delhi;2;718;30;Male;4;0
+Bachelors;2017;New Delhi;2;654;28;Female;4;0
+PHD;2016;Bangalore;3;354;30;Female;5;0
+Bachelors;2018;Bangalore;3;310;28;Male;1;1
+Bachelors;2017;Pune;2;692;29;Male;3;0
+Bachelors;2017;New Delhi;2;715;30;Male;1;1
+Bachelors;2015;Bangalore;3;501;27;Male;5;0
+Bachelors;2013;Pune;3;588;30;Male;0;0
+Bachelors;2018;Bangalore;3;309;26;Male;4;1
+Bachelors;2015;New Delhi;3;423;28;Female;3;0
+Masters;2017;New Delhi;2;589;26;Female;4;1
+Bachelors;2016;Pune;2;797;30;Female;1;1
+Masters;2014;New Delhi;3;488;28;Male;0;0
+Bachelors;2015;Bangalore;3;481;28;Male;2;0
+Masters;2015;Pune;2;521;30;Female;1;0
+Masters;2017;New Delhi;2;561;27;Female;5;0
+Bachelors;2014;Bangalore;3;329;26;Male;4;0
+Bachelors;2013;Pune;3;358;27;Male;5;0
+Bachelors;2016;Bangalore;3;581;30;Male;1;1
+Masters;2017;New Delhi;3;588;29;Male;2;0
+Bachelors;2012;Bangalore;3;351;30;Female;1;0
+Bachelors;2018;Bangalore;3;381;29;Male;3;1
+Masters;2018;Pune;3;462;29;Male;2;1
+Bachelors;2016;Bangalore;3;526;27;Female;5;0
+Bachelors;2017;New Delhi;2;540;28;Male;2;0
+Bachelors;2016;Bangalore;3;431;29;Female;0;1
+Bachelors;2016;New Delhi;1;730;29;Female;1;0
+Bachelors;2015;Pune;2;620;28;Female;0;1
+Bachelors;2012;Bangalore;3;560;29;Male;2;0
+PHD;2014;Bangalore;3;365;27;Male;5;0
+Bachelors;2013;Bangalore;3;481;27;Male;5;0
+Bachelors;2018;Bangalore;3;313;29;Female;3;1
+Masters;2017;New Delhi;2;628;30;Male;2;0
+Masters;2016;New Delhi;3;486;29;Female;1;1
+Bachelors;2012;Bangalore;3;592;26;Male;4;0
+Bachelors;2015;Pune;3;365;28;Male;5;0
+Bachelors;2017;New Delhi;2;667;29;Female;5;0
+Bachelors;2014;Bangalore;3;525;30;Male;0;0
+Bachelors;2017;Bangalore;3;455;30;Male;0;0
+Bachelors;2014;Pune;3;450;28;Male;2;0
+Bachelors;2013;New Delhi;3;541;28;Female;1;0
+Bachelors;2016;New Delhi;3;309;26;Female;4;0
+Bachelors;2012;New Delhi;3;523;28;Female;0;0
+Bachelors;2017;Bangalore;3;526;29;Male;0;0
+Bachelors;2018;Bangalore;3;370;27;Male;5;1
+Masters;2017;New Delhi;2;798;26;Male;4;1
+Bachelors;2017;New Delhi;3;498;26;Female;4;0
+Bachelors;2013;Bangalore;3;360;27;Male;5;1
+Bachelors;2014;Bangalore;3;397;26;Male;4;0
+Bachelors;2013;Pune;2;501;29;Female;0;1
+Bachelors;2013;Pune;2;741;28;Female;4;1
+Bachelors;2017;Bangalore;3;449;26;Male;4;0
+Bachelors;2015;Pune;2;782;28;Female;0;1
+Bachelors;2017;Bangalore;3;398;29;Male;1;0
+Bachelors;2013;Bangalore;3;325;29;Female;3;0
+Bachelors;2015;Bangalore;3;472;29;Male;5;0
+Bachelors;2017;New Delhi;3;376;30;Female;3;0
+Bachelors;2015;Pune;3;571;29;Male;0;0
+Bachelors;2013;Bangalore;3;543;27;Female;5;0
+Bachelors;2016;Bangalore;3;383;26;Male;4;0
+Bachelors;2014;Bangalore;3;457;27;Male;5;1
+Bachelors;2012;Bangalore;3;590;28;Male;2;0
+Bachelors;2017;Bangalore;3;571;27;Male;5;0
+Bachelors;2018;Bangalore;3;464;29;Male;0;1
+Bachelors;2017;Bangalore;1;875;29;Female;5;0
+Bachelors;2017;Bangalore;3;557;27;Male;5;0
+Masters;2017;Bangalore;2;580;27;Male;5;1
+Masters;2014;New Delhi;3;336;28;Female;2;0
+Bachelors;2012;New Delhi;3;536;27;Female;5;1
+Bachelors;2012;Bangalore;3;359;28;Male;0;0
+Masters;2017;Pune;2;703;27;Male;5;0
+Bachelors;2013;Bangalore;3;537;26;Male;4;0
+Bachelors;2013;New Delhi;3;461;27;Female;5;1
+Bachelors;2013;Bangalore;2;524;26;Female;4;1
+Bachelors;2012;Pune;2;544;27;Female;5;1
+Bachelors;2016;Pune;3;576;26;Female;4;1
+Bachelors;2017;New Delhi;2;774;27;Male;5;0
+Bachelors;2012;Bangalore;3;517;28;Female;3;0
+Bachelors;2015;Bangalore;3;559;26;Male;4;0
+Masters;2017;New Delhi;3;331;27;Male;5;0
+Bachelors;2013;Pune;2;767;30;Female;5;1
+Bachelors;2013;Pune;3;515;28;Male;0;0
+Bachelors;2012;Pune;3;364;26;Male;4;0
+Bachelors;2016;Bangalore;3;582;28;Male;3;1
+Masters;2015;Pune;3;443;26;Male;4;1
+Bachelors;2017;New Delhi;2;531;26;Female;4;0
+Masters;2017;Bangalore;2;687;26;Male;4;1
+Bachelors;2014;Bangalore;3;300;30;Female;2;0
+Bachelors;2014;Bangalore;3;419;29;Female;2;0
+Bachelors;2017;Pune;3;343;26;Male;4;0
+Bachelors;2013;Bangalore;3;512;28;Male;0;0
+Bachelors;2018;Bangalore;3;311;29;Male;1;1
+Bachelors;2016;Bangalore;3;539;30;Female;3;0
+Bachelors;2017;Bangalore;3;420;30;Male;0;1
+PHD;2015;New Delhi;3;457;29;Male;4;0
+Bachelors;2017;New Delhi;2;540;26;Female;4;0
+Bachelors;2013;Bangalore;3;340;26;Female;4;0
+Bachelors;2014;Bangalore;1;808;28;Female;5;0
+Bachelors;2014;Pune;3;466;30;Male;0;0
+Masters;2012;Bangalore;3;587;26;Female;4;1
+Bachelors;2013;New Delhi;2;674;26;Female;4;1
+Bachelors;2015;Bangalore;3;335;26;Male;4;0
+Bachelors;2016;New Delhi;3;497;29;Female;0;0
+Bachelors;2015;Bangalore;3;385;27;Female;5;0
+Masters;2018;New Delhi;3;494;28;Female;2;1
+PHD;2015;New Delhi;2;720;27;Female;5;0
+Masters;2013;Pune;1;702;30;Male;1;0
+Bachelors;2012;Pune;3;367;26;Male;4;0
+Bachelors;2015;Pune;2;632;26;Female;4;1
+Bachelors;2018;New Delhi;3;387;30;Female;3;1
+PHD;2013;New Delhi;3;527;30;Male;5;0
+Bachelors;2013;Bangalore;3;372;28;Male;0;0
+Masters;2014;New Delhi;3;375;26;Male;4;1
+Bachelors;2017;Bangalore;3;551;29;Male;1;0
+Bachelors;2013;Bangalore;3;550;26;Male;4;0
+Bachelors;2012;Pune;3;376;26;Male;4;0
+Bachelors;2014;Pune;3;487;26;Male;4;0
+Bachelors;2015;Pune;3;528;29;Male;0;0
+Bachelors;2014;Bangalore;1;826;26;Male;4;0
+Bachelors;2018;Bangalore;3;392;36;Male;2;1
+Bachelors;2018;Bangalore;3;573;37;Male;4;1
+Bachelors;2015;Pune;3;423;35;Female;0;1
+Bachelors;2013;Pune;2;754;32;Female;4;1
+Bachelors;2013;Pune;1;744;39;Female;0;1
+Bachelors;2018;Pune;3;301;32;Male;1;1
+PHD;2012;New Delhi;3;497;37;Female;5;0
+Bachelors;2012;Pune;3;582;31;Male;4;0
+Bachelors;2018;Pune;3;554;31;Male;1;1
+Bachelors;2017;Bangalore;3;355;33;Male;2;0
+Masters;2017;Pune;2;712;37;Male;2;0
+Bachelors;2014;Pune;3;425;31;Male;1;0
+Masters;2017;Bangalore;3;428;40;Female;4;0
+Bachelors;2017;New Delhi;2;660;32;Male;0;0
+Bachelors;2016;Bangalore;3;300;41;Male;0;0
+Bachelors;2018;Bangalore;3;357;35;Female;5;1
+Bachelors;2014;Pune;3;429;34;Male;3;0
+Bachelors;2017;Bangalore;3;398;31;Male;0;0
+Masters;2017;Bangalore;3;406;41;Female;2;1
+Bachelors;2015;Pune;3;484;41;Male;5;0
+Bachelors;2016;Bangalore;3;540;37;Female;0;0
+Bachelors;2018;Bangalore;3;448;32;Female;3;1
+Bachelors;2015;Bangalore;3;589;37;Male;3;0
+Bachelors;2016;Bangalore;3;464;32;Male;1;0
+Masters;2017;New Delhi;3;559;36;Female;5;0
+Bachelors;2014;Bangalore;3;565;36;Male;3;0
+Bachelors;2015;Bangalore;3;323;36;Male;5;0
+Bachelors;2017;Bangalore;3;317;41;Male;3;0
+Bachelors;2015;Pune;3;419;39;Male;3;0
+Bachelors;2013;Pune;3;564;37;Male;0;0
+Bachelors;2013;Bangalore;3;499;32;Male;1;0
+Bachelors;2012;Bangalore;3;536;36;Male;2;0
+Bachelors;2013;Bangalore;3;364;36;Male;4;0
+Bachelors;2014;Bangalore;3;461;36;Male;1;0
+Bachelors;2018;Bangalore;3;465;32;Female;2;1
+Bachelors;2018;Bangalore;3;596;34;Male;3;1
+Bachelors;2018;Bangalore;3;460;37;Male;5;1
+Bachelors;2018;Pune;3;337;40;Male;3;1
+Bachelors;2014;Pune;2;688;36;Female;3;1
+Bachelors;2017;Pune;2;768;38;Female;0;0
+Masters;2017;New Delhi;2;701;31;Female;0;1
+Bachelors;2013;New Delhi;3;410;41;Female;4;0
+Masters;2012;Bangalore;2;649;32;Male;3;1
+Bachelors;2017;New Delhi;2;508;41;Female;3;0
+Bachelors;2013;Pune;3;504;40;Male;5;0
+Bachelors;2014;Bangalore;3;349;38;Female;2;1
+Masters;2017;New Delhi;2;712;36;Male;5;0
+Bachelors;2013;New Delhi;3;456;33;Female;1;0
+Bachelors;2014;Bangalore;3;353;39;Male;0;0
+Bachelors;2013;Bangalore;3;365;39;Male;0;0
+Bachelors;2014;Bangalore;3;332;33;Male;4;0
+Bachelors;2017;Pune;3;413;32;Male;5;0
+Bachelors;2014;Bangalore;3;331;35;Female;2;1
+Bachelors;2014;Bangalore;3;309;36;Male;5;0
+Bachelors;2018;Pune;2;690;39;Female;0;1
+Bachelors;2013;Bangalore;3;467;37;Female;5;0
+Masters;2017;New Delhi;2;631;35;Female;2;1
+Bachelors;2017;Bangalore;3;473;36;Male;5;0
+Masters;2013;New Delhi;3;309;41;Male;0;0
+Bachelors;2017;Bangalore;3;316;33;Male;2;0
+Bachelors;2018;Bangalore;3;386;38;Male;2;1
+Bachelors;2015;Bangalore;3;346;34;Male;5;0
+Bachelors;2012;Bangalore;3;463;34;Male;1;0
+Bachelors;2015;Pune;3;399;35;Male;5;0
+Bachelors;2012;Bangalore;3;462;39;Female;2;0
+Bachelors;2012;Bangalore;3;337;41;Male;3;0
+Bachelors;2018;Bangalore;3;481;34;Male;2;1
+Masters;2015;Pune;2;712;35;Female;1;0
+Bachelors;2012;Bangalore;3;518;33;Male;2;0
+Bachelors;2015;Bangalore;3;553;39;Male;3;0
+Masters;2017;New Delhi;2;608;35;Male;2;0
+Bachelors;2017;New Delhi;2;577;31;Female;0;0
+Bachelors;2016;Bangalore;3;565;34;Male;4;0
+Bachelors;2013;Bangalore;3;318;40;Female;5;0
+Bachelors;2016;New Delhi;3;567;31;Female;4;0
+Bachelors;2016;Pune;3;495;33;Male;3;0
+Bachelors;2013;Bangalore;3;395;32;Male;5;0
+Masters;2017;New Delhi;2;501;31;Male;4;1
+Bachelors;2014;Bangalore;3;427;39;Male;2;0
+Bachelors;2016;Bangalore;3;303;33;Male;1;1
+Bachelors;2014;Bangalore;3;566;40;Female;4;0
+Bachelors;2016;Bangalore;3;349;39;Male;0;1
+Bachelors;2017;Bangalore;3;331;35;Male;2;0
+Bachelors;2017;Bangalore;3;598;32;Male;1;0
+Bachelors;2015;Pune;2;560;34;Female;5;1
+Bachelors;2017;Bangalore;3;352;40;Female;4;0
+Masters;2017;Pune;3;556;33;Male;4;1
+Bachelors;2015;Pune;2;515;36;Female;0;1
+Masters;2018;Bangalore;3;411;39;Male;3;1
+Bachelors;2012;Bangalore;3;389;37;Female;5;1
+Bachelors;2018;Bangalore;3;392;36;Male;1;1
+Bachelors;2017;New Delhi;2;730;39;Male;2;0
+Bachelors;2015;Pune;2;508;35;Female;4;1
+Masters;2018;New Delhi;3;432;41;Male;2;1
+Bachelors;2012;Pune;3;563;31;Male;5;0
+Bachelors;2015;Pune;2;577;36;Female;0;1
+Bachelors;2016;Bangalore;3;571;32;Male;1;0
+Bachelors;2017;Bangalore;3;525;37;Male;2;1
+Bachelors;2015;Pune;2;692;39;Female;4;1
+Bachelors;2012;Pune;3;547;34;Male;2;0
+Bachelors;2012;Bangalore;3;386;35;Female;1;0
+Bachelors;2015;Bangalore;3;313;40;Female;2;0
+Bachelors;2016;Bangalore;3;545;39;Female;1;0
+Bachelors;2017;Bangalore;3;438;39;Female;1;0
+Bachelors;2015;Pune;3;566;41;Female;3;1
+Bachelors;2012;Pune;3;451;40;Male;2;0
+Bachelors;2012;Bangalore;1;868;36;Male;3;0
+Bachelors;2017;New Delhi;2;764;33;Female;2;0
+Masters;2014;New Delhi;3;346;33;Male;2;0
+Masters;2018;New Delhi;3;466;40;Male;2;1
+Bachelors;2015;Pune;2;559;34;Female;2;1
+Bachelors;2014;Bangalore;3;462;33;Female;1;0
+Masters;2015;New Delhi;1;790;34;Male;5;1
+Masters;2017;New Delhi;1;803;40;Male;5;0
+Bachelors;2014;Bangalore;3;322;32;Male;4;0
+Bachelors;2017;New Delhi;3;410;38;Male;2;0
+Bachelors;2015;Bangalore;3;419;38;Male;4;0
+Bachelors;2015;Bangalore;3;405;32;Male;2;0
+Bachelors;2013;Bangalore;3;438;31;Female;3;1
+Bachelors;2015;Bangalore;3;326;39;Female;0;0
+Masters;2017;Pune;2;673;41;Male;2;0
+Bachelors;2015;Pune;2;730;35;Female;2;1
+Bachelors;2016;Pune;3;503;39;Male;5;0
+Bachelors;2014;Bangalore;3;501;40;Female;0;0
+Bachelors;2016;Bangalore;3;322;41;Male;1;0
+Masters;2015;Pune;2;567;34;Female;1;0
+Bachelors;2016;Pune;2;655;37;Female;5;1
+Bachelors;2017;New Delhi;2;761;36;Male;2;0
+Bachelors;2015;Pune;3;446;37;Male;1;0
+Masters;2015;Pune;1;725;40;Female;1;0
+Bachelors;2018;New Delhi;3;509;39;Female;0;1
+Bachelors;2017;New Delhi;2;663;36;Female;5;0
+Bachelors;2015;Bangalore;2;683;32;Female;2;1
+PHD;2015;Pune;3;313;31;Female;1;0
+Bachelors;2012;Bangalore;3;389;31;Male;4;0
+Bachelors;2013;New Delhi;3;368;36;Female;5;0
+Bachelors;2014;Bangalore;3;347;35;Male;3;0
+Masters;2013;New Delhi;2;658;33;Female;2;1
+Bachelors;2014;Bangalore;3;324;39;Male;1;0
+Bachelors;2015;Pune;3;484;35;Female;1;1
+Bachelors;2013;Bangalore;3;358;38;Female;4;0
+Masters;2017;Bangalore;3;437;39;Female;4;1
+Bachelors;2012;Bangalore;3;464;41;Male;3;0
+Bachelors;2014;Pune;2;637;35;Male;2;1
+Bachelors;2016;Pune;3;307;31;Male;1;0
+Bachelors;2017;New Delhi;2;749;32;Female;4;1
+Bachelors;2016;New Delhi;3;525;34;Male;1;0
+Bachelors;2014;Bangalore;3;599;34;Male;3;0
+Masters;2014;New Delhi;3;499;36;Male;1;1
+Masters;2017;Bangalore;2;645;41;Male;4;0
+Masters;2017;Pune;2;504;39;Female;3;0
+Masters;2017;New Delhi;2;605;38;Male;5;0
+Bachelors;2012;Bangalore;3;336;37;Male;4;0
+Bachelors;2015;Bangalore;3;354;38;Male;3;1
+Bachelors;2014;Bangalore;3;554;37;Male;4;0
+Bachelors;2017;Bangalore;3;421;34;Male;5;0
+Bachelors;2014;Bangalore;1;767;39;Male;5;0
+Masters;2017;New Delhi;2;717;38;Female;2;1
+Masters;2017;New Delhi;3;501;33;Male;5;0
+Bachelors;2012;Bangalore;3;555;33;Female;5;0
+Bachelors;2012;Bangalore;3;351;34;Male;4;0
+Bachelors;2016;Pune;2;737;32;Female;0;1
+Bachelors;2012;Bangalore;3;373;33;Female;0;0
+Masters;2013;Pune;3;316;37;Male;2;0
+Masters;2015;New Delhi;3;530;37;Male;2;1
+Bachelors;2013;New Delhi;3;309;37;Male;2;0
+Bachelors;2017;Bangalore;3;497;40;Male;1;0
+Masters;2016;New Delhi;3;300;32;Male;1;0
+Bachelors;2016;Bangalore;3;309;36;Female;5;1
+Bachelors;2014;Bangalore;3;404;36;Male;4;0
+Bachelors;2014;Bangalore;3;520;36;Female;1;1
+Masters;2017;New Delhi;3;329;31;Male;1;1
+Bachelors;2015;Bangalore;3;518;38;Male;4;0
+Masters;2017;New Delhi;3;599;38;Male;2;0
+Bachelors;2012;Pune;3;585;39;Male;2;0
+Bachelors;2014;Bangalore;1;868;37;Male;5;0
+Bachelors;2015;Pune;2;503;36;Female;1;1
+Bachelors;2013;Bangalore;3;392;35;Male;2;1
+Bachelors;2013;Pune;3;567;40;Female;5;1
+Bachelors;2014;Pune;3;552;40;Male;5;0
+Bachelors;2017;Bangalore;3;464;35;Female;3;0
+Bachelors;2012;Bangalore;3;480;41;Female;5;0
+Bachelors;2015;Bangalore;3;398;32;Male;4;0
+Bachelors;2013;Bangalore;3;484;41;Male;2;0
+Bachelors;2016;New Delhi;3;357;40;Female;1;1
+Bachelors;2017;Pune;3;351;40;Male;3;0
+Bachelors;2017;Bangalore;3;418;34;Male;3;1
+Masters;2017;New Delhi;2;797;36;Male;2;0
+Bachelors;2017;New Delhi;3;468;33;Female;2;0
+Bachelors;2014;Pune;3;371;41;Male;2;0
+Bachelors;2014;Bangalore;3;397;40;Female;3;0
+Bachelors;2016;Bangalore;3;581;31;Male;1;1
+Masters;2015;Bangalore;3;439;32;Female;2;1
+Bachelors;2017;Pune;3;518;34;Female;1;1
+Bachelors;2016;New Delhi;3;390;32;Male;4;0
+Bachelors;2013;Bangalore;3;395;32;Female;4;0
+Bachelors;2014;Bangalore;3;512;38;Male;2;0
+Masters;2017;New Delhi;3;414;32;Male;1;1
+Bachelors;2015;New Delhi;3;585;40;Male;2;0
+Bachelors;2017;New Delhi;1;832;38;Female;1;1
+Bachelors;2017;Pune;3;370;37;Male;0;0
+PHD;2014;Bangalore;3;381;31;Male;1;0
+Bachelors;2014;Pune;3;339;34;Male;0;0
+Masters;2017;New Delhi;2;532;34;Female;2;1
+Bachelors;2013;Pune;2;702;37;Female;0;1
+Masters;2017;New Delhi;2;715;31;Male;1;0
+Bachelors;2017;Bangalore;3;436;35;Male;5;0
+PHD;2015;New Delhi;3;533;34;Female;4;0
+Bachelors;2012;Bangalore;1;867;32;Male;1;1
+Bachelors;2017;Pune;3;455;31;Male;0;0
+Bachelors;2015;Bangalore;3;474;36;Female;5;0
+Masters;2017;New Delhi;3;525;38;Female;2;0
+Bachelors;2015;Pune;3;540;34;Male;4;0
+Bachelors;2013;Bangalore;1;796;39;Female;1;1
+PHD;2013;Pune;3;358;35;Male;0;0
+Masters;2015;Pune;2;545;33;Male;4;1
+Masters;2014;Bangalore;3;329;35;Female;2;1
+Masters;2015;New Delhi;3;364;40;Male;2;0
+Bachelors;2015;Pune;2;629;32;Female;0;1
+Bachelors;2013;Bangalore;3;448;38;Male;1;0
+Bachelors;2012;Bangalore;3;529;32;Female;1;1
+Bachelors;2018;Bangalore;3;531;36;Male;3;1
+Bachelors;2012;Bangalore;3;579;35;Male;1;0
+Bachelors;2013;New Delhi;3;522;37;Female;0;0
+Bachelors;2015;Pune;2;572;35;Male;3;1
+Masters;2017;Pune;2;726;37;Female;1;0
+Masters;2017;Pune;2;726;39;Male;4;0
+Masters;2014;Pune;3;537;40;Male;4;1
+Bachelors;2012;Pune;2;518;41;Female;1;1
+Bachelors;2018;Pune;3;466;41;Male;0;1
+Masters;2017;Pune;2;569;39;Female;2;0
+Bachelors;2012;Bangalore;3;516;38;Female;5;0
+Bachelors;2013;Bangalore;3;433;33;Male;3;0
+Bachelors;2014;Bangalore;3;521;36;Female;3;0
+Bachelors;2017;Bangalore;3;549;41;Male;5;0
+PHD;2012;New Delhi;3;439;40;Female;5;0
+Bachelors;2013;Bangalore;3;461;31;Female;4;1
+Bachelors;2012;Bangalore;3;311;33;Female;1;0
+Bachelors;2015;Bangalore;3;539;39;Male;2;0
+Masters;2014;Pune;2;577;33;Female;5;0
+Bachelors;2015;Bangalore;3;551;35;Male;0;0
+Masters;2012;New Delhi;3;503;38;Male;2;0
+Bachelors;2016;Bangalore;3;414;36;Female;0;0
+Bachelors;2014;Pune;2;728;36;Female;2;1
+Bachelors;2015;Bangalore;1;796;35;Male;5;0
+Bachelors;2017;Pune;2;629;34;Female;5;1
+Bachelors;2015;Pune;2;777;41;Female;3;1
+Bachelors;2016;Pune;3;596;32;Female;3;1
+Bachelors;2017;Pune;2;732;41;Female;2;1
+Bachelors;2016;Bangalore;3;340;36;Male;0;0
+Bachelors;2017;Pune;2;717;39;Male;3;0
+Bachelors;2015;Bangalore;3;306;38;Male;2;0
+Bachelors;2014;Bangalore;3;490;34;Male;3;1
+Bachelors;2012;Bangalore;3;524;39;Female;5;0
+Bachelors;2017;Pune;3;586;36;Male;1;0
+Bachelors;2014;Bangalore;3;346;35;Male;1;0
+Masters;2018;Bangalore;3;423;31;Male;2;1
+Bachelors;2012;Bangalore;3;399;41;Female;4;0
+Bachelors;2017;Bangalore;3;562;35;Female;4;0
+Bachelors;2015;Bangalore;1;783;40;Male;2;0
+Bachelors;2018;Bangalore;3;370;33;Female;4;1
+Bachelors;2016;Bangalore;3;424;37;Female;0;0
+PHD;2018;Bangalore;3;476;36;Female;3;1
+Bachelors;2012;Bangalore;3;562;40;Male;0;0
+Bachelors;2017;New Delhi;2;659;36;Male;0;0
+Masters;2015;New Delhi;3;316;38;Female;0;0
+Bachelors;2014;New Delhi;2;766;31;Female;4;1
+Bachelors;2016;Pune;3;331;40;Male;4;0
+Bachelors;2017;Bangalore;3;499;37;Female;4;0
+Bachelors;2015;New Delhi;3;522;38;Female;0;0
+Masters;2017;New Delhi;2;631;35;Female;2;0
+PHD;2018;New Delhi;3;315;35;Female;0;1
+Bachelors;2012;Bangalore;3;510;38;Female;3;0
+Bachelors;2012;Pune;3;376;31;Female;5;0
+Masters;2016;New Delhi;3;512;33;Female;1;0
+Bachelors;2013;Pune;2;554;32;Female;1;1
+Bachelors;2017;Bangalore;1;817;39;Male;0;0
+Bachelors;2018;New Delhi;3;329;35;Female;2;1
+Bachelors;2014;New Delhi;3;491;38;Female;5;0
+Bachelors;2015;Bangalore;3;395;32;Male;0;0
+Bachelors;2017;Bangalore;3;473;34;Female;2;0
+Bachelors;2017;Bangalore;3;422;41;Male;1;0
+Masters;2012;Bangalore;3;474;40;Female;5;0
+Bachelors;2012;Pune;2;669;32;Male;1;1
+Bachelors;2013;Bangalore;3;557;35;Male;0;0
+PHD;2013;New Delhi;1;777;36;Female;3;0
+Bachelors;2013;Bangalore;3;462;40;Female;4;0
+Bachelors;2018;Pune;2;670;35;Female;2;1
+Masters;2017;New Delhi;2;668;37;Female;4;0
+Bachelors;2017;Bangalore;3;449;34;Male;3;0
+Bachelors;2012;Pune;3;339;36;Male;1;0
+Bachelors;2015;New Delhi;3;398;37;Male;4;0
+Bachelors;2014;Bangalore;3;458;39;Male;5;0
+Bachelors;2017;New Delhi;2;570;39;Female;0;0
+Masters;2018;New Delhi;3;462;38;Male;2;1
+Bachelors;2013;New Delhi;3;549;37;Female;1;0
+Bachelors;2012;New Delhi;2;524;33;Female;0;1
+PHD;2014;Bangalore;3;309;38;Female;3;0
+Masters;2017;New Delhi;2;590;40;Female;2;1
+Bachelors;2012;Bangalore;3;479;41;Male;5;0
+Bachelors;2013;Bangalore;2;562;38;Female;1;1
+Bachelors;2012;Bangalore;3;365;37;Male;4;0
+Bachelors;2014;Bangalore;3;424;39;Male;5;1
+Bachelors;2018;Bangalore;3;467;35;Male;1;1
+Masters;2017;New Delhi;3;548;39;Female;5;1
+Bachelors;2015;Pune;2;607;31;Female;1;1
+Bachelors;2012;Pune;3;580;33;Male;2;0
+Bachelors;2017;Pune;3;439;33;Male;2;0
+Bachelors;2013;Pune;3;339;32;Male;2;0
+Bachelors;2015;Pune;2;623;40;Female;4;1
+Bachelors;2013;New Delhi;3;461;38;Female;4;0
+Bachelors;2016;Bangalore;3;579;34;Male;2;0
+Bachelors;2016;Bangalore;1;803;39;Male;2;0
+Bachelors;2012;Bangalore;3;553;38;Male;2;0
+Masters;2017;New Delhi;2;667;31;Female;2;1
+Bachelors;2017;Bangalore;3;500;35;Female;5;0
+Bachelors;2013;Bangalore;3;560;31;Male;2;0
+Bachelors;2012;Pune;3;545;33;Male;1;0
+Bachelors;2015;Pune;2;698;37;Female;3;1
+Masters;2018;New Delhi;3;522;40;Female;2;1
+Bachelors;2014;Bangalore;3;544;38;Male;0;0
+Bachelors;2012;Bangalore;3;416;31;Male;5;0
+PHD;2014;Bangalore;3;418;39;Male;1;0
+Bachelors;2016;New Delhi;3;368;40;Male;0;0
+Bachelors;2017;Pune;3;329;36;Female;0;1
+Bachelors;2015;Bangalore;3;449;39;Female;3;1
+Bachelors;2012;Bangalore;3;301;39;Male;0;0
+Bachelors;2013;Bangalore;3;354;35;Female;0;0
+Masters;2013;New Delhi;3;528;35;Male;2;0
+Bachelors;2013;Bangalore;3;479;35;Male;5;0
+Masters;2017;Bangalore;3;540;34;Female;4;0
+Bachelors;2014;Bangalore;3;328;41;Male;4;0
+Bachelors;2017;Bangalore;3;568;35;Male;5;0
+Bachelors;2013;Bangalore;3;493;40;Male;1;0
+Masters;2017;Pune;3;469;31;Male;3;1
+Masters;2014;New Delhi;3;477;33;Male;3;0
+Bachelors;2017;Pune;2;697;33;Female;2;1
+Bachelors;2016;Bangalore;3;395;39;Female;5;0
+Bachelors;2016;Bangalore;3;456;41;Male;1;1
+Bachelors;2017;Bangalore;3;588;32;Male;5;0
+Bachelors;2014;Pune;2;750;39;Female;5;1
+Bachelors;2014;Bangalore;3;325;31;Male;1;0
+Bachelors;2012;Bangalore;3;442;40;Male;3;0
+Masters;2018;New Delhi;3;348;34;Male;2;1
+Bachelors;2018;New Delhi;3;516;37;Male;4;1
+Bachelors;2016;Bangalore;3;506;37;Female;0;0
+Bachelors;2014;Bangalore;3;581;36;Female;3;0
+Bachelors;2015;Bangalore;2;565;39;Female;0;1
+Bachelors;2014;Pune;3;589;37;Male;1;0
+Masters;2014;New Delhi;3;573;37;Male;2;0
+Masters;2017;New Delhi;3;372;32;Male;2;0
+Bachelors;2014;New Delhi;3;479;37;Male;3;0
+Bachelors;2017;Bangalore;3;398;36;Female;3;0
+Bachelors;2015;Pune;2;720;40;Female;2;1
+Bachelors;2014;Bangalore;3;502;40;Male;0;0
+Bachelors;2012;Pune;3;304;32;Male;3;0
+Bachelors;2012;Bangalore;3;466;37;Male;3;1
+Bachelors;2017;Pune;3;354;40;Female;1;1
+Bachelors;2014;Pune;3;477;40;Male;5;0
+Bachelors;2017;Bangalore;3;520;34;Female;0;0
+Bachelors;2012;Bangalore;3;453;37;Male;3;0
+Bachelors;2017;Bangalore;3;588;35;Male;3;0
+Bachelors;2017;Pune;3;566;37;Female;2;0
+Bachelors;2012;New Delhi;3;365;35;Female;2;0
+Bachelors;2014;Bangalore;3;419;31;Male;0;1
+Bachelors;2016;Bangalore;3;584;41;Male;4;0
+Masters;2017;New Delhi;3;355;37;Female;3;0
+Bachelors;2018;Pune;3;440;40;Male;0;1
+Bachelors;2018;Bangalore;1;770;36;Male;1;0
+PHD;2018;New Delhi;3;463;37;Female;2;1
+Bachelors;2014;Bangalore;3;576;40;Female;0;0
+Bachelors;2017;Bangalore;3;596;34;Male;3;0
+Bachelors;2018;Pune;3;589;37;Male;5;1
+Bachelors;2016;Pune;3;529;38;Male;0;0
+Bachelors;2017;Bangalore;2;607;37;Male;2;1
+Bachelors;2016;Pune;3;491;32;Male;1;1
+Bachelors;2016;Bangalore;3;452;31;Male;3;0
+Bachelors;2013;Bangalore;1;708;40;Male;2;0
+Bachelors;2017;Bangalore;3;311;40;Female;4;0
+Bachelors;2015;Bangalore;3;555;31;Male;1;0
+Masters;2017;Pune;2;581;36;Male;2;0
+Bachelors;2017;Bangalore;3;468;38;Male;2;0
+Bachelors;2014;Pune;3;504;37;Female;5;1
+Bachelors;2014;Pune;3;475;34;Female;2;1
+Bachelors;2013;Bangalore;3;454;41;Male;2;1
+Bachelors;2015;Pune;2;787;32;Female;3;1
+Bachelors;2015;Pune;3;595;34;Male;5;0
+PHD;2013;Bangalore;3;566;39;Male;2;1
+Masters;2013;New Delhi;2;717;32;Male;2;1
+Bachelors;2012;Bangalore;3;348;31;Female;3;0
+PHD;2016;New Delhi;3;469;40;Male;1;0
+Bachelors;2015;Bangalore;3;438;37;Female;0;0
+Masters;2017;New Delhi;3;302;40;Female;0;0
+Bachelors;2013;Bangalore;3;320;31;Male;1;0
+Bachelors;2017;Bangalore;3;494;32;Male;2;0
+Bachelors;2017;Bangalore;3;385;34;Female;1;0
+Masters;2013;Pune;2;705;41;Male;2;1
+Masters;2015;New Delhi;3;406;37;Male;2;0
+Bachelors;2015;Bangalore;3;551;40;Female;1;0
+Masters;2017;Pune;2;528;35;Male;2;0
+Bachelors;2012;Bangalore;3;549;39;Male;3;0
+Bachelors;2017;Pune;3;312;41;Male;4;0
+Bachelors;2015;Bangalore;3;586;36;Male;4;0
+Bachelors;2014;Bangalore;3;411;32;Male;5;0
+Bachelors;2013;Bangalore;3;301;41;Male;2;0
+Bachelors;2013;Bangalore;3;324;32;Male;0;0
+Bachelors;2017;Bangalore;3;597;36;Male;2;0
+Bachelors;2013;Bangalore;3;500;40;Male;4;0
+Bachelors;2018;Bangalore;3;337;32;Male;1;1
+Bachelors;2016;Bangalore;3;587;38;Male;1;0
+Bachelors;2018;Bangalore;3;541;41;Male;4;1
+Masters;2017;Pune;2;729;35;Male;3;1
+Bachelors;2016;Bangalore;3;485;36;Female;1;0
+Bachelors;2014;Bangalore;3;358;35;Female;4;0
+Bachelors;2016;Bangalore;3;554;31;Male;2;0
+PHD;2015;Pune;3;456;37;Male;2;0
+Bachelors;2013;Bangalore;3;326;41;Female;4;0
+Bachelors;2013;Bangalore;3;444;31;Male;0;0
+Bachelors;2017;New Delhi;2;555;36;Male;2;0
+Bachelors;2015;New Delhi;3;483;32;Male;1;0
+Bachelors;2017;Bangalore;3;484;34;Male;0;0
+Bachelors;2015;Bangalore;3;373;39;Female;0;0
+Bachelors;2014;Bangalore;3;395;33;Male;1;1
+Bachelors;2017;New Delhi;2;722;36;Male;3;0
+Bachelors;2016;Bangalore;1;804;34;Male;2;1
+Bachelors;2017;Pune;2;537;33;Male;1;0
+Bachelors;2012;Bangalore;3;456;38;Female;4;1
+Bachelors;2013;Bangalore;3;340;35;Male;3;1
+Bachelors;2017;Pune;3;566;31;Male;1;0
+Bachelors;2013;Pune;3;387;37;Male;2;0
+Bachelors;2012;Bangalore;3;488;32;Female;2;1
+Bachelors;2013;Pune;3;596;34;Male;5;0
+PHD;2013;Bangalore;2;525;41;Male;2;1
+Masters;2015;New Delhi;3;471;32;Male;0;1
+Bachelors;2013;Bangalore;3;432;39;Male;2;0
+Bachelors;2012;Bangalore;3;316;31;Male;0;1
+Bachelors;2017;New Delhi;2;509;41;Male;1;0
+Bachelors;2016;Bangalore;3;465;36;Male;2;0
+Bachelors;2017;Bangalore;2;788;38;Female;5;1
+Bachelors;2012;Bangalore;3;571;32;Male;5;0
+Bachelors;2018;Pune;3;553;35;Female;3;1
+Bachelors;2017;Bangalore;3;385;39;Male;2;0
+Masters;2017;New Delhi;2;585;36;Male;2;0
+Bachelors;2013;Pune;3;349;33;Male;4;0
+Bachelors;2013;Pune;3;507;32;Male;5;0
+Bachelors;2017;Bangalore;3;584;35;Male;1;1
+Bachelors;2015;Bangalore;3;347;36;Male;1;0
+Masters;2014;Pune;3;415;39;Male;4;0
+Bachelors;2016;Bangalore;3;535;40;Male;0;1
+Bachelors;2012;Bangalore;3;462;37;Male;3;0
+Masters;2015;Pune;1;743;38;Female;0;0
+Bachelors;2017;New Delhi;3;553;40;Male;1;0
+Bachelors;2013;Bangalore;3;516;34;Female;2;0
+Bachelors;2013;Bangalore;3;456;31;Male;4;0
+Bachelors;2014;New Delhi;3;600;40;Female;3;1
+Bachelors;2013;Bangalore;3;499;37;Male;2;0
+Bachelors;2012;New Delhi;3;432;33;Male;3;0
+Bachelors;2015;Bangalore;3;578;36;Male;4;0
+Bachelors;2014;Bangalore;3;445;35;Female;4;0
+Bachelors;2014;Bangalore;3;578;34;Male;5;0
+Bachelors;2013;Bangalore;3;453;35;Male;0;1
+Masters;2014;New Delhi;3;312;39;Male;2;0
+Bachelors;2015;Pune;3;341;35;Female;1;1
+Masters;2014;New Delhi;3;410;34;Male;5;0
+Bachelors;2017;Pune;2;667;32;Female;2;1
+Bachelors;2015;New Delhi;3;457;32;Female;2;0
+Bachelors;2014;Bangalore;3;396;33;Male;5;1
+Masters;2017;New Delhi;2;615;34;Male;2;1
+Masters;2016;Bangalore;3;462;35;Female;1;1
+Masters;2017;New Delhi;3;498;35;Male;2;0
+Bachelors;2014;Pune;2;627;38;Female;3;1
+Bachelors;2016;Bangalore;3;404;37;Male;0;0
+Bachelors;2013;Bangalore;3;388;38;Female;4;0
+Bachelors;2015;Bangalore;3;580;41;Male;0;0
+Masters;2017;Bangalore;3;422;40;Male;4;1
+Bachelors;2017;Bangalore;3;462;39;Female;3;0
+Bachelors;2017;Pune;2;602;32;Male;2;0
+Bachelors;2018;New Delhi;3;576;40;Male;4;1
+Bachelors;2016;Bangalore;3;594;40;Male;0;0
+Bachelors;2016;Bangalore;3;509;41;Female;1;1
+Bachelors;2015;Bangalore;3;553;38;Male;4;0
+Masters;2017;Pune;1;767;38;Male;0;1
+Bachelors;2018;Bangalore;3;370;41;Female;2;1
+Bachelors;2015;New Delhi;2;541;33;Female;4;1
+Bachelors;2012;Bangalore;3;409;41;Male;0;0
+Bachelors;2017;New Delhi;2;672;35;Female;5;0
+Bachelors;2013;Bangalore;3;390;36;Male;5;0
+Bachelors;2013;Pune;3;532;37;Male;1;0
+Bachelors;2013;New Delhi;1;713;37;Female;1;0
+Bachelors;2014;Bangalore;3;577;39;Male;5;0
+Bachelors;2017;Bangalore;3;524;38;Female;2;0
+Bachelors;2013;Pune;2;572;34;Female;1;1
+Bachelors;2017;Pune;2;660;33;Female;4;1
+Bachelors;2013;Bangalore;3;600;32;Female;1;0
+Masters;2014;Bangalore;3;510;38;Female;4;1
+Bachelors;2017;Bangalore;3;506;32;Male;5;0
+Masters;2016;New Delhi;3;518;41;Male;5;1
+Masters;2014;Pune;3;560;36;Female;2;0
+Bachelors;2017;New Delhi;3;395;34;Female;2;1
+Bachelors;2017;Bangalore;3;586;34;Male;0;0
+Bachelors;2016;Bangalore;3;465;35;Male;4;0
+Masters;2015;New Delhi;3;397;38;Male;1;0
+Bachelors;2016;Bangalore;3;590;32;Male;5;0
+Bachelors;2015;Pune;3;418;37;Female;2;1
+Bachelors;2017;Bangalore;2;516;32;Female;2;1
+Masters;2017;New Delhi;2;563;36;Male;3;0
+Bachelors;2012;Bangalore;3;386;41;Male;3;0
+Bachelors;2017;Pune;3;460;37;Female;5;0
+Bachelors;2018;Bangalore;3;372;34;Female;3;1
+Bachelors;2016;Pune;3;550;31;Male;0;1
+Bachelors;2017;Bangalore;3;499;41;Male;1;0
+Bachelors;2015;New Delhi;3;320;35;Female;3;0
+Bachelors;2015;Bangalore;3;527;37;Female;5;0
+Bachelors;2016;Bangalore;3;474;34;Male;4;0
+Masters;2017;Bangalore;2;714;40;Female;2;0
+Bachelors;2015;Bangalore;3;346;39;Male;5;1
+Bachelors;2013;Pune;3;471;37;Male;2;0
+Bachelors;2015;Pune;2;698;36;Female;1;1
+Bachelors;2014;Bangalore;3;417;35;Female;2;0
+Masters;2013;Bangalore;3;304;37;Female;3;1
+Bachelors;2013;New Delhi;3;349;41;Female;1;0
+Masters;2017;New Delhi;2;632;40;Male;2;0
+Bachelors;2016;Bangalore;3;428;37;Male;2;0
+Masters;2013;New Delhi;3;508;40;Female;2;1
+Bachelors;2015;Bangalore;3;339;39;Male;5;0
+Masters;2015;Pune;2;731;33;Female;4;0
+Bachelors;2012;Bangalore;3;345;36;Male;1;1
+Bachelors;2012;Bangalore;3;435;36;Male;5;0
+Bachelors;2015;Bangalore;3;571;38;Male;3;0
+Bachelors;2017;New Delhi;2;664;37;Female;5;0
+Masters;2017;New Delhi;3;346;34;Female;2;0
+Bachelors;2013;Bangalore;3;565;31;Male;2;1
+Bachelors;2013;Bangalore;3;571;38;Male;5;0
+Bachelors;2017;Bangalore;3;363;36;Male;3;0
+Bachelors;2012;Bangalore;3;581;40;Male;1;0
+Bachelors;2017;Bangalore;3;521;41;Male;5;1
+Bachelors;2015;Bangalore;3;353;31;Female;4;0
+Bachelors;2017;New Delhi;3;593;41;Male;2;0
+Bachelors;2015;New Delhi;3;356;31;Female;3;0
+Bachelors;2017;Pune;3;545;31;Female;0;1
+Bachelors;2017;New Delhi;2;541;37;Male;0;0
+Bachelors;2012;Pune;3;367;39;Male;0;0
+Bachelors;2014;Bangalore;3;347;38;Male;3;0
+Bachelors;2013;Pune;3;600;40;Female;2;1
+Bachelors;2013;Pune;3;526;36;Male;1;0
+Bachelors;2016;Bangalore;3;333;41;Male;3;0
+Bachelors;2018;Bangalore;3;508;32;Female;2;1
+Masters;2018;Bangalore;3;305;40;Female;3;1
+Bachelors;2012;Bangalore;3;584;39;Female;2;0
+Bachelors;2014;New Delhi;3;547;33;Male;3;0
+Bachelors;2012;Bangalore;3;420;32;Male;4;0
+Bachelors;2018;Bangalore;3;575;41;Male;5;1
+Bachelors;2016;Bangalore;3;389;36;Male;2;0
+Bachelors;2016;Bangalore;3;411;31;Male;0;0
+Bachelors;2014;Bangalore;3;413;37;Male;4;0
+Bachelors;2014;Bangalore;3;551;33;Male;5;1
+Masters;2018;Pune;3;534;31;Male;2;1
+Bachelors;2017;New Delhi;3;544;35;Female;5;0
+Bachelors;2015;Pune;1;764;32;Female;5;1
+Masters;2017;New Delhi;3;336;41;Female;2;0
+Masters;2017;New Delhi;2;666;36;Female;1;0
+Masters;2017;Pune;3;506;35;Male;1;0
+Masters;2017;New Delhi;3;541;35;Male;1;1
+Bachelors;2015;New Delhi;3;455;33;Male;1;0
+Bachelors;2014;Bangalore;3;317;38;Female;4;0
+Bachelors;2015;New Delhi;2;734;33;Female;3;1
+Masters;2018;New Delhi;3;313;31;Female;2;1
+PHD;2015;Bangalore;3;564;31;Male;3;0
+Bachelors;2013;Bangalore;3;565;37;Male;5;0
+Bachelors;2014;Bangalore;3;490;32;Male;1;0
+Bachelors;2017;Bangalore;3;571;33;Male;3;0
+Bachelors;2014;Bangalore;3;455;37;Male;5;0
+Bachelors;2012;Bangalore;3;373;32;Male;3;0
+Bachelors;2015;Pune;3;516;40;Female;2;1
+Bachelors;2014;Pune;1;797;40;Female;1;1
+Masters;2013;New Delhi;2;614;32;Male;2;1
+Masters;2017;Bangalore;2;665;39;Female;2;1
+PHD;2016;New Delhi;3;478;41;Male;1;0
+PHD;2014;New Delhi;3;532;32;Female;0;0
+Bachelors;2017;Bangalore;3;301;38;Male;0;1
+Masters;2017;New Delhi;2;642;31;Female;2;0
+Bachelors;2018;Bangalore;3;323;38;Male;3;1
+Bachelors;2016;Bangalore;3;407;32;Male;4;0
+Bachelors;2017;Pune;2;731;35;Female;5;1
+Bachelors;2013;Bangalore;3;546;34;Male;5;0
+Bachelors;2018;Bangalore;3;367;38;Male;1;1
+Bachelors;2014;Pune;1;700;36;Female;1;1
+Bachelors;2015;Bangalore;3;430;34;Female;2;0
+Masters;2015;New Delhi;3;425;39;Female;2;0
+Masters;2017;New Delhi;1;775;40;Female;0;0
+Bachelors;2016;Bangalore;3;566;38;Male;1;0
+Bachelors;2015;Pune;3;305;35;Male;3;0
+Bachelors;2014;Pune;2;510;31;Male;3;1
+Bachelors;2017;Pune;3;373;41;Male;2;0
+Bachelors;2017;Bangalore;3;404;35;Female;3;0
+Bachelors;2018;Bangalore;3;372;33;Male;5;1
+Bachelors;2017;New Delhi;2;711;33;Male;5;0
+Bachelors;2016;New Delhi;3;397;31;Female;4;0
+Masters;2013;New Delhi;3;588;35;Male;4;0
+Bachelors;2016;Bangalore;3;375;37;Female;1;0
+Bachelors;2015;Bangalore;3;366;31;Male;5;0
+Bachelors;2012;Bangalore;3;334;35;Male;1;1
+Bachelors;2014;Bangalore;3;581;32;Male;3;0
+Bachelors;2015;Bangalore;3;346;32;Female;0;0
+Bachelors;2017;Bangalore;3;352;40;Female;5;0
+Bachelors;2012;Bangalore;3;533;34;Male;5;0
+Bachelors;2014;Pune;3;370;37;Male;4;0
+PHD;2015;Bangalore;3;411;40;Male;3;0
+Masters;2017;New Delhi;2;679;34;Female;2;1
+Bachelors;2015;Pune;2;537;32;Female;3;1
+Bachelors;2013;Bangalore;3;314;33;Male;1;0
+Bachelors;2015;Bangalore;3;305;38;Male;3;1
+Masters;2017;New Delhi;2;529;41;Male;3;1
+Masters;2017;New Delhi;1;848;36;Female;0;0
+Bachelors;2016;Bangalore;3;553;33;Male;1;0
+Bachelors;2014;Pune;3;531;31;Male;5;0
+Bachelors;2013;Pune;2;564;34;Female;3;1
+Bachelors;2017;Bangalore;3;350;31;Male;1;0
+Bachelors;2016;New Delhi;2;795;36;Female;4;1
+Bachelors;2013;Bangalore;3;444;38;Male;5;0
+Bachelors;2015;Pune;2;545;39;Female;1;1
+Bachelors;2014;Pune;3;541;31;Male;3;0
+Bachelors;2015;New Delhi;3;439;40;Male;3;1
+Bachelors;2013;Bangalore;3;599;39;Male;0;0
+Bachelors;2015;Bangalore;3;333;32;Female;4;0
+Bachelors;2014;Bangalore;3;459;34;Male;1;0
+Masters;2015;New Delhi;3;506;38;Male;1;0
+Bachelors;2014;Bangalore;1;840;39;Male;2;0
+Bachelors;2014;Bangalore;3;442;39;Male;5;0
+Bachelors;2016;Bangalore;3;369;33;Male;1;0
+Bachelors;2018;Pune;2;695;34;Female;4;1
+Bachelors;2017;Pune;3;531;38;Male;1;0
+Masters;2017;New Delhi;2;664;33;Male;2;0
+Bachelors;2014;Bangalore;3;430;41;Male;5;0
+Masters;2017;Pune;1;899;39;Male;0;0
+Masters;2013;Pune;3;357;39;Male;2;0
+Bachelors;2014;Bangalore;3;585;41;Male;5;0
+Bachelors;2012;Bangalore;3;323;40;Male;4;0
+Bachelors;2014;Bangalore;3;486;36;Male;0;0
+Bachelors;2015;Bangalore;3;598;34;Male;0;0
+Bachelors;2013;Bangalore;3;433;32;Male;5;1
+Bachelors;2015;Bangalore;3;323;31;Male;4;0
+Bachelors;2012;Bangalore;3;301;36;Male;0;0
+Masters;2017;Pune;2;588;35;Male;1;1
+Bachelors;2017;Bangalore;3;329;32;Male;2;0
+Bachelors;2017;Pune;3;425;33;Male;5;0
+Bachelors;2016;Bangalore;3;572;34;Male;2;0
+Bachelors;2017;Bangalore;3;314;39;Male;3;0
+Bachelors;2018;Bangalore;3;521;38;Male;0;1
+Bachelors;2012;Pune;2;608;35;Female;1;1
+Bachelors;2015;Pune;2;651;40;Female;5;1
+Bachelors;2017;Pune;3;460;41;Male;3;0
+Bachelors;2016;Bangalore;1;887;33;Female;3;0
+Masters;2017;New Delhi;1;888;40;Male;0;0
+Bachelors;2018;Bangalore;3;383;33;Female;3;1
+Bachelors;2015;Bangalore;3;341;38;Male;1;1
+Masters;2017;Bangalore;2;614;32;Male;2;0
+Bachelors;2014;Pune;3;303;32;Male;2;0
+Bachelors;2015;New Delhi;3;490;32;Female;2;0
+Bachelors;2016;Pune;2;758;37;Female;2;1
+Bachelors;2015;Bangalore;3;573;40;Male;5;0
+Bachelors;2016;Bangalore;3;511;38;Male;1;0
+PHD;2018;New Delhi;3;455;33;Female;4;1
+Masters;2017;New Delhi;2;514;40;Male;4;0
+Masters;2017;New Delhi;2;636;35;Male;2;0
+Bachelors;2016;Bangalore;3;486;33;Male;3;0
+Bachelors;2017;Bangalore;3;385;37;Male;4;0
+Bachelors;2013;Bangalore;3;548;38;Male;0;0
+Bachelors;2018;Bangalore;3;406;32;Male;2;1
+Bachelors;2017;Bangalore;3;447;40;Female;2;0
+Bachelors;2015;New Delhi;3;476;33;Female;2;0
+Bachelors;2016;Bangalore;3;542;38;Male;2;1
+Bachelors;2013;Bangalore;3;567;34;Male;5;0
+Bachelors;2017;New Delhi;3;553;38;Female;4;0
+Bachelors;2018;Pune;2;651;31;Female;3;1
+Bachelors;2014;Pune;3;373;32;Female;4;0
+Bachelors;2013;Bangalore;3;506;35;Male;1;0
+Bachelors;2014;Bangalore;3;579;35;Male;0;1
+Bachelors;2012;Bangalore;3;425;33;Female;4;0
+Bachelors;2012;New Delhi;3;317;41;Female;0;0
+Bachelors;2015;Pune;1;837;31;Female;3;1
+Bachelors;2016;Bangalore;3;366;34;Male;3;0
+Masters;2017;New Delhi;2;665;40;Female;2;0
+Masters;2016;Bangalore;3;388;32;Male;1;1
+Bachelors;2012;Bangalore;3;548;36;Male;5;0
+Bachelors;2014;Pune;2;508;40;Female;3;1
+Bachelors;2012;Pune;3;425;31;Male;3;0
+Bachelors;2014;Bangalore;1;766;34;Female;5;0
+Masters;2013;New Delhi;3;300;41;Female;2;1
+Masters;2017;New Delhi;2;716;32;Male;2;0
+Bachelors;2016;Bangalore;3;453;41;Male;2;0
+Masters;2014;New Delhi;3;516;33;Male;3;0
+Bachelors;2013;Bangalore;3;343;33;Female;0;1
+Bachelors;2013;Pune;3;522;39;Female;2;0
+Masters;2018;Pune;3;455;40;Male;2;1
+Bachelors;2017;New Delhi;3;502;34;Male;3;0
+Bachelors;2016;Pune;3;586;41;Male;5;0
+Bachelors;2015;Pune;3;416;37;Male;5;1
+Masters;2017;Bangalore;3;564;32;Female;4;1
+Bachelors;2017;Bangalore;3;427;41;Male;3;0
+Bachelors;2018;Bangalore;3;431;34;Female;2;1
+Masters;2017;Bangalore;3;423;38;Male;5;1
+Bachelors;2017;Bangalore;3;336;40;Female;3;0
+Masters;2017;Pune;3;376;35;Male;2;0
+Bachelors;2015;Pune;3;596;31;Male;1;0
+Bachelors;2016;Pune;3;386;39;Male;4;0
+Bachelors;2018;Bangalore;3;395;39;Male;1;1
+Bachelors;2018;Bangalore;3;374;32;Male;3;1
+Bachelors;2015;Bangalore;3;465;38;Male;5;0
+Bachelors;2015;Bangalore;3;333;35;Male;3;0
+Bachelors;2013;Bangalore;1;883;38;Male;4;0
+Bachelors;2012;New Delhi;3;430;32;Male;1;1
+Bachelors;2014;Pune;2;579;37;Female;5;1
+Bachelors;2015;Pune;3;396;35;Male;0;0
+Bachelors;2017;Pune;3;441;41;Female;4;1
+Masters;2015;Bangalore;3;388;36;Male;0;0
+Bachelors;2017;Bangalore;3;570;35;Male;2;0
+Masters;2017;New Delhi;2;681;36;Male;2;1
+Masters;2017;Bangalore;1;808;34;Male;1;0
+Bachelors;2015;Bangalore;3;515;36;Male;3;0
+Bachelors;2017;Pune;2;781;33;Male;3;0
+Masters;2018;New Delhi;3;351;38;Male;2;1
+PHD;2013;New Delhi;3;420;35;Female;3;1
+Bachelors;2015;New Delhi;2;666;37;Female;3;1
+Bachelors;2017;Bangalore;3;438;31;Male;0;0
+Bachelors;2017;Pune;2;779;40;Female;2;1
+Bachelors;2015;Pune;3;454;32;Female;3;1
+Bachelors;2015;Bangalore;3;416;35;Male;2;0
+Bachelors;2012;Bangalore;3;435;38;Male;0;0
+Bachelors;2015;Pune;2;551;36;Female;0;1
+Masters;2015;Pune;3;453;36;Male;3;0
+Masters;2014;New Delhi;3;379;32;Female;5;0
+Bachelors;2018;Pune;2;515;37;Female;0;1
+Bachelors;2018;Pune;3;391;35;Female;0;1
+Bachelors;2015;Pune;1;802;36;Female;4;1
+Bachelors;2015;New Delhi;2;553;34;Female;5;1
+Masters;2017;New Delhi;2;658;35;Female;0;0
+Masters;2017;New Delhi;2;745;38;Female;5;0
+Bachelors;2015;Pune;2;602;39;Female;5;1
+Bachelors;2012;Pune;2;561;32;Female;5;1
+Bachelors;2015;Bangalore;3;337;39;Male;2;0
+Bachelors;2015;Bangalore;3;547;39;Male;2;1
+Masters;2017;Pune;2;713;37;Male;2;0
+Bachelors;2015;Bangalore;3;321;32;Female;5;0
+Bachelors;2017;New Delhi;2;772;38;Male;0;0
+Bachelors;2012;Pune;2;647;36;Female;5;1
+Masters;2016;Bangalore;1;714;37;Male;2;1
+Bachelors;2017;Pune;3;425;32;Male;4;0
+Masters;2017;New Delhi;3;342;37;Male;2;0
+Bachelors;2016;New Delhi;3;466;33;Male;2;0
+Bachelors;2016;Bangalore;3;445;39;Male;4;0
+Bachelors;2012;Bangalore;3;329;35;Male;1;1
+Masters;2015;Pune;3;332;39;Male;5;0
+Bachelors;2015;Bangalore;3;374;34;Male;0;0
+Masters;2017;New Delhi;2;580;33;Male;4;0
+Bachelors;2012;Bangalore;3;442;33;Male;1;0
+Bachelors;2015;New Delhi;3;334;31;Male;0;0
+PHD;2016;Pune;3;353;31;Female;4;0
+Bachelors;2015;Bangalore;3;422;37;Female;4;0
+Bachelors;2012;Bangalore;3;543;33;Male;0;0
+Bachelors;2017;Pune;3;307;31;Male;0;0
+Bachelors;2017;Bangalore;3;460;41;Female;2;0
+Masters;2017;Pune;2;779;39;Male;2;0
+Masters;2013;New Delhi;3;391;32;Male;2;0
+Bachelors;2016;Pune;3;449;37;Male;3;0
+Bachelors;2014;Bangalore;3;303;37;Male;1;0
+Bachelors;2017;Pune;2;726;34;Female;3;1
+Bachelors;2017;New Delhi;2;636;31;Male;2;0
+Bachelors;2014;Pune;2;741;34;Female;1;1
+Bachelors;2012;Bangalore;3;450;38;Female;5;0
+Bachelors;2013;Bangalore;3;362;37;Female;1;0
+Bachelors;2015;Pune;1;836;34;Female;3;1
+Bachelors;2015;Bangalore;3;582;33;Male;2;0
+Bachelors;2016;Bangalore;3;543;37;Male;4;0
+Bachelors;2016;Bangalore;3;302;41;Male;4;0
+Bachelors;2012;Bangalore;1;803;38;Female;1;0
+Bachelors;2016;Pune;3;517;40;Male;5;0
+Bachelors;2017;New Delhi;3;595;33;Female;1;1
+Bachelors;2016;New Delhi;3;563;33;Male;1;0
+Masters;2013;New Delhi;3;535;37;Male;2;0
+Bachelors;2017;New Delhi;2;753;36;Female;2;0
+Bachelors;2012;Bangalore;3;480;36;Female;5;0
+Bachelors;2015;Bangalore;3;496;41;Male;1;0
+Masters;2014;New Delhi;3;535;40;Male;5;0
+Bachelors;2016;Bangalore;3;483;36;Female;0;0
+Masters;2017;Bangalore;2;506;41;Male;2;1
+Bachelors;2015;Pune;3;378;33;Male;5;0
+Masters;2017;New Delhi;2;599;37;Female;2;0
+Bachelors;2017;New Delhi;2;668;33;Male;0;0
+Bachelors;2014;Bangalore;3;330;40;Female;4;0
+Masters;2018;New Delhi;3;510;36;Male;2;1
+Bachelors;2018;Bangalore;3;404;40;Male;3;1
+Masters;2018;Bangalore;3;404;40;Male;2;1
+Bachelors;2014;Bangalore;3;378;34;Male;3;0
+Bachelors;2012;Pune;3;398;39;Male;5;0
+Bachelors;2017;Pune;2;790;33;Male;1;1
+Bachelors;2016;Bangalore;3;303;37;Male;2;0
+Bachelors;2012;New Delhi;3;417;40;Male;3;0
+Bachelors;2018;Bangalore;3;462;38;Male;1;1
+Bachelors;2016;Bangalore;3;379;40;Male;1;0
+Bachelors;2014;New Delhi;3;517;38;Female;0;0
+Bachelors;2016;Bangalore;3;439;34;Male;1;0
+Masters;2016;New Delhi;3;448;37;Female;3;1
+Bachelors;2015;Bangalore;3;462;40;Male;5;0
+Bachelors;2015;New Delhi;3;430;40;Female;1;0
+Masters;2016;Bangalore;3;404;37;Male;2;1
+Bachelors;2016;Pune;2;620;37;Female;3;1
+Bachelors;2013;Pune;3;571;32;Male;1;0
+Masters;2017;New Delhi;1;737;35;Male;5;0
+Bachelors;2016;Bangalore;1;713;38;Male;3;0
+Bachelors;2017;Pune;3;567;34;Female;1;0
+Bachelors;2014;Bangalore;3;555;32;Male;2;1
+Bachelors;2013;Bangalore;3;439;37;Male;5;0
+Bachelors;2017;New Delhi;2;575;37;Male;4;0
+Bachelors;2014;Bangalore;3;308;35;Male;2;0
+Bachelors;2016;Bangalore;3;421;40;Male;0;0
+Bachelors;2012;Bangalore;3;426;40;Male;2;0
+Bachelors;2015;Bangalore;3;305;39;Female;3;1
+Masters;2013;New Delhi;3;369;41;Female;2;0
+Bachelors;2015;Bangalore;3;377;34;Female;4;0
+Bachelors;2012;New Delhi;3;533;34;Female;4;0
+Bachelors;2013;Pune;2;733;36;Male;2;1
+Masters;2016;New Delhi;3;549;39;Female;1;0
+Bachelors;2014;New Delhi;3;335;41;Male;5;0
+Bachelors;2015;Bangalore;3;380;40;Male;0;0
+Bachelors;2017;Bangalore;3;565;34;Female;5;0
+Bachelors;2013;Bangalore;3;462;31;Male;2;0
+Bachelors;2012;Pune;3;509;40;Male;3;0
+Bachelors;2013;Pune;3;312;32;Male;5;0
+Bachelors;2018;Pune;3;412;38;Male;3;1
+Bachelors;2016;Bangalore;3;561;40;Male;3;0
+PHD;2013;Bangalore;3;576;41;Male;4;0
+Bachelors;2014;Bangalore;3;391;36;Female;0;0
+Bachelors;2015;Pune;2;791;33;Female;3;1
+Bachelors;2016;New Delhi;3;393;37;Male;3;0
+Bachelors;2015;Pune;3;445;38;Male;4;0
+Bachelors;2017;Bangalore;3;552;32;Male;4;0
+Bachelors;2017;Pune;3;596;33;Male;1;0
+Bachelors;2015;Bangalore;3;535;38;Male;5;0
+Bachelors;2015;Pune;3;424;40;Female;5;1
+Bachelors;2014;Bangalore;3;496;35;Male;0;0
+Masters;2016;New Delhi;3;589;37;Female;5;0
+Bachelors;2016;Bangalore;3;582;37;Male;2;0
+Bachelors;2015;Bangalore;3;362;36;Male;2;0
+Bachelors;2017;Bangalore;3;457;33;Female;4;1
+Bachelors;2014;Pune;2;605;36;Female;3;1
+Bachelors;2016;Pune;3;358;32;Male;3;0
+Bachelors;2017;Bangalore;3;444;35;Female;1;1
+Bachelors;2014;Pune;2;763;34;Female;2;1
+Masters;2017;Pune;2;785;40;Male;5;0
+Bachelors;2016;Bangalore;3;589;37;Female;4;0
+Bachelors;2015;Bangalore;1;708;36;Male;1;0
+Bachelors;2012;Pune;3;468;41;Female;1;0
+Bachelors;2016;Pune;3;307;36;Male;0;0
+Bachelors;2017;Bangalore;3;474;31;Female;2;0
+Bachelors;2017;Pune;3;557;31;Male;3;0
+Bachelors;2014;Pune;3;592;33;Male;2;0
+Bachelors;2017;Bangalore;3;528;35;Male;0;0
+PHD;2016;New Delhi;3;323;34;Male;1;0
+Bachelors;2014;Bangalore;3;387;39;Female;4;0
+Masters;2015;Bangalore;3;569;31;Male;1;1
+Bachelors;2015;Pune;3;599;32;Female;0;1
+Bachelors;2017;Bangalore;3;569;33;Male;0;1
+Bachelors;2014;Bangalore;3;444;34;Male;1;0
+Masters;2014;Pune;3;548;39;Male;2;0
+Bachelors;2017;New Delhi;2;561;41;Female;2;1
+Bachelors;2017;New Delhi;2;522;34;Male;2;0
+Bachelors;2013;Bangalore;3;333;36;Female;5;0
+Bachelors;2015;Pune;2;687;39;Female;5;1
+Bachelors;2012;Pune;3;366;37;Male;5;0
+Bachelors;2016;Bangalore;3;461;36;Male;4;0
+Bachelors;2014;New Delhi;3;401;38;Female;1;0
+Bachelors;2017;Bangalore;3;310;38;Female;3;0
+Masters;2016;New Delhi;3;460;37;Female;2;1
+Bachelors;2012;Bangalore;3;395;34;Male;2;0
+Bachelors;2015;Bangalore;3;340;31;Male;2;0
+Bachelors;2015;Pune;2;791;32;Female;2;1
+Masters;2018;New Delhi;3;384;35;Male;2;1
+Bachelors;2017;Bangalore;3;364;31;Male;2;0
+Bachelors;2015;Bangalore;1;795;32;Male;0;1
+Bachelors;2015;Bangalore;3;323;31;Female;5;0
+Bachelors;2018;Bangalore;3;410;37;Male;5;1
+PHD;2018;New Delhi;3;439;40;Male;3;1
+Bachelors;2015;Bangalore;1;758;41;Male;1;0
+Bachelors;2017;Pune;3;521;34;Male;5;0
+Bachelors;2014;Bangalore;3;397;36;Male;3;0
+Bachelors;2013;Pune;3;387;35;Male;1;0
+Masters;2017;New Delhi;3;327;38;Female;3;0
+Bachelors;2017;Bangalore;3;593;33;Male;1;0
+Bachelors;2014;Bangalore;3;316;38;Female;2;0
+Bachelors;2018;Bangalore;3;400;38;Male;1;1
+Bachelors;2017;Pune;2;606;40;Male;4;0
+Bachelors;2013;New Delhi;3;520;39;Male;5;0
+Bachelors;2014;New Delhi;3;420;33;Female;4;0
+Bachelors;2015;Pune;3;552;32;Female;3;1
+Bachelors;2013;Bangalore;3;463;39;Male;2;0
+Bachelors;2015;Bangalore;3;300;38;Female;4;0
+Bachelors;2013;Bangalore;3;510;38;Male;2;0
+Bachelors;2017;Bangalore;3;388;35;Male;0;0
+Bachelors;2017;Pune;3;504;31;Female;0;1
+Bachelors;2017;Bangalore;3;331;41;Male;5;0
+Bachelors;2013;New Delhi;3;504;38;Female;4;1
+Bachelors;2016;Bangalore;3;346;40;Male;1;0
+Bachelors;2018;Bangalore;3;561;36;Female;2;1
+PHD;2013;New Delhi;3;313;36;Male;3;1
+Bachelors;2014;Pune;3;424;41;Male;4;0
+Bachelors;2014;Bangalore;3;473;35;Male;1;0
+Bachelors;2017;Bangalore;3;350;38;Male;5;0
+Bachelors;2017;New Delhi;2;664;41;Female;0;0
+Bachelors;2012;Bangalore;1;730;34;Male;0;0
+Bachelors;2016;Bangalore;3;444;39;Female;3;1
+Bachelors;2014;Bangalore;3;425;37;Male;5;0
+Bachelors;2015;Pune;2;793;39;Female;0;1
+Bachelors;2013;Bangalore;3;561;31;Male;2;1
+Masters;2012;New Delhi;3;333;34;Female;3;0
+Bachelors;2015;Bangalore;3;312;39;Male;1;0
+Bachelors;2014;Pune;2;566;38;Female;3;1
+Bachelors;2012;Bangalore;3;486;34;Male;1;0
+Bachelors;2016;Bangalore;3;430;31;Female;2;0
+Bachelors;2016;Bangalore;3;570;39;Female;0;0
+Bachelors;2013;Bangalore;3;576;31;Female;1;0
+Bachelors;2012;Bangalore;3;464;36;Male;1;0
+Bachelors;2017;New Delhi;3;461;37;Male;0;0
+Bachelors;2015;Pune;1;703;38;Female;1;1
+PHD;2017;Pune;3;490;41;Male;2;0
+Bachelors;2018;Bangalore;3;528;32;Male;4;1
+Bachelors;2018;Pune;3;367;35;Male;0;1
+Bachelors;2017;Bangalore;3;380;35;Male;1;0
+Bachelors;2013;Bangalore;3;345;32;Male;1;0
+Bachelors;2015;Bangalore;3;498;31;Male;1;1
+Bachelors;2015;Bangalore;3;528;41;Male;4;0
+Bachelors;2012;Bangalore;3;491;33;Male;0;0
+Bachelors;2012;New Delhi;2;574;38;Female;1;1
+Masters;2012;Bangalore;3;541;39;Female;3;1
+Bachelors;2015;Bangalore;1;738;36;Female;2;0
+Masters;2017;Bangalore;2;666;31;Male;5;0
+Masters;2017;New Delhi;2;587;39;Female;2;1
+Masters;2017;New Delhi;3;595;41;Male;3;1
+PHD;2018;New Delhi;3;461;33;Female;0;1
+Bachelors;2015;Bangalore;3;476;38;Male;1;0
+Bachelors;2017;Pune;2;625;31;Male;0;0
+Bachelors;2014;Bangalore;3;346;34;Male;4;0
+Bachelors;2017;Bangalore;3;445;40;Male;2;0
+Bachelors;2012;Bangalore;3;532;36;Male;1;0
+Bachelors;2015;Bangalore;3;491;36;Female;2;0
+Bachelors;2017;New Delhi;2;508;41;Female;4;0
+Bachelors;2017;Bangalore;3;414;37;Male;3;0
+Bachelors;2017;New Delhi;3;345;33;Male;5;0
+Bachelors;2017;New Delhi;3;510;41;Female;4;0
+Bachelors;2017;Bangalore;3;448;37;Female;2;0
+Bachelors;2017;Pune;3;520;38;Male;5;0
+Bachelors;2015;Bangalore;3;323;34;Male;2;1
+Bachelors;2017;Pune;3;358;37;Female;0;0
+Bachelors;2014;Bangalore;3;414;34;Male;0;1
+Bachelors;2012;Pune;3;467;32;Male;1;0
+Masters;2012;New Delhi;3;410;35;Female;4;1
+Bachelors;2013;Pune;3;316;36;Male;3;0
+Bachelors;2015;Bangalore;3;362;34;Female;2;0
+Bachelors;2014;Bangalore;3;521;37;Female;3;0
+Bachelors;2016;Bangalore;3;534;40;Female;4;0
+Bachelors;2014;Pune;3;387;33;Male;4;0
+Bachelors;2016;Bangalore;3;402;39;Female;4;0
+Bachelors;2012;Bangalore;3;384;40;Male;4;0
+Bachelors;2013;Bangalore;1;829;34;Male;4;1
+Bachelors;2016;Pune;3;349;40;Male;5;0
+PHD;2013;Bangalore;3;335;32;Male;5;0
+Bachelors;2012;Bangalore;3;481;33;Male;1;0
+Bachelors;2017;New Delhi;1;771;31;Female;4;1
+Masters;2016;New Delhi;3;347;41;Female;4;0
+Bachelors;2016;Bangalore;3;554;34;Male;4;0
+Bachelors;2016;Bangalore;3;438;39;Male;7;0
+Bachelors;2014;Bangalore;3;542;35;Male;5;0
+Bachelors;2016;Pune;3;593;38;Female;7;0
+Bachelors;2016;Bangalore;3;414;33;Male;6;0
+Bachelors;2014;Pune;3;424;33;Male;6;0
+Bachelors;2012;Bangalore;3;549;35;Male;5;0
+PHD;2013;New Delhi;3;557;40;Male;5;0
+Bachelors;2012;Bangalore;3;584;40;Female;5;0
+Bachelors;2017;Bangalore;3;316;39;Male;5;0
+Bachelors;2017;Bangalore;3;329;33;Female;6;0
+Bachelors;2014;Bangalore;3;437;32;Female;5;0
+Masters;2014;Bangalore;3;473;40;Female;7;1
+Bachelors;2017;New Delhi;2;524;33;Male;6;0
+Masters;2016;New Delhi;1;850;31;Female;5;1
+Bachelors;2013;Bangalore;3;547;35;Female;5;0
+Bachelors;2014;Bangalore;3;428;39;Male;7;1
+Masters;2018;Bangalore;3;489;39;Female;6;1
+Masters;2017;Pune;2;586;38;Female;2;0
+Bachelors;2012;Bangalore;3;433;38;Male;7;1
+Masters;2017;New Delhi;2;539;40;Female;2;0
+Bachelors;2018;Bangalore;3;423;38;Male;6;1
+Bachelors;2013;Bangalore;3;534;34;Male;6;0
+Bachelors;2012;Bangalore;1;794;35;Male;7;0
+Masters;2013;New Delhi;1;879;41;Male;5;0
+PHD;2014;New Delhi;2;756;37;Female;5;0
+Bachelors;2015;Pune;3;412;34;Male;7;0
+Bachelors;2014;Bangalore;3;498;35;Male;5;0
+Bachelors;2013;Bangalore;1;803;38;Male;6;0
+Bachelors;2016;Bangalore;3;549;38;Female;7;0
+Bachelors;2015;Pune;2;570;41;Female;7;0
+Bachelors;2018;Bangalore;3;444;34;Male;5;1
+Bachelors;2017;Pune;2;694;22;Male;0;0
+Bachelors;2018;Bangalore;2;721;26;Female;4;1
+Bachelors;2012;Bangalore;3;356;22;Male;0;0
+Bachelors;2017;New Delhi;3;313;25;Female;3;0
+Bachelors;2016;Bangalore;3;312;29;Male;0;0
+Bachelors;2017;New Delhi;3;327;36;Female;0;0
+Bachelors;2014;Bangalore;3;526;37;Female;1;0
+Bachelors;2013;New Delhi;2;624;34;Female;4;1
+Bachelors;2012;Pune;3;394;34;Female;2;1
+Bachelors;2012;Bangalore;3;452;25;Female;3;1
+Bachelors;2012;Bangalore;3;529;31;Male;0;0
+Bachelors;2015;New Delhi;3;523;36;Female;2;0
+Bachelors;2016;Bangalore;3;334;31;Male;5;0
+Bachelors;2015;Bangalore;3;525;34;Male;4;0
+Masters;2014;New Delhi;3;457;28;Male;2;1
+Bachelors;2014;Bangalore;3;542;28;Male;2;0
+Bachelors;2015;Bangalore;3;441;31;Male;1;0
+Bachelors;2017;Bangalore;3;398;35;Male;5;0
+Bachelors;2012;Bangalore;1;741;28;Female;1;0
+Bachelors;2018;Bangalore;3;501;32;Female;2;1
+Bachelors;2013;Bangalore;3;439;23;Male;1;1
+Masters;2018;Pune;3;555;27;Male;5;1
+Bachelors;2017;Pune;3;436;25;Male;3;0
+Masters;2017;New Delhi;2;552;31;Female;2;0
+PHD;2018;New Delhi;3;335;34;Male;0;1
+Bachelors;2016;Bangalore;3;385;36;Female;2;0
+PHD;2017;New Delhi;3;473;40;Male;3;0
+Masters;2012;New Delhi;3;323;34;Female;2;0
+Bachelors;2018;Bangalore;3;434;37;Male;2;1
+Bachelors;2012;Bangalore;3;423;38;Male;3;0
+Bachelors;2017;New Delhi;2;624;22;Female;0;0
+Bachelors;2016;Pune;2;599;36;Female;0;1
+Bachelors;2013;New Delhi;2;640;35;Female;1;1
+Bachelors;2012;New Delhi;3;392;22;Female;0;0
+Bachelors;2016;Bangalore;3;386;22;Male;0;0
+Bachelors;2012;Bangalore;3;573;29;Male;4;0
+Bachelors;2017;Bangalore;3;453;34;Male;5;0
+Bachelors;2017;Bangalore;2;572;23;Male;1;0
+Bachelors;2014;Pune;2;606;32;Male;3;1
+Bachelors;2012;Pune;2;501;26;Female;4;1
+Masters;2017;Bangalore;3;439;38;Male;2;0
+Bachelors;2014;Pune;3;499;37;Male;4;0
+Bachelors;2017;New Delhi;2;620;25;Female;3;0
+Bachelors;2018;Pune;2;511;36;Female;5;1
+Bachelors;2016;Bangalore;3;366;26;Female;4;0
+Bachelors;2018;Pune;2;588;39;Female;4;1
+Bachelors;2016;Bangalore;3;594;24;Male;2;1
+Masters;2018;Pune;3;332;39;Male;2;1
+Masters;2018;New Delhi;3;407;39;Female;2;1
+Bachelors;2017;New Delhi;2;642;27;Female;5;0
+Bachelors;2013;Bangalore;3;464;36;Male;5;1
+Bachelors;2012;Bangalore;3;333;24;Male;2;0
+Bachelors;2017;Bangalore;3;598;28;Female;3;0
+Bachelors;2016;Bangalore;3;350;24;Male;2;0
+Bachelors;2014;Bangalore;3;596;27;Male;5;0
+Bachelors;2017;New Delhi;3;483;23;Male;1;0
+Bachelors;2013;Bangalore;3;415;30;Female;5;0
+Bachelors;2014;Bangalore;3;390;22;Male;0;0
+Bachelors;2014;Pune;3;462;27;Male;5;0
+Masters;2017;New Delhi;3;346;32;Male;2;0
+Masters;2014;Pune;1;710;33;Female;1;0
+Masters;2017;New Delhi;3;348;26;Male;4;1
+Bachelors;2013;Pune;3;341;25;Female;3;1
+Masters;2017;New Delhi;2;780;23;Male;1;1
+Bachelors;2012;Pune;3;594;24;Male;2;0
+Bachelors;2014;Bangalore;3;549;33;Male;5;0
+Masters;2018;Bangalore;3;424;30;Male;2;1
+Masters;2017;New Delhi;2;710;27;Female;5;0
+Bachelors;2012;Pune;2;794;31;Female;5;1
+Masters;2018;New Delhi;3;465;23;Female;1;1
+Bachelors;2015;Bangalore;3;561;30;Male;2;0
+Bachelors;2015;Pune;2;510;32;Female;2;1
+Bachelors;2013;New Delhi;3;312;26;Female;4;0
+Masters;2017;New Delhi;2;743;35;Male;2;0
+Bachelors;2016;Bangalore;1;753;30;Male;4;1
+Bachelors;2012;Bangalore;3;426;37;Male;4;1
+Bachelors;2017;Bangalore;1;785;34;Male;0;0
+Bachelors;2012;Bangalore;3;336;38;Female;0;0
+Masters;2013;New Delhi;2;703;22;Male;0;1
+Bachelors;2015;Pune;1;818;22;Female;0;1
+Masters;2015;Pune;2;527;33;Female;2;1
+Bachelors;2015;Bangalore;3;345;32;Male;1;0
+Masters;2015;Pune;2;788;34;Female;2;0
+Bachelors;2017;Bangalore;3;494;36;Female;1;0
+Bachelors;2015;Bangalore;3;371;32;Male;1;0
+Bachelors;2017;Bangalore;3;544;28;Male;3;0
+Bachelors;2017;New Delhi;2;791;26;Female;4;0
+Bachelors;2013;Pune;3;407;35;Male;1;0
+Bachelors;2014;Pune;3;522;33;Male;4;0
+Masters;2013;Pune;3;327;22;Female;0;1
+Bachelors;2014;Pune;3;365;27;Male;5;1
+Masters;2018;New Delhi;3;316;23;Female;1;1
+Bachelors;2013;Bangalore;3;412;34;Female;2;0
+Masters;2017;Pune;2;679;23;Male;1;1
+Bachelors;2012;Pune;3;517;36;Male;4;0
+PHD;2018;New Delhi;3;489;28;Male;4;1
+PHD;2013;Bangalore;3;511;28;Male;4;0
+Bachelors;2016;Bangalore;3;318;33;Female;4;0
+Bachelors;2013;Bangalore;3;360;39;Male;3;0
+Bachelors;2015;New Delhi;3;502;25;Female;3;0
+Bachelors;2014;Pune;3;374;32;Male;2;0
+Bachelors;2015;Pune;3;480;23;Female;1;1
+Masters;2018;New Delhi;3;580;29;Male;2;1
+Bachelors;2013;Pune;2;673;24;Male;2;1
+Bachelors;2012;Bangalore;3;367;36;Female;2;1
+Bachelors;2018;Bangalore;3;310;40;Male;4;1
+Bachelors;2012;New Delhi;3;333;38;Female;1;0
+Bachelors;2014;Bangalore;3;445;22;Male;0;0
+Bachelors;2018;Bangalore;3;390;24;Male;2;1
+Bachelors;2012;Bangalore;3;469;37;Male;5;0
+Bachelors;2018;Pune;3;491;40;Male;3;1
+Bachelors;2018;Bangalore;3;356;32;Male;0;1
+Bachelors;2012;New Delhi;3;590;28;Female;1;0
+Bachelors;2016;Pune;3;525;29;Male;5;0
+Bachelors;2013;Pune;3;347;25;Male;3;0
+PHD;2013;Bangalore;3;309;35;Male;3;1
+Bachelors;2015;Bangalore;3;599;28;Male;0;1
+Bachelors;2012;Bangalore;3;488;39;Male;3;0
+Bachelors;2012;Pune;1;750;35;Male;1;0
+Bachelors;2017;Bangalore;3;359;37;Male;2;0
+Masters;2018;Pune;3;575;40;Female;2;1
+Bachelors;2018;Bangalore;3;315;23;Male;1;1
+Bachelors;2013;Pune;3;379;32;Male;2;0
+PHD;2018;New Delhi;3;437;37;Male;3;1
+Bachelors;2015;Bangalore;3;565;23;Female;1;0
+Bachelors;2014;Pune;3;441;26;Male;4;0
+Bachelors;2017;Bangalore;3;560;36;Female;3;1
+Bachelors;2013;Bangalore;3;437;40;Female;3;0
+Bachelors;2015;New Delhi;3;453;22;Male;0;0
+Bachelors;2015;Bangalore;3;364;30;Male;0;0
+Bachelors;2014;Bangalore;3;329;30;Male;1;0
+Bachelors;2015;Pune;1;893;34;Female;3;1
+Bachelors;2018;Bangalore;3;366;27;Male;5;1
+Bachelors;2013;Bangalore;1;794;27;Female;5;0
+Bachelors;2017;Pune;2;721;27;Female;5;1
+Bachelors;2015;Bangalore;3;464;35;Female;1;1
+Bachelors;2014;New Delhi;3;511;33;Female;4;0
+Bachelors;2012;Bangalore;3;324;37;Male;4;0
+Bachelors;2014;New Delhi;3;517;40;Female;3;0
+Bachelors;2015;Pune;2;667;25;Female;3;1
+Bachelors;2017;Pune;2;650;34;Male;2;0
+Bachelors;2017;New Delhi;3;380;40;Male;1;0
+Masters;2018;New Delhi;3;466;34;Male;2;1
+Bachelors;2013;Pune;3;459;33;Male;5;0
+Bachelors;2016;Bangalore;3;428;22;Female;0;0
+Bachelors;2015;Pune;2;518;36;Female;1;1
+Bachelors;2012;Bangalore;3;473;38;Male;2;1
+Bachelors;2013;Pune;3;499;25;Female;3;0
+Bachelors;2017;Bangalore;3;429;37;Male;3;1
+Bachelors;2016;Bangalore;3;526;25;Female;3;0
+Bachelors;2015;Pune;2;566;40;Female;0;1
+Bachelors;2013;Bangalore;3;488;26;Female;4;0
+Masters;2015;Pune;1;772;23;Female;1;0
+Bachelors;2014;Bangalore;3;322;22;Male;0;1
+Masters;2017;New Delhi;2;646;34;Male;2;0
+Masters;2017;New Delhi;3;591;35;Female;2;0
+Bachelors;2014;Pune;3;426;23;Male;1;0
+Bachelors;2015;Bangalore;3;369;29;Male;2;1
+Bachelors;2015;Pune;3;401;32;Female;1;0
+Bachelors;2015;Bangalore;3;327;26;Male;4;0
+Bachelors;2014;Bangalore;3;449;28;Male;3;0
+Masters;2015;Pune;2;639;24;Female;2;0
+Bachelors;2017;Bangalore;3;513;33;Male;4;0
+PHD;2016;New Delhi;3;349;22;Male;0;0
+Masters;2015;Pune;2;550;39;Female;2;0
+Masters;2018;New Delhi;3;577;30;Female;2;1
+Bachelors;2014;Bangalore;3;573;38;Female;5;1
+Bachelors;2012;New Delhi;3;323;36;Female;4;0
+Bachelors;2012;Pune;2;504;38;Male;5;0
+Bachelors;2013;Bangalore;3;459;24;Male;2;0
+Bachelors;2016;Bangalore;3;429;28;Male;1;0
+Bachelors;2015;Bangalore;3;332;35;Female;0;1
+Bachelors;2013;New Delhi;3;390;23;Female;1;0
+Masters;2017;New Delhi;2;533;23;Female;1;1
+Bachelors;2013;Bangalore;3;350;37;Male;5;0
+Masters;2016;New Delhi;3;442;24;Male;2;1
+Bachelors;2014;Pune;3;519;33;Male;4;0
+Bachelors;2015;Bangalore;3;324;38;Female;5;0
+Bachelors;2015;Pune;3;517;40;Male;0;0
+Bachelors;2014;Bangalore;3;563;34;Male;4;0
+Masters;2017;New Delhi;2;501;26;Male;4;0
+Bachelors;2016;Pune;3;357;25;Male;3;0
+Bachelors;2016;Pune;3;475;24;Female;2;0
+Bachelors;2018;Bangalore;3;346;35;Male;5;1
+PHD;2013;New Delhi;3;315;27;Male;5;0
+Masters;2013;New Delhi;3;387;30;Female;3;0
+Bachelors;2015;Bangalore;3;528;26;Female;4;1
+Bachelors;2017;Bangalore;3;304;40;Male;0;0
+Masters;2017;Pune;2;585;27;Female;5;1
+Bachelors;2016;Pune;3;334;38;Male;0;0
+Bachelors;2014;New Delhi;3;434;34;Female;5;0
+Masters;2017;Pune;2;678;24;Male;2;0
+Bachelors;2016;Bangalore;3;343;38;Male;4;0
+Bachelors;2014;Pune;1;793;37;Male;1;0
+Bachelors;2015;Bangalore;3;570;22;Male;0;0
+Bachelors;2014;New Delhi;3;383;29;Female;2;1
+Bachelors;2014;Pune;1;704;37;Female;4;1
+Bachelors;2016;Pune;3;435;23;Male;1;0
+Bachelors;2012;New Delhi;3;355;34;Female;2;0
+Bachelors;2017;Bangalore;3;522;28;Male;2;0
+Bachelors;2012;Pune;3;340;24;Male;2;0
+Masters;2017;Bangalore;2;533;35;Female;0;0
+Bachelors;2015;Bangalore;3;518;30;Male;2;0
+Bachelors;2018;Bangalore;3;323;33;Male;4;1
+Bachelors;2015;Bangalore;3;573;27;Female;5;0
+Bachelors;2016;Bangalore;3;496;32;Male;4;0
+Bachelors;2014;Pune;3;384;36;Female;5;0
+Bachelors;2012;Bangalore;3;414;26;Male;4;0
+Bachelors;2012;Bangalore;1;876;35;Male;4;0
+PHD;2012;New Delhi;3;349;25;Male;3;0
+Masters;2013;Bangalore;2;726;29;Male;1;1
+Bachelors;2012;Bangalore;3;363;36;Female;3;0
+Bachelors;2013;Bangalore;3;450;30;Male;1;0
+Bachelors;2017;Pune;2;704;37;Female;4;1
+Bachelors;2016;Bangalore;3;395;40;Male;0;1
+Bachelors;2012;Bangalore;3;528;24;Male;2;0
+Bachelors;2012;Bangalore;3;415;32;Male;4;0
+Bachelors;2018;Pune;3;598;34;Male;0;1
+Bachelors;2014;Pune;3;545;29;Male;3;0
+Bachelors;2012;Bangalore;3;420;23;Female;1;1
+Bachelors;2017;Pune;3;545;23;Male;1;0
+Bachelors;2013;Bangalore;3;339;25;Female;3;0
+Bachelors;2012;New Delhi;1;888;31;Female;3;0
+Masters;2017;New Delhi;2;526;23;Male;1;1
+Bachelors;2014;Bangalore;3;548;27;Male;5;0
+PHD;2015;New Delhi;2;766;39;Female;5;0
+Bachelors;2016;Bangalore;3;539;33;Female;1;1
+Bachelors;2013;Bangalore;3;377;23;Male;1;0
+Masters;2017;New Delhi;2;743;34;Female;4;0
+Bachelors;2015;Pune;2;517;37;Female;1;1
+Bachelors;2012;Bangalore;3;575;23;Male;1;0
+Bachelors;2017;New Delhi;3;454;27;Male;5;0
+Masters;2017;Pune;2;519;38;Female;2;0
+Bachelors;2014;Bangalore;3;312;27;Female;5;0
+Bachelors;2016;Bangalore;3;332;22;Male;0;0
+Masters;2015;Pune;2;776;26;Female;4;1
+Bachelors;2012;Bangalore;3;526;40;Male;3;0
+Bachelors;2016;Bangalore;3;437;33;Female;3;0
+Bachelors;2014;Bangalore;3;579;31;Male;0;0
+Bachelors;2017;Pune;3;467;33;Male;4;0
+Bachelors;2015;New Delhi;3;346;30;Male;5;0
+Bachelors;2015;New Delhi;3;465;33;Female;5;1
+Masters;2017;New Delhi;3;347;33;Female;0;1
+Bachelors;2016;Pune;3;531;22;Male;0;0
+Bachelors;2012;Pune;3;394;28;Male;2;0
+Bachelors;2013;Bangalore;3;325;36;Male;4;0
+Bachelors;2017;New Delhi;2;538;36;Female;1;0
+Bachelors;2014;Pune;3;554;31;Female;2;0
+Bachelors;2013;Bangalore;2;607;25;Male;3;1
+Bachelors;2012;Pune;1;822;31;Male;4;0
+Masters;2015;Pune;2;625;39;Female;0;0
+Masters;2015;Bangalore;3;433;26;Male;4;1
+Bachelors;2017;Bangalore;2;607;25;Female;3;1
+Bachelors;2013;Bangalore;3;339;26;Male;4;0
+Bachelors;2013;New Delhi;3;323;35;Female;0;0
+Bachelors;2013;Pune;2;778;28;Male;5;0
+Bachelors;2012;Bangalore;3;519;32;Female;0;0
+Masters;2017;New Delhi;2;537;22;Male;0;1
+Bachelors;2014;Pune;3;462;36;Female;5;1
+Bachelors;2015;Bangalore;3;448;38;Male;1;0
+Bachelors;2014;Bangalore;3;415;39;Female;1;0
+Masters;2017;New Delhi;2;785;25;Female;3;1
+Bachelors;2016;Pune;3;563;27;Male;5;0
+Masters;2014;Pune;3;435;38;Male;2;0
+Bachelors;2012;New Delhi;3;516;22;Female;0;0
+Bachelors;2013;Bangalore;3;600;33;Male;2;0
+Bachelors;2013;Pune;3;378;24;Male;2;0
+Bachelors;2014;Bangalore;3;533;37;Male;5;0
+Bachelors;2018;Pune;3;390;28;Male;0;1
+Masters;2017;Pune;3;517;32;Male;2;0
+PHD;2016;New Delhi;3;436;33;Male;0;1
+Bachelors;2014;New Delhi;3;573;32;Male;5;0
+Bachelors;2017;Bangalore;3;300;24;Male;2;1
+Bachelors;2016;Bangalore;3;326;27;Male;5;0
+Bachelors;2012;Pune;2;761;35;Female;2;1
+PHD;2013;Bangalore;3;410;40;Male;1;0
+Bachelors;2017;New Delhi;2;573;34;Female;4;0
+Bachelors;2016;New Delhi;3;470;39;Female;0;0
+Bachelors;2014;Pune;3;530;26;Male;4;0
+Masters;2015;Pune;2;771;29;Female;2;0
+Bachelors;2013;Bangalore;3;498;29;Male;4;0
+Bachelors;2015;Pune;2;505;23;Female;1;1
+Bachelors;2015;Pune;3;338;32;Male;0;0
+Bachelors;2014;Pune;3;404;28;Male;4;0
+Masters;2013;New Delhi;2;552;32;Male;2;1
+Bachelors;2012;New Delhi;3;458;32;Female;0;0
+Bachelors;2013;Bangalore;3;469;38;Male;0;0
+PHD;2017;Pune;3;463;30;Male;5;0
+PHD;2015;New Delhi;3;349;31;Male;3;0
+Bachelors;2012;Bangalore;3;518;25;Male;3;1
+Bachelors;2013;Bangalore;3;479;37;Female;4;0
+Masters;2017;New Delhi;2;769;27;Male;5;1
+Bachelors;2013;New Delhi;3;402;25;Female;3;0
+Bachelors;2015;Pune;2;755;22;Female;0;1
+Bachelors;2018;Bangalore;3;519;38;Male;2;1
+Bachelors;2015;New Delhi;3;572;22;Male;0;0
+Bachelors;2017;Pune;3;468;38;Male;2;0
+PHD;2015;New Delhi;1;764;38;Male;5;0
+Bachelors;2016;New Delhi;2;761;26;Female;4;1
+Masters;2017;New Delhi;2;762;31;Male;4;0
+Masters;2014;New Delhi;3;533;28;Male;5;0
+PHD;2017;New Delhi;3;493;34;Female;3;0
+Masters;2013;Bangalore;3;549;31;Male;2;0
+Bachelors;2014;New Delhi;3;304;26;Female;4;0
+Bachelors;2013;Pune;3;461;40;Female;1;1
+Bachelors;2016;Bangalore;3;577;31;Male;0;0
+Bachelors;2013;Bangalore;3;444;26;Female;4;0
+Bachelors;2018;Pune;3;467;32;Female;1;1
+Bachelors;2012;Bangalore;3;488;33;Female;5;0
+Bachelors;2017;Bangalore;3;349;25;Male;3;0
+Bachelors;2017;Bangalore;3;489;40;Male;0;0
+Masters;2013;New Delhi;3;364;31;Male;2;1
+Bachelors;2015;Bangalore;3;447;36;Male;1;0
+Bachelors;2014;Bangalore;3;507;31;Male;5;0
+Bachelors;2015;Pune;3;574;22;Male;0;0
+Bachelors;2016;Bangalore;3;409;34;Female;0;0
+PHD;2018;New Delhi;3;404;38;Female;5;1
+Bachelors;2015;Bangalore;3;555;23;Male;1;0
+PHD;2017;Bangalore;3;468;27;Male;5;0
+Bachelors;2016;Bangalore;3;424;34;Male;1;0
+Bachelors;2012;Bangalore;3;580;39;Male;3;0
+Bachelors;2018;Bangalore;3;512;24;Male;2;1
+Bachelors;2015;Pune;3;493;37;Female;1;1
+PHD;2013;New Delhi;3;588;23;Male;1;0
+Bachelors;2018;Bangalore;3;397;36;Male;3;1
+Bachelors;2014;New Delhi;3;412;23;Male;1;0
+Bachelors;2012;Pune;3;577;31;Male;3;0
+Bachelors;2015;Bangalore;3;465;22;Male;0;0
+Bachelors;2015;Pune;2;561;24;Female;2;1
+Bachelors;2018;Pune;2;738;28;Female;4;1
+Bachelors;2014;Pune;3;487;33;Male;3;0
+Bachelors;2018;Bangalore;3;561;35;Female;2;1
+Bachelors;2012;New Delhi;3;566;30;Female;1;0
+Bachelors;2014;Bangalore;3;417;28;Female;3;0
+Bachelors;2015;Bangalore;3;520;22;Male;0;0
+Bachelors;2014;Bangalore;3;447;38;Male;3;0
+Bachelors;2014;Pune;3;428;39;Male;4;0
+PHD;2012;Bangalore;1;760;38;Male;5;0
+Bachelors;2014;Bangalore;3;398;22;Female;0;1
+Bachelors;2014;New Delhi;3;576;36;Female;5;0
+Bachelors;2015;Bangalore;3;355;27;Male;5;0
+Bachelors;2016;Pune;1;749;32;Male;2;0
+Bachelors;2017;New Delhi;2;711;39;Female;2;0
+Bachelors;2015;Pune;2;711;36;Male;5;0
+Bachelors;2018;Bangalore;3;458;34;Male;5;1
+Bachelors;2015;Bangalore;3;447;28;Male;1;0
+Bachelors;2018;Bangalore;3;415;36;Female;1;1
+PHD;2015;New Delhi;3;505;22;Female;0;0
+Bachelors;2014;New Delhi;1;897;28;Female;5;0
+Bachelors;2016;Pune;2;665;27;Female;5;1
+Bachelors;2014;Bangalore;1;864;39;Female;4;0
+Bachelors;2012;Bangalore;3;583;31;Male;0;0
+Bachelors;2013;Bangalore;3;324;26;Male;4;0
+Bachelors;2012;Bangalore;3;549;31;Male;3;0
+Bachelors;2015;Pune;2;615;33;Female;2;1
+Bachelors;2017;Pune;2;534;38;Female;1;1
+Bachelors;2014;Pune;3;389;38;Male;2;0
+Bachelors;2012;Pune;3;561;32;Male;3;0
+Bachelors;2014;Bangalore;3;491;26;Male;4;0
+Masters;2017;Pune;2;585;33;Female;2;0
+Bachelors;2015;Bangalore;3;457;34;Female;2;0
+Bachelors;2018;Pune;3;596;36;Male;1;1
+Bachelors;2014;Bangalore;3;504;27;Male;5;0
+Masters;2017;Pune;2;666;27;Male;5;0
+Bachelors;2017;New Delhi;2;688;40;Female;5;0
+Masters;2012;Bangalore;3;320;31;Female;4;0
+Bachelors;2014;Bangalore;3;344;22;Male;0;0
+Masters;2017;New Delhi;2;696;22;Male;0;1
+Bachelors;2016;New Delhi;3;305;26;Female;4;0
+Bachelors;2017;New Delhi;3;436;28;Female;1;1
+Bachelors;2014;Bangalore;3;544;38;Male;5;0
+Masters;2015;Pune;3;565;31;Male;0;0
+Bachelors;2016;Bangalore;3;353;24;Male;2;0
+Bachelors;2015;Pune;2;636;25;Male;3;1
+PHD;2013;Bangalore;3;402;26;Male;4;0
+Bachelors;2017;Bangalore;3;332;40;Male;1;0
+Bachelors;2018;Pune;2;599;34;Female;4;1
+Bachelors;2016;Bangalore;3;420;32;Male;0;0
+Bachelors;2014;Pune;3;447;37;Male;1;0
+Bachelors;2015;Bangalore;3;396;33;Male;3;1
+Bachelors;2016;Pune;3;478;27;Male;5;0
+Bachelors;2012;New Delhi;3;444;36;Male;3;0
+Bachelors;2013;Bangalore;3;328;30;Female;4;0
+Masters;2017;Pune;2;637;26;Female;4;0
+Bachelors;2012;Bangalore;3;532;23;Male;1;0
+Masters;2015;Pune;2;761;31;Female;2;0
+Bachelors;2013;Bangalore;3;506;22;Male;0;0
+Masters;2017;New Delhi;2;762;24;Female;2;1
+Bachelors;2016;Bangalore;3;524;37;Female;4;0
+Masters;2018;New Delhi;3;450;35;Male;2;1
+Bachelors;2013;Bangalore;3;342;22;Male;0;1
+Bachelors;2012;Pune;3;508;35;Male;5;0
+Bachelors;2014;New Delhi;3;345;30;Female;3;0
+Bachelors;2014;Bangalore;3;518;30;Male;0;0
+Bachelors;2014;Pune;3;441;29;Male;3;0
+Masters;2017;Bangalore;3;437;36;Male;4;1
+Bachelors;2014;Bangalore;3;355;37;Male;4;0
+Bachelors;2016;Pune;3;360;40;Male;2;0
+Bachelors;2015;Pune;2;712;26;Female;4;1
+Masters;2017;New Delhi;2;564;26;Female;4;0
+Bachelors;2017;Bangalore;3;461;38;Male;3;0
+Bachelors;2014;Bangalore;3;402;31;Male;3;1
+Bachelors;2014;Bangalore;3;426;22;Female;0;0
+Bachelors;2012;Pune;3;531;34;Male;0;0
+Bachelors;2015;New Delhi;3;586;31;Female;0;0
+Bachelors;2012;Bangalore;3;325;39;Female;3;0
+Masters;2018;New Delhi;3;525;33;Female;2;1
+Bachelors;2015;Bangalore;3;317;33;Male;4;0
+Bachelors;2012;Bangalore;3;461;38;Male;4;0
+Bachelors;2017;Pune;2;531;22;Female;0;1
+Bachelors;2014;Pune;2;701;32;Female;0;1
+Bachelors;2014;Pune;3;339;34;Male;5;0
+Bachelors;2014;Bangalore;1;711;31;Female;5;0
+Bachelors;2016;Bangalore;3;431;23;Male;1;0
+Bachelors;2013;Pune;2;782;39;Female;1;1
+Bachelors;2017;New Delhi;3;390;26;Male;4;0
+Bachelors;2013;Pune;2;696;33;Female;4;1
+Bachelors;2013;Bangalore;3;493;27;Female;5;0
+PHD;2018;New Delhi;3;480;24;Male;2;1
+Bachelors;2017;Bangalore;3;471;38;Male;1;0
+Bachelors;2017;Bangalore;3;396;27;Male;5;0
+Bachelors;2014;Bangalore;3;413;27;Female;5;0
+Bachelors;2015;Bangalore;3;362;23;Male;1;0
+Bachelors;2014;New Delhi;3;502;26;Female;4;0
+Bachelors;2016;Bangalore;3;582;31;Male;5;0
+Bachelors;2017;Bangalore;3;440;32;Female;3;0
+Bachelors;2015;Pune;2;569;36;Female;3;1
+Bachelors;2017;Bangalore;3;518;28;Male;0;0
+Bachelors;2017;New Delhi;2;716;31;Male;3;0
+Masters;2017;New Delhi;2;639;36;Female;3;0
+Bachelors;2014;Bangalore;3;498;24;Male;2;0
+Bachelors;2012;Bangalore;3;425;27;Male;5;1
+Bachelors;2017;Bangalore;3;328;28;Male;3;1
+Bachelors;2015;Pune;3;553;39;Female;2;1
+Bachelors;2013;Bangalore;3;317;23;Female;1;0
+Bachelors;2014;Bangalore;3;365;32;Male;1;0
+Masters;2013;New Delhi;3;593;33;Female;2;0
+Bachelors;2017;New Delhi;3;554;39;Female;4;0
+Masters;2017;Bangalore;2;595;24;Female;2;0
+Bachelors;2016;Pune;3;564;33;Male;2;0
+Bachelors;2016;Pune;2;652;29;Female;4;1
+Masters;2017;Pune;3;421;24;Female;2;1
+Masters;2015;Pune;3;403;27;Female;5;1
+Masters;2013;New Delhi;2;555;35;Female;2;1
+Bachelors;2015;Pune;2;701;28;Female;2;1
+Bachelors;2016;Bangalore;3;401;22;Male;0;0
+Bachelors;2013;Bangalore;3;354;39;Male;5;1
+Bachelors;2014;Bangalore;3;341;36;Female;3;1
+Bachelors;2017;New Delhi;2;615;40;Female;3;0
+Bachelors;2012;New Delhi;3;399;35;Female;5;0
+Bachelors;2016;Bangalore;3;463;33;Male;4;0
+PHD;2018;Bangalore;3;360;33;Male;2;1
+Bachelors;2012;Bangalore;3;311;23;Male;1;0
+Bachelors;2014;Bangalore;3;319;28;Male;2;1
+Bachelors;2016;Bangalore;3;535;27;Male;5;0
+Bachelors;2017;Bangalore;3;396;26;Female;4;0
+Bachelors;2014;Bangalore;3;394;33;Male;3;0
+Bachelors;2016;Bangalore;3;537;35;Male;3;0
+Bachelors;2013;Bangalore;3;574;33;Male;3;1
+Bachelors;2013;Pune;3;571;36;Female;0;1
+Bachelors;2015;New Delhi;3;403;26;Male;4;0
+Bachelors;2012;Bangalore;3;482;26;Male;4;0
+Bachelors;2014;Bangalore;3;403;39;Female;5;0
+Bachelors;2013;Bangalore;3;513;28;Male;5;0
+Bachelors;2018;Bangalore;3;439;24;Male;2;1
+Bachelors;2012;Bangalore;3;372;36;Female;4;0
+Bachelors;2016;Bangalore;3;367;33;Male;0;0
+Bachelors;2013;Pune;1;883;33;Female;0;1
+Masters;2017;Pune;2;617;30;Male;2;1
+Masters;2012;New Delhi;3;388;27;Male;5;1
+Bachelors;2015;Bangalore;3;466;33;Male;4;0
+Bachelors;2016;Pune;2;640;35;Female;4;1
+Bachelors;2014;Pune;2;764;40;Female;0;1
+Bachelors;2017;Pune;2;538;25;Male;3;0
+Bachelors;2014;Bangalore;3;490;38;Male;2;0
+Bachelors;2017;New Delhi;2;794;40;Male;5;0
+Bachelors;2014;Bangalore;3;531;29;Male;0;0
+Bachelors;2012;Bangalore;3;552;27;Male;5;0
+Bachelors;2015;Bangalore;3;499;40;Male;4;0
+Masters;2017;New Delhi;2;537;25;Female;3;1
+Bachelors;2016;Pune;2;623;39;Female;3;1
+Bachelors;2017;New Delhi;2;723;22;Male;0;1
+PHD;2015;Pune;2;503;35;Female;0;0
+Bachelors;2012;Bangalore;3;387;25;Male;3;0
+Bachelors;2014;New Delhi;2;659;25;Female;3;1
+Bachelors;2015;Bangalore;3;550;29;Female;1;0
+Masters;2017;New Delhi;1;881;37;Male;0;0
+Bachelors;2014;Bangalore;3;338;35;Male;1;0
+Bachelors;2012;Bangalore;3;557;26;Male;4;0
+Masters;2018;New Delhi;3;347;26;Male;4;1
+Bachelors;2013;Bangalore;3;514;24;Male;2;0
+Bachelors;2014;Bangalore;3;348;31;Male;0;0
+Bachelors;2014;Bangalore;3;344;34;Male;5;0
+Masters;2018;New Delhi;3;351;27;Female;5;1
+Bachelors;2016;Pune;3;430;35;Male;1;0
+Bachelors;2017;Pune;3;471;27;Male;5;0
+Masters;2017;New Delhi;3;402;34;Male;1;1
+Bachelors;2018;Bangalore;3;313;40;Female;4;1
+Bachelors;2012;Pune;3;597;39;Male;4;0
+Bachelors;2013;Pune;1;740;39;Female;0;1
+Bachelors;2015;Bangalore;3;306;22;Male;0;1
+Masters;2017;Pune;2;665;33;Male;2;0
+Bachelors;2014;Bangalore;3;430;39;Male;0;0
+Bachelors;2017;Bangalore;3;331;39;Male;3;0
+Bachelors;2017;Bangalore;3;516;40;Female;3;0
+Bachelors;2014;Bangalore;3;413;38;Female;1;0
+Bachelors;2018;New Delhi;3;439;36;Female;2;1
+Bachelors;2013;Pune;2;588;37;Male;5;0
+Bachelors;2017;Pune;2;737;33;Female;2;1
+Bachelors;2013;Bangalore;3;309;37;Female;2;1
+Bachelors;2013;Pune;3;318;34;Male;5;0
+Bachelors;2015;Bangalore;3;583;28;Male;2;0
+Bachelors;2018;Bangalore;3;398;31;Male;0;1
+Masters;2012;New Delhi;3;301;37;Male;4;0
+Bachelors;2018;Pune;3;353;26;Male;4;1
+Masters;2014;New Delhi;3;567;34;Female;1;1
+Bachelors;2015;Pune;3;325;39;Male;1;0
+Bachelors;2017;Pune;2;579;23;Female;1;1
+Bachelors;2013;Bangalore;3;517;35;Female;4;0
+Bachelors;2015;Pune;3;564;25;Male;3;0
+Bachelors;2013;Pune;2;708;38;Male;0;1
+Masters;2017;New Delhi;1;831;23;Male;1;0
+Masters;2017;New Delhi;3;379;26;Male;4;1
+Masters;2018;New Delhi;3;584;33;Female;2;1
+Bachelors;2015;Pune;2;605;37;Female;4;1
+Bachelors;2013;Bangalore;3;577;35;Male;5;0
+Bachelors;2013;Bangalore;3;354;23;Female;1;0
+Bachelors;2013;Pune;3;584;31;Male;2;0
+Bachelors;2017;Bangalore;3;453;24;Male;2;0
+Bachelors;2015;Bangalore;3;394;28;Male;3;0
+Bachelors;2013;Pune;2;594;37;Female;0;1
+Bachelors;2012;Bangalore;3;584;36;Female;1;0
+Bachelors;2015;Bangalore;3;521;28;Male;1;1
+Bachelors;2017;New Delhi;2;523;30;Male;5;0
+Bachelors;2014;Bangalore;3;528;26;Male;4;0
+Masters;2015;Pune;2;602;29;Female;1;0
+Masters;2018;New Delhi;3;582;39;Female;2;1
+Bachelors;2013;Pune;2;568;36;Male;4;0
+Bachelors;2015;Pune;3;341;36;Male;3;0
+Bachelors;2012;Bangalore;3;340;22;Male;0;1
+Masters;2017;New Delhi;3;397;31;Male;2;0
+PHD;2017;New Delhi;3;470;29;Male;3;0
+Bachelors;2014;Pune;3;543;37;Female;4;1
+Bachelors;2012;Bangalore;3;579;24;Male;2;0
+Bachelors;2015;Pune;2;604;28;Female;2;1
+PHD;2016;New Delhi;3;402;22;Male;0;0
+Bachelors;2015;Bangalore;3;484;31;Male;2;1
+Bachelors;2013;Pune;2;575;28;Female;3;1
+Bachelors;2014;Bangalore;3;485;22;Female;0;0
+Bachelors;2016;Bangalore;3;580;23;Male;1;0
+Bachelors;2016;New Delhi;1;840;25;Female;3;0
+Bachelors;2013;Pune;1;850;23;Female;1;1
+Bachelors;2017;New Delhi;2;578;26;Female;4;0
+Bachelors;2015;Pune;2;685;22;Female;0;1
+Bachelors;2015;Bangalore;3;302;38;Female;2;0
+Bachelors;2017;Bangalore;3;480;25;Female;3;0
+Bachelors;2017;New Delhi;3;480;37;Female;1;1
+PHD;2012;New Delhi;3;536;30;Male;4;0
+Bachelors;2012;Bangalore;3;528;35;Female;2;0
+PHD;2014;Bangalore;3;563;23;Male;1;0
+Masters;2017;New Delhi;2;665;25;Female;3;0
+Bachelors;2015;Bangalore;3;537;39;Female;0;0
+PHD;2013;Pune;1;746;32;Female;0;1
+Bachelors;2015;Pune;3;369;28;Female;1;1
+Bachelors;2015;New Delhi;3;510;23;Female;1;0
+PHD;2014;Bangalore;1;900;34;Female;3;0
+Bachelors;2014;Bangalore;1;848;36;Female;1;0
+Bachelors;2017;Bangalore;3;383;40;Male;5;0
+Bachelors;2016;Bangalore;3;444;40;Male;3;0
+Bachelors;2015;Bangalore;3;523;25;Female;3;1
+Bachelors;2013;Bangalore;3;346;22;Male;0;1
+Bachelors;2015;Bangalore;3;341;34;Male;4;0
+Bachelors;2017;Bangalore;3;536;23;Male;1;0
+Bachelors;2017;Bangalore;3;574;24;Female;2;0
+Bachelors;2015;Bangalore;1;768;35;Male;3;0
+Bachelors;2014;Bangalore;3;570;24;Male;2;0
+Bachelors;2017;Pune;3;361;28;Male;3;0
+Masters;2017;New Delhi;2;646;39;Female;4;0
+PHD;2017;New Delhi;3;448;31;Female;5;0
+Bachelors;2014;Bangalore;3;422;32;Male;2;0
+Bachelors;2017;New Delhi;2;647;37;Female;3;0
+Bachelors;2014;Pune;1;758;22;Female;0;1
+Bachelors;2015;Bangalore;3;584;32;Female;4;0
+Bachelors;2016;Bangalore;3;389;37;Male;2;0
+Bachelors;2014;Bangalore;3;502;36;Male;3;0
+Bachelors;2013;Pune;3;392;24;Male;2;0
+Masters;2017;New Delhi;3;531;40;Male;2;0
+Bachelors;2014;Bangalore;3;379;39;Male;3;0
+Bachelors;2013;Bangalore;3;552;24;Male;2;0
+Bachelors;2016;Bangalore;3;539;25;Male;3;0
+Bachelors;2018;Bangalore;3;357;26;Male;4;1
+Bachelors;2017;New Delhi;2;714;33;Male;3;0
+Bachelors;2016;Pune;3;507;36;Male;3;0
+Bachelors;2015;Pune;1;849;39;Male;1;1
+Bachelors;2014;Bangalore;3;301;34;Male;4;0
+Bachelors;2014;New Delhi;2;665;23;Female;1;1
+Bachelors;2014;Pune;1;880;33;Female;2;1
+Bachelors;2013;Bangalore;3;483;31;Male;3;0
+Bachelors;2015;Bangalore;3;424;39;Female;0;0
+Bachelors;2017;Bangalore;3;438;36;Male;4;1
+Bachelors;2015;Bangalore;3;562;28;Male;1;0
+Bachelors;2013;New Delhi;3;306;28;Female;0;1
+Masters;2017;New Delhi;2;664;24;Male;2;1
+Bachelors;2013;Bangalore;3;463;36;Female;0;1
+Bachelors;2014;Bangalore;3;393;30;Male;1;1
+Bachelors;2018;New Delhi;3;594;27;Female;5;1
+Bachelors;2012;Bangalore;3;587;25;Male;3;0
+Bachelors;2018;Bangalore;3;564;31;Male;0;1
+Bachelors;2013;Bangalore;3;417;36;Male;0;0
+Bachelors;2017;New Delhi;2;654;31;Male;1;0
+Bachelors;2016;Bangalore;3;514;37;Male;2;0
+Bachelors;2015;Bangalore;3;448;39;Male;2;0
+Bachelors;2014;Bangalore;3;513;28;Male;4;0
+Bachelors;2015;Pune;2;568;38;Male;2;1
+Masters;2017;New Delhi;3;429;40;Female;1;0
+Masters;2015;Bangalore;3;594;38;Female;1;0
+PHD;2014;New Delhi;3;338;23;Male;1;0
+Bachelors;2015;Bangalore;3;562;39;Male;2;0
+Bachelors;2014;Pune;1;796;22;Female;0;1
+Bachelors;2015;Pune;3;579;24;Female;2;1
+Masters;2014;New Delhi;3;328;24;Male;2;0
+Bachelors;2012;Bangalore;3;311;23;Female;1;1
+Bachelors;2014;Bangalore;3;510;30;Male;4;0
+Bachelors;2016;New Delhi;3;513;25;Female;3;0
+Bachelors;2013;Bangalore;3;572;34;Male;4;0
+Masters;2015;New Delhi;3;512;40;Female;5;0
+Bachelors;2012;Bangalore;3;369;39;Female;1;0
+Masters;2017;New Delhi;3;436;38;Female;2;1
+Bachelors;2016;Pune;3;581;38;Male;2;0
+Bachelors;2015;Pune;2;615;38;Female;4;1
+Bachelors;2015;Bangalore;3;542;31;Male;5;0
+Bachelors;2017;Pune;1;711;30;Male;4;0
+PHD;2013;Bangalore;3;346;24;Male;2;0
+Bachelors;2017;Bangalore;3;489;38;Male;3;0
+Bachelors;2013;Pune;3;450;37;Male;3;0
+Bachelors;2016;Bangalore;3;421;22;Male;0;0
+PHD;2012;Bangalore;3;561;30;Female;4;0
+Bachelors;2013;Bangalore;3;537;39;Female;5;0
+Bachelors;2017;Bangalore;2;764;35;Male;0;0
+Bachelors;2012;Pune;3;305;25;Female;3;1
+Bachelors;2018;Bangalore;3;450;32;Male;1;1
+Bachelors;2018;Bangalore;3;396;31;Female;2;1
+Bachelors;2016;Bangalore;3;419;37;Male;2;0
+Bachelors;2016;New Delhi;1;819;38;Female;2;1
+Bachelors;2014;Bangalore;3;406;22;Female;0;0
+Masters;2014;New Delhi;3;584;37;Female;0;1
+Bachelors;2018;Bangalore;3;307;32;Male;2;1
+Bachelors;2013;Bangalore;3;507;26;Male;4;0
+Bachelors;2017;Bangalore;3;499;28;Male;0;1
+Bachelors;2015;Bangalore;3;517;35;Male;0;0
+Bachelors;2016;Bangalore;1;700;33;Female;0;1
+Bachelors;2012;Bangalore;3;377;36;Female;4;0
+Bachelors;2013;Bangalore;3;446;31;Female;5;0
+Bachelors;2015;Pune;3;330;32;Female;1;1
+Masters;2017;Pune;2;634;31;Female;2;0
+Bachelors;2013;Bangalore;3;533;25;Female;3;0
+Bachelors;2016;Pune;3;524;30;Male;2;0
+Bachelors;2013;Bangalore;3;417;26;Female;4;0
+Masters;2013;Pune;2;573;37;Male;2;1
+Masters;2018;New Delhi;3;439;27;Male;5;1
+Bachelors;2012;Bangalore;3;411;30;Male;2;0
+Bachelors;2015;Bangalore;3;381;33;Male;4;0
